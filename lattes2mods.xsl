@@ -29,12 +29,10 @@ Mountain View, California, 94041, USA.
   </xsl:template>
 
   <xsl:template match="CURRICULO-VITAE">
-    <xsl:apply-templates select="PRODUCAO-BIBLIOGRAFICA|OUTRA-PRODUCAO|DADOS-GERAIS" />
+    <xsl:apply-templates select="PRODUCAO-BIBLIOGRAFICA|PRODUCAO-TECNICA|OUTRA-PRODUCAO|DADOS-GERAIS" />
   </xsl:template>
 
-  <xsl:template match="OUTRA-PRODUCAO|PRODUCAO-BIBLIOGRAFICA|TRABALHOS-EM-EVENTOS|ARTIGOS-PUBLICADOS|LIVROS-E-CAPITULOS|
-		       LIVROS-PUBLICADOS-OU-ORGANIZADOS|CAPITULOS-DE-LIVROS-PUBLICADOS|TEXTOS-EM-JORNAIS-OU-REVISTAS|
-		       DADOS-GERAIS|FORMACAO-ACADEMICA-TITULACAO">
+  <xsl:template match="*" >
     <xsl:apply-templates />
 	<!-- <xsl:apply-templates select="DADOS-BASICOS-DO-ARTIGO/@HOME-PAGE-DO-TRABALHO"/>
 	<xsl:apply-templates select="DADOS-BASICOS-DO-ARTIGO/@DOI"/> -->
@@ -57,11 +55,11 @@ Mountain View, California, 94041, USA.
   <xsl:template match="TRABALHO-EM-EVENTOS">
     <mods:mods ID="publication-{@SEQUENCIA-PRODUCAO}">
       <mods:titleInfo>
-	<mods:title> <xsl:value-of select="DADOS-BASICOS-DO-ARTIGO/@TITULO-DO-TRABALHO" /> </mods:title>
+	<mods:title> <xsl:value-of select="DADOS-BASICOS-DO-TRABALHO/@TITULO-DO-TRABALHO" /> </mods:title>
       </mods:titleInfo>
 
       <mods:originInfo>
-	<mods:dateIssued> <xsl:value-of select="DADOS-BASICOS-DO-ARTIGO/@ANO-DO-TRABALHO" /> </mods:dateIssued>
+	<mods:dateIssued> <xsl:value-of select="DADOS-BASICOS-DO-TRABALHO/@ANO-DO-TRABALHO" /> </mods:dateIssued>
       </mods:originInfo>
 
       <xsl:for-each select="AUTORES">
@@ -78,7 +76,7 @@ Mountain View, California, 94041, USA.
 
       <mods:relatedItem type="host">
 	<mods:titleInfo>
-	  <mods:title> <xsl:value-of select="DETALHAMENTO-DO-TRABALHO/@TITULO-DOS-ANAIS-OU-PROCEEDINGS"/> </mods:title>
+	  <mods:title> <xsl:value-of select="DETALHAMENTO-DO-TRABALHO/@NOME-DO-EVENTO"/> </mods:title>
 	</mods:titleInfo>
 
 	<mods:originInfo>
@@ -86,9 +84,9 @@ Mountain View, California, 94041, USA.
 	  <xsl:if test="string-length(DETALHAMENTO-DO-TRABALHO/@NOME-DA-EDITORA)>0">
 	    <mods:publisher> <xsl:value-of select="DETALHAMENTO-DO-TRABALHO/@NOME-DA-EDITORA" /> </mods:publisher>
 	  </xsl:if>
-	  <xsl:if test="string-length(DETALHAMENTO-DO-TRABALHO/@CIDADE-DA-EDITORA)>0">
+	  <xsl:if test="string-length(DETALHAMENTO-DO-TRABALHO/@CIDADE-DO-EVENTO)>0">
 	    <mods:place>
-	      <mods:placeTerm type="text"> <xsl:value-of select="DETALHAMENTO-DO-TRABALHO/@CIDADE-DA-EDITORA" /> </mods:placeTerm>
+	      <mods:placeTerm type="text"> <xsl:value-of select="DETALHAMENTO-DO-TRABALHO/@CIDADE-DO-EVENTO" /> </mods:placeTerm>
 	    </mods:place>
 	  </xsl:if>
 	</mods:originInfo>
@@ -103,7 +101,6 @@ Mountain View, California, 94041, USA.
       <!-- <xsl:apply-templates select="AREAS-DO-CONHECIMENTO"/> -->
     </mods:mods>
   </xsl:template>
-
 
   <xsl:template match="TEXTO-EM-JORNAL-OU-REVISTA">
     <mods:mods ID="publication-{@SEQUENCIA-PRODUCAO}">
@@ -154,17 +151,58 @@ Mountain View, California, 94041, USA.
 	<mods:originInfo>
 	  <mods:issuance>continuing</mods:issuance>
 	</mods:originInfo>
-	<mods:genre authority="marcgt">periodical</mods:genre>
+	<mods:genre authority="marcgt">misc</mods:genre>
 	<mods:genre>magazine or newspaper</mods:genre>
 	<xsl:apply-templates select="DETALHAMENTO-DO-ARTIGO/@ISSN"/> 
       </mods:relatedItem>
 
       <xsl:apply-templates select="DADOS-BASICOS-DO-TEXTO/@IDIOMA"/>
       <xsl:apply-templates select="DADOS-BASICOS-DO-TEXTO/@HOME-PAGE-DO-TRABALHO"/>
-      <xsl:apply-templates select="DADOS-BASICOS-DO-TEXTO/@DOI"/>
-	  <xsl:apply-templates select="DADOS-BASICOS-DO-ARTIGO/@HOME-PAGE-DO-TRABALHO"/>
-      <xsl:apply-templates select="DADOS-BASICOS-DO-ARTIGO/@DOI"/>
-      <!-- <xsl:apply-templates select="AREAS-DO-CONHECIMENTO"/> -->
+      
+    </mods:mods>
+  </xsl:template>
+
+  <xsl:template match="PROGRAMA-DE-RADIO-OU-TV ">
+    <mods:mods ID="publication-{@SEQUENCIA-PRODUCAO}">
+      <mods:titleInfo>
+		<mods:title> <xsl:value-of select="DADOS-BASICOS-DO-PROGRAMA-DE-RADIO-OU-TV/@TITULO" /> </mods:title>
+      </mods:titleInfo>
+      <xsl:if test="normalize-space(@TITULO-INGLES) != ''">
+	<mods:titleInfo type="translated">
+	  <mods:title lang="en"><xsl:value-of select="DADOS-BASICOS-DO-PROGRAMA-DE-RADIO-OU-TV/@TITULO-INGLES" /> </mods:title>
+	</mods:titleInfo>
+      </xsl:if>
+
+      <xsl:for-each select="AUTORES">
+		<xsl:sort data-type="number" select="@ORDEM-DE-AUTORIA"/>
+			<mods:name type="personal">
+				<mods:namePart> <xsl:value-of select="@NOME-COMPLETO-DO-AUTOR"/> </mods:namePart>
+				<mods:role>
+					<mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+				</mods:role>
+			</mods:name>
+      </xsl:for-each>
+
+      <mods:originInfo>
+		<mods:dateIssued> <xsl:value-of select="DADOS-BASICOS-DO-PROGRAMA-DE-RADIO-OU-TV/@ANO" /> </mods:dateIssued>
+			<xsl:if test="normalize-space(DETALHAMENTO-DO-PROGRAMA-DE-RADIO-OU-TV/@DATA-DA-APRESENTACAO) != ''">
+	  			<mods:dateIssued><xsl:value-of select="DETALHAMENTO-DO-PROGRAMA-DE-RADIO-OU-TV/@DATA-DA-APRESENTACAO"/> </mods:dateIssued>
+			</xsl:if>
+      </mods:originInfo>
+
+      <mods:relatedItem type="host">
+		<mods:titleInfo> 
+	  		<mods:title> <xsl:value-of select="DADOS-BASICOS-DO-PROGRAMA-DE-RADIO-OU-TV/@TITULO"/> </mods:title>
+		</mods:titleInfo>
+		<mods:originInfo>
+	  		<mods:issuance>continuing</mods:issuance>
+		</mods:originInfo>
+		<mods:genre authority="marcgt">sound</mods:genre>
+		<mods:genre>radioBroadcast</mods:genre>
+      </mods:relatedItem>
+
+      <xsl:apply-templates select="DADOS-BASICOS-DO-PROGRAMA-DE-RADIO-OU-TV/@IDIOMA"/>
+      <xsl:apply-templates select="DADOS-BASICOS-DO-PROGRAMA-DE-RADIO-OU-TV/@HOME-PAGE"/>
     </mods:mods>
   </xsl:template>
 
@@ -534,16 +572,17 @@ Mountain View, California, 94041, USA.
   <xsl:template match="@HOME-PAGE|@HOME-PAGE-DO-TRABALHO">
     <xsl:if test="normalize-space(.) != ''">
       <mods:location>
-	<mods:url displayLabel="electronic full text" access="raw object">
-	  <xsl:choose>
-	    <xsl:when test="starts-with(.,'[')">
-	      <xsl:value-of select="substring(.,2,string-length(.)-2)"/>
-	    </xsl:when>
-	    <xsl:otherwise>
-	      <xsl:value-of select="."/>
-	    </xsl:otherwise>
-	  </xsl:choose>
-	</mods:url>
+	<!-- <mods:url displayLabel="electronic full text" access="raw object"> -->
+		<mods:url usage="primary display" displayLabel="electronic full text">
+			<xsl:choose>
+				<xsl:when test="starts-with(.,'[')">
+				<xsl:value-of select="substring(.,2,string-length(.)-2)"/>
+				</xsl:when>
+				<xsl:otherwise>
+				<xsl:value-of select="."/>
+				</xsl:otherwise>
+			</xsl:choose>
+		</mods:url>
       </mods:location>
     </xsl:if>
   </xsl:template>

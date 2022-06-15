@@ -68,10 +68,10 @@
   </mods:mods>
   <mods:mods ID="publication-3">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Segmentação multitemporal de imagens em áreas agrícolas</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
@@ -94,20 +94,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do X Simpósio Brasileiro de Sensoriamento Remoto</mods:title>
+        <mods:title>X Simpósio Brasileiro de Sensoriamento Remoto</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Foz do Iguaçu</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-4">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Comportamento espectral associado a parâmetros agronômicos de soja (Glycine max) e feijão (Phaseolus vulgaris)</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Alfredo José Barreto Luiz</mods:namePart>
@@ -136,20 +139,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do X Simpósio Brasileiro de Sensoriamento Remoto</mods:title>
+        <mods:title>X Simpósio Brasileiro de Sensoriamento Remoto</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Foz do Iguaçu</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-5">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Planejamento e Realidade: Aptidão Agrícola Versus Uso da Terra no Estado de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>José Marinaldo Gleriani</mods:namePart>
@@ -178,20 +184,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do X Simpósio Brasileiro de Sensoriamento Remoto</mods:title>
+        <mods:title>X Simpósio Brasileiro de Sensoriamento Remoto</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Foz do Iguaçu</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-6">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Effects of NDF and rumen degradable starch ration on performance of early pospartum dairy cows</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1996</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Luiz Gustavo Nussio</mods:namePart>
@@ -256,20 +265,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Proceedings of the 91 Annual Meeting ADSA</mods:title>
+        <mods:title>91 Annual Meeting ADSA</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Corvallis</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-7">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Effects of coccidiostats on performance and coccidia control on Holstein calves</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1996</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Carla B. Nussio</mods:namePart>
@@ -316,20 +328,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Proceedings of 91 annual meeting ADSA</mods:title>
+        <mods:title>91 Annual Meeting ADSA</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Corvallis</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-8">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Effects of NDF and rumen degradable starch ratio on performance of mid lactation dairy cows</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1996</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Luiz Gustavo Nussio</mods:namePart>
@@ -394,20 +409,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Proceedings of the 91 Annual Meeting of ADSA</mods:title>
+        <mods:title>91 Annual Meeting American Dairy Science Association</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Oregon</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-14">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Roteirização em Bancos de Alimentos: utilização de um modelo heurístico baseado em</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2006</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
@@ -418,20 +436,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais da ANPET, 2006</mods:title>
+        <mods:title>Congresso de Pesquisa e Ensino em Transportes</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Brasília</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-15">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Sistema de Información Geográfica Web con informaciones espaciales de input y output para expediciones</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Daniel Gorni</mods:namePart>
@@ -470,16 +491,19 @@
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Girona</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-16">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Geographic information services composition based on ontologies: modeling an application to the Food Bank´s</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2009</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
@@ -502,20 +526,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Conference on Spatial Information Theory, COSIT 2009, PhD Colloquium</mods:title>
+        <mods:title>Conference on Spatial Information Theory</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Aber Wrac´h</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-22">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Localização de depósito de suprimentos de alívio para atendimento a desastres naturais no Vale do Paraíba Paulista</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2010</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Erica de Oliveira Barbosa</mods:namePart>
@@ -544,20 +571,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais dos Congressos da ANPET</mods:title>
+        <mods:title>XXIV ANPET - Congresso de Pesquisa e Ensino em Transportes</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Salvador</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-31">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Proposta de Aplicação de PBL nos Cursos de Engenharia.</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2008</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
@@ -586,20 +616,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do XXXVI Congresso Brasileiro de Educação em Engenharia</mods:title>
+        <mods:title>Congresso Brasileiro de Educação em Engenharia</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-38">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Transportation system and land price: an investigation about its relationship based on spatial analysis</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2013</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Claudia Almeida Soares Machado</mods:namePart>
@@ -640,20 +673,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais da 13a. Conferência International da LARES - Latin American Real Estate Socitey</mods:title>
+        <mods:title>13a. Conferência International da LARES - Latin American Real Estate Socitey</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-39">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Hazard areas land cover change between 1986 and 2010 in Sao Paulo City, Brazil</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2013</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Luiz Augusto Manfre</mods:namePart>
@@ -688,20 +724,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais da 13a. Conferência International da LARES - Latin American Real Estate Socitey</mods:title>
+        <mods:title>13a. Conferência International da LARES - Latin American Real Estate Socitey</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-41">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Characterizing urban land use pattern by variograms parameters from multispectral high spatial resolution satllite images: an application in Salvador, Bahia - Brazil.</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2013</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Daniele Barros</mods:namePart>
@@ -754,20 +793,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Proceedings of IGARSS 2013</mods:title>
+        <mods:title>IGARSS 2013 - Int. Geoscience and Remote Sensing Symposium</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Melbourne</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-57">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Active Learning classification and change detection on multispectral images.</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2014</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Kiran Mantripragada</mods:namePart>
@@ -790,20 +832,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Proceedings of International Conference on Industrial Informatics</mods:title>
+        <mods:title>International Conference on Industrial Informatics</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Porto Alegre</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-58">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Estimates of forest degradation: an algorithm based on active learning, maximum likelihood and PCA for change detection.</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2014</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Kiran Mantripragada</mods:namePart>
@@ -826,20 +871,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Proc. International Geoscience and Remote Sensing Symposium</mods:title>
+        <mods:title>IGARSS 2014 - International Geoscience and Remote Sensing Symposium</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Quebec</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-73">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Primeiros passos para a implementação de uma IDE universitária</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2014</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Patrícia Lustosa Brito</mods:namePart>
@@ -868,20 +916,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do V Simpósio brasileiro de ciências geodésicas e tecnologias da geoinformação</mods:title>
+        <mods:title>V Simpósio Brasileiro de Ciências Geodésicas e Tecnologias da Geoinformação</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Recife</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-80">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Seleção de áreas adequadas para a instalação de aterro sanitário utilizando SIG e análise multicritério - estudo de caso: UGRHI 5 (Piracicaba/Capivari/Jundiaí)</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2015</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Luciana Maria Gasparelo Spigolon</mods:namePart>
@@ -922,20 +973,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais XVII Simpósio Brasileiro de Sensoriamento Remoto - SBSR</mods:title>
+        <mods:title>SBSR - XVII Simpósio Brasileiro de Sensoriamento Remoto</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">João Pessoa</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-81">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Análise das mudanças temporais de cobertura da terra na região portuária da Baixada Santista-SP e a proposição de modelos de dinâmica espacial</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2015</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Renata Sayuri Kawashima</mods:namePart>
@@ -964,20 +1018,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais XVII Simpósio Brasileiro de Sensoriamento Remoto - SBSR,</mods:title>
+        <mods:title>Simpósio Brasileiro de Sensoriamento Remoto - SBSR,</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">João Pessoa</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-112">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>The negative externalities of the transportation system in megacities influenced by the industrial and comercial establishments and the urban freights flows.</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2015</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Diego Bogado Tomasiello</mods:namePart>
@@ -1012,20 +1069,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Proceedings of CUPUM</mods:title>
+        <mods:title>CUPUM - 14th International Conference on Computers in Urban Planning and Urban Management</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Cambridge</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-117">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Comparing accessibility in urban slums using smart card and bus GPS data</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2016</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Renato Arbex</mods:namePart>
@@ -1052,16 +1112,19 @@
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Washington</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-120">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Accessibility and flood risk spatial indicators as measures of vulnerability</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2016</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Juliana Siqueira Gay</mods:namePart>
@@ -1084,10 +1147,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Proceedings of GeoInfo</mods:title>
+        <mods:title>GEOINFO - XVII Brazilian Symposium on Geoinformatics</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Campos de Jordão</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
       <mods:identifier type="isbn">2179-4820</mods:identifier>
@@ -1095,10 +1161,10 @@
   </mods:mods>
   <mods:mods ID="publication-121">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Análise e visualização de dados de rastreamento para estudos de logística urbana</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2016</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Patricia Faias Laranjeiro de Andrade</mods:namePart>
@@ -1133,10 +1199,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do XXX ANPET - Congresso de Pesquisa e Ensino em Transportes</mods:title>
+        <mods:title>XXX ANPET - Congresso de Pesquisa e Ensino em Transportes</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Rio de Janeiro</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
       <mods:identifier type="isbn">97885878932</mods:identifier>
@@ -1144,10 +1213,10 @@
   </mods:mods>
   <mods:mods ID="publication-149">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Geostatistics as a tool to map the spatio-temporal evolution of car ownership in São Paulo metropolitan area</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2017</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Henrique de Moraes Takafuji</mods:namePart>
@@ -1182,10 +1251,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do XVIII Simpósio Brasileiro de Sensoriamento Remoto -SBSR</mods:title>
+        <mods:title>SBSR - XVIII Simpósio Brasileiro de Sensoriamento Remoto</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Santos</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
       <mods:identifier type="isbn">978-85-17-000</mods:identifier>
@@ -1193,10 +1265,10 @@
   </mods:mods>
   <mods:mods ID="publication-150">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Learning spatial inequalities: a clustering approach</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2017</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Juliana Siqueira Gay</mods:namePart>
@@ -1219,10 +1291,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Proceedings of GeoInfo</mods:title>
+        <mods:title>GEOINFO - XVIII Brazilian Symposium on Geoinformatics</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Salvador</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
       <mods:identifier type="isbn">2179-4847</mods:identifier>
@@ -1230,10 +1305,10 @@
   </mods:mods>
   <mods:mods ID="publication-151">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>SIG e impactos cumulativos sobre a biodiversidade no contexto sucroenergético paulista</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2016</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Ana Paula Alves Dibo</mods:namePart>
@@ -1262,10 +1337,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do 3° Congresso Brasileiro de Avaliação de Impacto</mods:title>
+        <mods:title>CBAI - 3° Congresso Brasileiro de Avaliação de Impactos</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Ribeirão Preto</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
       <mods:identifier type="isbn">2446-5097</mods:identifier>
@@ -1273,10 +1351,10 @@
   </mods:mods>
   <mods:mods ID="publication-152">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Does mine land rehabilitation restore ecosystem services?</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2016</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Josianne C. S. Rosa</mods:namePart>
@@ -1299,20 +1377,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>24th World Mining Congress PROCEEDINGS</mods:title>
+        <mods:title>24th World Mining Congress: Mining in a world of innovation</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Rio de Janeiro</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-182">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Investigating the mobility capabilities and functionings of children and their caregivers: a quantitative assessment of preschools in são paulo (brazil), with focus on walking and the right to the city.</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2018</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Mateus Humberto</mods:namePart>
@@ -1341,20 +1422,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Proceedings of Annual conference of the Human Development and Capability Association</mods:title>
+        <mods:title>Annual conference of the Human Development and Capability Association</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Buenos Aires</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-216">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Impactos potenciais de habitações de interesse social nas desigualdades de acessibilidade a empregos no município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2019</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Diego Bogado Tomasiello</mods:namePart>
@@ -1377,20 +1461,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Proceedings XX GEOINFO</mods:title>
+        <mods:title>XX GEOINFO</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">São José dos Campos</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-291">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Exclusão Social Relacionada aos Transportes: A Acessibilidade é um Fator Relevante para a Inclusão Social?</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2020</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Gregório Costa Luz de Souza Lima</mods:namePart>
@@ -1419,20 +1506,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do 34o Congresso da ANPET - Associação Nacional de Ensino e Pesquisa em Transportes</mods:title>
+        <mods:title>34o Congresso da ANPET - Associação Nacional de Ensino e Pesquisa em Transportes</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">À distância</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-292">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Travel survey tools and methods: challenges on surveys at slums.</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2017</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Bruna Pizzol</mods:namePart>
@@ -1473,20 +1563,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>11th International Conference on Transport Survey Methods</mods:title>
+        <mods:title>11th International Conference on Transport Survey Methods ISCTSC</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Quebeq</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-113">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Spatial visualization of job inaccessibility to identify transport related social exclusion</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2015</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Pedro da Cunha Logiodice</mods:namePart>
@@ -1515,10 +1608,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Proceedings of GeoInfo</mods:title>
+        <mods:title>GEOINFO - XVI Brazilian Symposium on Geoinformatics</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Campos de Jordão</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
@@ -1595,7 +1691,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P17</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.mdpi.com/2220-9964/1/2/166</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.mdpi.com/2220-9964/1/2/166</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.3390/ijgi1020166</mods:identifier>
   </mods:mods>
@@ -1656,7 +1752,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P29</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://dx.doi.org/10.4136/ambi-agua.774][doi:10.4136/ambi-agua.774</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://dx.doi.org/10.4136/ambi-agua.774][doi:10.4136/ambi-agua.774</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.4136/ambi-agua.774</mods:identifier>
   </mods:mods>
@@ -1702,7 +1798,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P33</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.7154/rdg.2012.0112.0010</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.7154/rdg.2012.0112.0010</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.7154/rdg.2012.0112.0010</mods:identifier>
   </mods:mods>
@@ -1820,7 +1916,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P37</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.lsie.unb.br/rbc/index.php/rbc/article/view/758</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.lsie.unb.br/rbc/index.php/rbc/article/view/758</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-49">
@@ -1895,7 +1991,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P49</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1016/j.apgeog.2014.06.022</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1016/j.apgeog.2014.06.022</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.apgeog.2014.06.022</mods:identifier>
   </mods:mods>
@@ -2095,7 +2191,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P74</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.mdpi.com/2220-9964/4/2/858</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.mdpi.com/2220-9964/4/2/858</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.3390/ijgi4020858</mods:identifier>
   </mods:mods>
@@ -2150,7 +2246,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P76</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://onlinelibrary.wiley.com/doi/10.1111/jfr3.12181/abstract</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://onlinelibrary.wiley.com/doi/10.1111/jfr3.12181/abstract</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1111/jfr3.12181</mods:identifier>
   </mods:mods>
@@ -2208,7 +2304,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P83</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://download.springer.com/static/pdf/796/art%253A10.1007%252Fs10708-015-9680-0.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10708-015-9680-0&amp;token2=exp=1450187420~acl=%2Fstatic%2Fpdf%2F796%2Fart%25253A10.1007%25252Fs10708-01][doi:10.1007/s10708-015-9680-0</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://download.springer.com/static/pdf/796/art%253A10.1007%252Fs10708-015-9680-0.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10708-015-9680-0&amp;token2=exp=1450187420~acl=%2Fstatic%2Fpdf%2F796%2Fart%25253A10.1007%25252Fs10708-01][doi:10.1007/s10708-015-9680-0</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1007/s10708-015-9680-0</mods:identifier>
   </mods:mods>
@@ -2269,7 +2365,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P84</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.transport-literature.org/editions/jtl-v9n3a03.pdf][doi:10.1590/2238-1031.jtl.v9n3a3</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.transport-literature.org/editions/jtl-v9n3a03.pdf][doi:10.1590/2238-1031.jtl.v9n3a3</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1590/2238-1031.jtl.v9n3a3</mods:identifier>
   </mods:mods>
@@ -2326,7 +2422,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P96</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.icevirtuallibrary.com/doi/abs/10.1680/jurdp.15.00006</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.icevirtuallibrary.com/doi/abs/10.1680/jurdp.15.00006</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-116">
@@ -2383,7 +2479,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P116</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.scielo.br/pdf/bcg/v22n4/1982-2170-bcg-22-04-00703.pdf</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.scielo.br/pdf/bcg/v22n4/1982-2170-bcg-22-04-00703.pdf</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1590/s1982-21702016000400040</mods:identifier>
   </mods:mods>
@@ -2450,7 +2546,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P119</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.lsie.unb.br/rbc/index.php?journal=rbc&amp;page=article&amp;op=view&amp;path%5B%5D=1674&amp;path%5B%5D=960</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.lsie.unb.br/rbc/index.php?journal=rbc&amp;page=article&amp;op=view&amp;path%5B%5D=1674&amp;path%5B%5D=960</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-135">
@@ -2516,7 +2612,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P135</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://www.revistatransportes.org.br/anpet/article/view/1353</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://www.revistatransportes.org.br/anpet/article/view/1353</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.14295/transportes.v25i3.1353</mods:identifier>
   </mods:mods>
@@ -2568,7 +2664,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P137</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.revistageas.org.br/ojs/index.php/geas/article/view/902/pdf</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.revistageas.org.br/ojs/index.php/geas/article/view/902/pdf</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.5585/geas.v6i2.902</mods:identifier>
   </mods:mods>
@@ -2679,7 +2775,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P139</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.lsie.unb.br/rbc/index.php/rbc/article/view/1986</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.lsie.unb.br/rbc/index.php/rbc/article/view/1986</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-140">
@@ -2748,7 +2844,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P140</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.lsie.unb.br/rbc/index.php/rbc/article/view/1156</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.lsie.unb.br/rbc/index.php/rbc/article/view/1156</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-167">
@@ -2814,7 +2910,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P167</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://journals.sagepub.com/doi/full/10.1177/0734242X18773538</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://journals.sagepub.com/doi/full/10.1177/0734242X18773538</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1177/0734242x18773538</mods:identifier>
   </mods:mods>
@@ -2939,7 +3035,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P179</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12513</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12513</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1111/tgis.12513</mods:identifier>
   </mods:mods>
@@ -2996,7 +3092,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P183</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://files.antp.org.br/2018/12/7/rtp150-4.pdf</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://files.antp.org.br/2018/12/7/rtp150-4.pdf</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-201">
@@ -3056,7 +3152,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P201</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://transportfindings.org/article/7412-an-international-comparison-of-equity-in-accessibility-to-jobs-london-sao-paulo-and-the-randstad][doi:10.32866/7412</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://transportfindings.org/article/7412-an-international-comparison-of-equity-in-accessibility-to-jobs-london-sao-paulo-and-the-randstad][doi:10.32866/7412</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.32866/7412</mods:identifier>
   </mods:mods>
@@ -3187,7 +3283,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P203</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1016/j.jtrangeo.2019.03.003</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1016/j.jtrangeo.2019.03.003</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.jtrangeo.2019.03.003</mods:identifier>
   </mods:mods>
@@ -3251,7 +3347,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P204</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1016/j.jtrangeo.2019.06.003</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1016/j.jtrangeo.2019.06.003</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.jtrangeo.2019.06.003</mods:identifier>
   </mods:mods>
@@ -3302,7 +3398,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P205</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1016/j.jclepro.2019.117732</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1016/j.jclepro.2019.117732</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.jclepro.2019.117732</mods:identifier>
   </mods:mods>
@@ -3414,7 +3510,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P207</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://www.sciencedirect.com/science/article/pii/S2215016119302237][doi:10.1016/j.mex.2019.08.018</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://www.sciencedirect.com/science/article/pii/S2215016119302237][doi:10.1016/j.mex.2019.08.018</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.mex.2019.08.018</mods:identifier>
   </mods:mods>
@@ -3481,7 +3577,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P244</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://www.tandfonline.com/doi/full/10.1080/19452829.2020.1745163?casa_token=iBGcyrusNCYAAAAA%3AtPsUhH0dFDVjVuxJpf__hXtGd4CSCn1Gm_e365gQNURygsluKVBnzQJOcpadsB_6pwSSVXN3o077JQ][doi:10.1080/19452829.2020.1745163</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://www.tandfonline.com/doi/full/10.1080/19452829.2020.1745163?casa_token=iBGcyrusNCYAAAAA%3AtPsUhH0dFDVjVuxJpf__hXtGd4CSCn1Gm_e365gQNURygsluKVBnzQJOcpadsB_6pwSSVXN3o077JQ][doi:10.1080/19452829.2020.1745163</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1080/19452829.2020.1745163</mods:identifier>
   </mods:mods>
@@ -3550,7 +3646,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P245</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1016/j.jtrangeo.2020.102767</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1016/j.jtrangeo.2020.102767</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.jtrangeo.2020.102767</mods:identifier>
   </mods:mods>
@@ -3601,7 +3697,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P246</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://www.sciencedirect.com/science/article/pii/S0264837719317211</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://www.sciencedirect.com/science/article/pii/S0264837719317211</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.landusepol.2020.104992</mods:identifier>
   </mods:mods>
@@ -3652,7 +3748,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P265</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1177/2399808320958426</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1177/2399808320958426</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1177/2399808320958426</mods:identifier>
   </mods:mods>
@@ -3704,7 +3800,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P267</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1016/j.cities.2018.11.010</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1016/j.cities.2018.11.010</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.cities.2018.11.010</mods:identifier>
   </mods:mods>
@@ -3755,7 +3851,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P268</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1016/j.jtrangeo.2020.102922</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1016/j.jtrangeo.2020.102922</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.jtrangeo.2020.102922</mods:identifier>
   </mods:mods>
@@ -3890,7 +3986,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P341</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://doi.org/10.1016/j.cities.2021.103257][doi:10.1016/j.cities.2021.103257</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://doi.org/10.1016/j.cities.2021.103257][doi:10.1016/j.cities.2021.103257</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.cities.2021.103257</mods:identifier>
   </mods:mods>
@@ -3953,7 +4049,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P342</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1016/j.jocm.2021.100287</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1016/j.jocm.2021.100287</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.jocm.2021.100287</mods:identifier>
   </mods:mods>
@@ -4010,7 +4106,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P343</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1016/j.habitatint.2021.102346</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1016/j.habitatint.2021.102346</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.habitatint.2021.102346</mods:identifier>
   </mods:mods>
@@ -4067,7 +4163,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P344</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://doi.org/10.1016/j.jtrangeo.2021.103203][doi:10.1016/j.jtrangeo.2021.103203</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://doi.org/10.1016/j.jtrangeo.2021.103203][doi:10.1016/j.jtrangeo.2021.103203</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.jtrangeo.2021.103203</mods:identifier>
   </mods:mods>
@@ -4118,7 +4214,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P345</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1016/j.jtrangeo.2021.103199</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1016/j.jtrangeo.2021.103199</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.jtrangeo.2021.103199</mods:identifier>
   </mods:mods>
@@ -4203,7 +4299,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P352</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://jtlu.org/index.php/jtlu/article/view/1835][doi:10.5198/jtlu.2021.1835</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://jtlu.org/index.php/jtlu/article/view/1835][doi:10.5198/jtlu.2021.1835</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.5198/jtlu.2021.1835</mods:identifier>
   </mods:mods>
@@ -4254,7 +4350,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P353</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1016/j.jtrangeo.2021.103216</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1016/j.jtrangeo.2021.103216</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.jtrangeo.2021.103216</mods:identifier>
   </mods:mods>
@@ -4306,7 +4402,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P354</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1016/j.tbs.2021.10.003</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1016/j.tbs.2021.10.003</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/j.tbs.2021.10.003</mods:identifier>
   </mods:mods>
@@ -4438,14 +4534,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://exame.abril.com.br/meio-ambiente-e-energia/noticias/mapa-colaborativo-indica-alagamentos-na-cidade-de-sao-paulo</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://exame.abril.com.br/meio-ambiente-e-energia/noticias/mapa-colaborativo-indica-alagamentos-na-cidade-de-sao-paulo</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-44">
@@ -4484,7 +4580,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -4560,14 +4656,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.aneel.gov.br/biblioteca/Edicaolivros2011revistap&amp;d.cfm</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.aneel.gov.br/biblioteca/Edicaolivros2011revistap&amp;d.cfm</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-184">
@@ -4606,14 +4702,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://www.nexojornal.com.br/ensaio/2018/A-imobilidade-urbana-e-a-mobiliza%C3%A7%C3%A3o-por-novas-prioridades</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.nexojornal.com.br/ensaio/2018/A-imobilidade-urbana-e-a-mobiliza%C3%A7%C3%A3o-por-novas-prioridades</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-270">
@@ -4676,14 +4772,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/opiniao/2020/Desigualdades-na-oferta-de-infraestrutura-ciclovi%C3%A1ria</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/opiniao/2020/Desigualdades-na-oferta-de-infraestrutura-ciclovi%C3%A1ria</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-271">
@@ -4722,14 +4818,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/opiniao/2020/Os-desiguais-efeitos-da-pandemia-no-acesso-ao-trabalho-entre-classes-ra%C3%A7as-e-territ%C3%B3rios</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/opiniao/2020/Os-desiguais-efeitos-da-pandemia-no-acesso-ao-trabalho-entre-classes-ra%C3%A7as-e-territ%C3%B3rios</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-272">
@@ -4768,14 +4864,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/opiniao/2020/A-desigualdade-na-mobilidade-urbana-entre-ativa-e-n%C3%A3o-ativa#:~:text=As%20pol%C3%ADticas%20de%20planejamento%20das,concep%C3%A7%C3%A3o%20de%20planejamento%20da%20cidade.</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/opiniao/2020/A-desigualdade-na-mobilidade-urbana-entre-ativa-e-n%C3%A3o-ativa#:~:text=As%20pol%C3%ADticas%20de%20planejamento%20das,concep%C3%A7%C3%A3o%20de%20planejamento%20da%20cidade.</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-273">
@@ -4832,14 +4928,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/opiniao/2020/A-urg%C3%AAncia-de-repensar-o-transporte-p%C3%BAblico-para-al%C3%A9m-da-pandemia-da-covid-191#:~:text=Opini%C3%A3o-,A%20urg%C3%AAncia%20de%20repensar%20o%20transporte%20p%C3%BAblico,da%20pandemia%20da%20covid</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/opiniao/2020/A-urg%C3%AAncia-de-repensar-o-transporte-p%C3%BAblico-para-al%C3%A9m-da-pandemia-da-covid-191#:~:text=Opini%C3%A3o-,A%20urg%C3%AAncia%20de%20repensar%20o%20transporte%20p%C3%BAblico,da%20pandemia%20da%20covid</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-274">
@@ -4872,14 +4968,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/glossario/Transporte-urbano</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/glossario/Transporte-urbano</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-275">
@@ -4912,14 +5008,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/opiniao/2020/Acesso-virtual-a-oportunidades-reflex%C3%B5es-sobre-a-mobilidade-urbana</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/opiniao/2020/Acesso-virtual-a-oportunidades-reflex%C3%B5es-sobre-a-mobilidade-urbana</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-43">
@@ -4984,12 +5080,197 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-220">
+    <mods:titleInfo>
+      <mods:title>Quais são os possíveis usos dos dados de radar na pesquisa científica?</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2019</mods:dateIssued>
+      <mods:dateIssued>06112019</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Quais são os possíveis usos dos dados de radar na pesquisa científica?</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://bit.ly/2JVxNYR</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-276">
+    <mods:titleInfo>
+      <mods:title>Transporte público é risco para reabertura.</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Pedro da Cunha Logiodice</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Tainá Bittencourt</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>12062020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Transporte público é risco para reabertura.</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://valor.globo.com/brasil/noticia/2020/06/12/transporte-publico-e-risco-para-reabertura.ghtml</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-277">
+    <mods:titleInfo>
+      <mods:title>Pesquisadores dizem que redução no transporte público na pandemia expôs passageiros</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Tainá Bittencourt</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Pedro da Cunha Logiodice</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>19062020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Pesquisadores dizem que redução no transporte público na pandemia expôs passageiros</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://globoplay.globo.com/v/8637668/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-283">
+    <mods:titleInfo>
+      <mods:title>Estudo avalia mudanças do transporte público durante a pandemia</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>16092020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Estudo avalia mudanças do transporte público durante a pandemia</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/ciencias/estudo-avalia-mudancas-do-transporte-publico-durante-pandemia/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-282">
+    <mods:titleInfo>
+      <mods:title>Desigualdades socioespaciais e mobilidade urbana</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Tainá Bittencourt</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>19122020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Desigualdades socioespaciais e mobilidade urbana</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://urbanidades.podcloud.site/post/desigualdadessocioespaciaisemobilidadeurbanacommarianagiannottietainabittencourt</mods:url>
+    </mods:location>
   </mods:mods>
   <mods:mods ID="publication-34">
     <mods:titleInfo>

@@ -68,10 +68,10 @@
   </mods:mods>
   <mods:mods ID="publication-1">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Youth and employment in Mexico</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1993</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
@@ -96,10 +96,10 @@
   </mods:mods>
   <mods:mods ID="publication-2">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Análise Critica da Sociedade Civil</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1995</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
@@ -110,7 +110,7 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Sociedad civil y trabajo social</mods:title>
+        <mods:title>III Convención internacional de trabajo Social</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
@@ -124,10 +124,10 @@
   </mods:mods>
   <mods:mods ID="publication-3">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Societabilidade e associativismo - As práticas de consociação na Região Metropolitana de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
@@ -138,7 +138,7 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Trilhas e traços</mods:title>
+        <mods:title>I Simpósio de pós-graduandos em ciência política</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
@@ -152,10 +152,10 @@
   </mods:mods>
   <mods:mods ID="publication-44">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Ser y hacer universitario: compromiso frente al cambio social</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1993</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
@@ -180,10 +180,10 @@
   </mods:mods>
   <mods:mods ID="publication-115">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Das bordas ao coração do sistema político: atores sociais, representatividades emergentes e representação democrática</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2003</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
@@ -206,13 +206,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>XVII Encontro Anual da ANPOCS -Programa e Resumos</mods:title>
+        <mods:title>XXVII Encontro Anual da Associação Nacional de Pós-Graduação em Ciências Sociais</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
         <mods:publisher>ANPOCS</mods:publisher>
         <mods:place>
-          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+          <mods:placeTerm type="text">Caxanbú, Minas Gerais</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
@@ -220,10 +220,10 @@
   </mods:mods>
   <mods:mods ID="publication-116">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Pressupostos da cidadania moderna: igualdade como homogeneidade e como eqüidade</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2002</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
@@ -234,13 +234,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>XXVI Encontro Anual da ANPCS - Programa e Resumos</mods:title>
+        <mods:title>XXVI Encontro Anual da Associação Nacional de Pós-Graduação em Ciências Sociais</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
         <mods:publisher>ANPOCS</mods:publisher>
         <mods:place>
-          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+          <mods:placeTerm type="text">Caxambú</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
@@ -248,10 +248,10 @@
   </mods:mods>
   <mods:mods ID="publication-117">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>A identidade nacional pelo aveso: a desigualdade social no Brasil e a formação de um ethos público</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
@@ -262,13 +262,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>XXVI Encontro Anual da ANPOCS - Programa e Resumos</mods:title>
+        <mods:title>XXV Encontro Anual da Associação Nacional de Pós-Graduação em Ciências Sociais</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
         <mods:publisher>ANPOCS</mods:publisher>
         <mods:place>
-          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+          <mods:placeTerm type="text">Caxambu, Minas Gerais</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
@@ -276,10 +276,10 @@
   </mods:mods>
   <mods:mods ID="publication-141">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>A nova representação política, organizações civis e  instituições políticas - Lições do Brasil</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2005</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
@@ -302,13 +302,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Programa e Resumo</mods:title>
+        <mods:title>XXIX Encontro Anual da ANPOCS  2005</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
         <mods:publisher>ANPOCS</mods:publisher>
         <mods:place>
-          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+          <mods:placeTerm type="text">Caxanbú, Minas Gerais</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
@@ -316,10 +316,10 @@
   </mods:mods>
   <mods:mods ID="publication-162">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Movimentos sociais, Estado e mercado: a esfera pública no novo milênio</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2004</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
@@ -330,20 +330,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Movimentos sociais, Estado e mercado: a esfera pública no novo milênio</mods:title>
+        <mods:title>Movimentos Sociais, participação e democracia</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Florianópolis</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-209">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Democracy, accountability, citizens and civil society - Positive theory and empirical findings</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Peter P. Houtzager</mods:namePart>
@@ -360,13 +363,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Programa e Resumos</mods:title>
+        <mods:title>XXXI Encontro Anual da ANPOCS - Programa e Resumos</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
         <mods:publisher>ANPOCS</mods:publisher>
         <mods:place>
-          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+          <mods:placeTerm type="text">Caxambu</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
@@ -375,10 +378,10 @@
   </mods:mods>
   <mods:mods ID="publication-210">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Diversificación de la democracia y Pluralización de la representación</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
@@ -389,13 +392,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>ANAIS LASA 2007</mods:title>
+        <mods:title>Latin American StudiesAssociation Congress</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
         <mods:publisher>LASA</mods:publisher>
         <mods:place>
-          <mods:placeTerm type="text">Pittsburgh</mods:placeTerm>
+          <mods:placeTerm type="text">Montreal</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
@@ -403,10 +406,10 @@
   </mods:mods>
   <mods:mods ID="publication-241">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>La rendición de cuentas en Brasil - Un panorama institucional y de la innovación democrática</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2008</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
@@ -417,10 +420,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Conferencias del seminario Contraloria social en México: hacia una cultura de la legalidad</mods:title>
+        <mods:title>Seminário Contraloria social en México: hacia una cultura de la legalidad</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Cidade do México</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
@@ -1218,7 +1224,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P25</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.lse.ac.uk/depts/destin/working1.html</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.lse.ac.uk/depts/destin/working1.html</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-45">
@@ -1461,7 +1467,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P114</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.ids.ac.uk/gdr/cfs/research/collective%20actors.html</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.ids.ac.uk/gdr/cfs/research/collective%20actors.html</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-126">
@@ -1853,7 +1859,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P203</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://revista-redes.rediris.es</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://revista-redes.rediris.es</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-204">
@@ -2143,7 +2149,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P266</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://socialsciences.scielo.org/scielo.php?script=sci_arttext&amp;pid=S0102-69092007000100002&amp;lng=en&amp;nrm=iso</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://socialsciences.scielo.org/scielo.php?script=sci_arttext&amp;pid=S0102-69092007000100002&amp;lng=en&amp;nrm=iso</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-282">
@@ -2446,7 +2452,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P392</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1590/s0102-64451997000300006</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1590/s0102-64451997000300006</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1590/S0102-64451997000300006</mods:identifier>
   </mods:mods>
@@ -2498,7 +2504,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P393</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1111/j.1759-5436.2004.tb00120.x</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1111/j.1759-5436.2004.tb00120.x</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1111/j.1759-5436.2004.tb00120.x</mods:identifier>
   </mods:mods>
@@ -2722,7 +2728,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P478</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0185-19182014000100002&amp;lng=es&amp;tlng=es</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0185-19182014000100002&amp;lng=es&amp;tlng=es</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1016/S0185-1918(14)70800-1</mods:identifier>
   </mods:mods>
@@ -2894,7 +2900,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P551</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.cries.org/wp-content/uploads/2015/03/PP40-2.pdf</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.cries.org/wp-content/uploads/2015/03/PP40-2.pdf</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-560">
@@ -2942,7 +2948,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P560</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://periodicos.ufsc.br/index.php/politica/issue/view/2240/showToc</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://periodicos.ufsc.br/index.php/politica/issue/view/2240/showToc</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.5007/2175-7984.2014v13n28p125</mods:identifier>
   </mods:mods>
@@ -3034,7 +3040,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P575</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://desacatos.ciesas.edu.mx/index.php/Desacatos/article/view/1501/1249</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://desacatos.ciesas.edu.mx/index.php/Desacatos/article/view/1501/1249</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-576">
@@ -3079,7 +3085,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P576</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://desacatos.ciesas.edu.mx/index.php/Desacatos/article/view/1510/1258</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://desacatos.ciesas.edu.mx/index.php/Desacatos/article/view/1510/1258</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-577">
@@ -3191,7 +3197,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P669</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.fflch.usp.br/centrodametropole/upload/aaa/2123-wp19.2017.vfmesmo.pdf</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.fflch.usp.br/centrodametropole/upload/aaa/2123-wp19.2017.vfmesmo.pdf</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-676">
@@ -3233,7 +3239,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P676</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://andamios.uacm.edu.mx/index.php/andamios/article/view/574</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://andamios.uacm.edu.mx/index.php/andamios/article/view/574</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-749">
@@ -3315,7 +3321,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P769</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0101-33002019000200411</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0101-33002019000200411</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.25091/S01013300201900020009</mods:identifier>
   </mods:mods>
@@ -3412,7 +3418,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P785</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.17141/iconos.65.2019.4041</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.17141/iconos.65.2019.4041</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.17141/iconos.65.2019.4041</mods:identifier>
   </mods:mods>
@@ -3519,7 +3525,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P816</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&amp;pid=S1519-549X2019000400008&amp;lng=pt&amp;nrm=iso&amp;tlng=pt</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&amp;pid=S1519-549X2019000400008&amp;lng=pt&amp;nrm=iso&amp;tlng=pt</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-817">
@@ -3573,7 +3579,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P817</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&amp;pid=S1519-549X2019000400012&amp;lng=pt&amp;nrm=iso&amp;tlng=pt</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&amp;pid=S1519-549X2019000400012&amp;lng=pt&amp;nrm=iso&amp;tlng=pt</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-854">
@@ -3621,7 +3627,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P854</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://file:///C:/Users/Adrian-Ultrabook/Downloads/a%20pol%C3%ADtica...%20A%20efetividade%20das%20confer%C3%AAncias.pdf][doi:10.1590/1807-01912020263556</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://file:///C:/Users/Adrian-Ultrabook/Downloads/a%20pol%C3%ADtica...%20A%20efetividade%20das%20confer%C3%AAncias.pdf][doi:10.1590/1807-01912020263556</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1590/1807-01912020263556</mods:identifier>
   </mods:mods>
@@ -3718,7 +3724,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P864</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://novosestudos.com.br/wp-content/uploads/2020/12/06_artigo_homenagem_kowarick_118_p564-577-1-3.pdf][doi:10.25091/s01013300202000030006</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://novosestudos.com.br/wp-content/uploads/2020/12/06_artigo_homenagem_kowarick_118_p564-577-1-3.pdf][doi:10.25091/s01013300202000030006</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.25091/s01013300202000030006</mods:identifier>
   </mods:mods>
@@ -3770,7 +3776,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P911</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://www.ipea.gov.br/portal/images/stories/PDFs/boletim_analise_politico/211123_bapi_artigo_3.pdf][doi:10.38116/bapi30art3</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://www.ipea.gov.br/portal/images/stories/PDFs/boletim_analise_politico/211123_bapi_artigo_3.pdf][doi:10.38116/bapi30art3</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.38116/bapi30art3</mods:identifier>
   </mods:mods>
@@ -3843,7 +3849,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P521</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.chance2sustain.eu/index.php?id=60</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.chance2sustain.eu/index.php?id=60</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-27">
@@ -4164,7 +4170,7 @@
     <mods:identifier type="citekey">#P645</mods:identifier>
     <mods:identifier type="isbn">9783319515373</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.springer.com/gp/book/9783319515373</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.springer.com/gp/book/9783319515373</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-746">
@@ -4195,7 +4201,7 @@
     <mods:identifier type="citekey">#P746</mods:identifier>
     <mods:identifier type="isbn">9781787076105</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://www.peterlang.com/view/title/63743</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.peterlang.com/view/title/63743</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-775">
@@ -4266,7 +4272,7 @@
     <mods:identifier type="citekey">#P786</mods:identifier>
     <mods:identifier type="isbn">13908065</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://revistas.flacsoandes.edu.ec/iconos/issue/view/178</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://revistas.flacsoandes.edu.ec/iconos/issue/view/178</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-810">
@@ -4297,7 +4303,7 @@
     <mods:identifier type="citekey">#P810</mods:identifier>
     <mods:identifier type="isbn">00344893</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://www.tandfonline.com/toc/rrep20/current?nav=tocList</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.tandfonline.com/toc/rrep20/current?nav=tocList</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-578">
@@ -4328,7 +4334,7 @@
     <mods:identifier type="citekey">#P578</mods:identifier>
     <mods:identifier type="isbn">1607050X</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://desacatos.ciesas.edu.mx/index.php/Desacatos/index</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://desacatos.ciesas.edu.mx/index.php/Desacatos/index</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-30">
@@ -6513,7 +6519,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -6552,7 +6558,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -6586,7 +6592,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -6620,7 +6626,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -6672,7 +6678,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -6703,7 +6709,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -6734,7 +6740,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -6777,7 +6783,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -6808,7 +6814,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -6839,7 +6845,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -6870,7 +6876,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -6904,7 +6910,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -6938,7 +6944,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -6975,7 +6981,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -7015,7 +7021,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -7046,14 +7052,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://www.nexojornal.com.br/ensaio/2018/A-participa%C3%A7%C3%A3o-e-suas-institui%C3%A7%C3%B5es-um-tema-ausente-na-elei%C3%A7%C3%A3o</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.nexojornal.com.br/ensaio/2018/A-participa%C3%A7%C3%A3o-e-suas-institui%C3%A7%C3%B5es-um-tema-ausente-na-elei%C3%A7%C3%A3o</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-767">
@@ -7083,14 +7089,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://www1.folha.uol.com.br/ilustrissima/2019/05/brasil-e-ambiente-inospito-ao-ativismo-social-diz-pesquisador.shtml</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www1.folha.uol.com.br/ilustrissima/2019/05/brasil-e-ambiente-inospito-ao-ativismo-social-diz-pesquisador.shtml</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-825">
@@ -7117,14 +7123,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2020/A-participa%C3%A7%C3%A3o-social-em-pol%C3%ADticas-p%C3%BAblicas-explicada-em-9-quest%C3%B5es?fbclid=IwAR0JfAhVBfSMjfvT8IpJ4jyHVoQKwcpQnBDmM5KyzYSu1k5KZSQSJGyahBI</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2020/A-participa%C3%A7%C3%A3o-social-em-pol%C3%ADticas-p%C3%BAblicas-explicada-em-9-quest%C3%B5es?fbclid=IwAR0JfAhVBfSMjfvT8IpJ4jyHVoQKwcpQnBDmM5KyzYSu1k5KZSQSJGyahBI</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-826">
@@ -7151,14 +7157,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/glossario/Engajamento-e-participa%C3%A7%C3%A3o</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/glossario/Engajamento-e-participa%C3%A7%C3%A3o</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-848">
@@ -7185,14 +7191,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/linha-do-tempo/2020/Conselhos-gestores-de-pol%C3%ADticas</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/linha-do-tempo/2020/Conselhos-gestores-de-pol%C3%ADticas</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-849">
@@ -7230,14 +7236,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/academico/2020/Como-a-capacidade-dos-munic%C3%ADpios-influencia-a-implementa%C3%A7%C3%A3o-de-pol%C3%ADticas-p%C3%BAblicas</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/academico/2020/Como-a-capacidade-dos-munic%C3%ADpios-influencia-a-implementa%C3%A7%C3%A3o-de-pol%C3%ADticas-p%C3%BAblicas</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-859">
@@ -7270,14 +7276,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/opiniao/2021/Por-que-%E2%80%98desconstruir%E2%80%99-a-participa%C3%A7%C3%A3o-social</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/opiniao/2021/Por-que-%E2%80%98desconstruir%E2%80%99-a-participa%C3%A7%C3%A3o-social</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-860">
@@ -7307,14 +7313,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://sites.usp.br/boletimoipp/wp-content/uploads/sites/823/2021/02/Adrian-Gurza-Lavalle_jan_2020.pdf</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://sites.usp.br/boletimoipp/wp-content/uploads/sites/823/2021/02/Adrian-Gurza-Lavalle_jan_2020.pdf</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-519">
@@ -7353,12 +7359,1987 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Inglês</mods:languageTerm>
     </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-451">
+    <mods:titleInfo>
+      <mods:title>Conversa sobre política: As possibilidades de iniciativa popular</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2012</mods:dateIssued>
+      <mods:dateIssued>22062012</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Conversa sobre política: As possibilidades de iniciativa popular</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www2.camara.gov.br/radio/materias/CONVERSA-SOBRE-POLITICA/420624-AS-POSSIBILIDADES-DE-INICIATIVA-POPULAR-BLOCO-1.html</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-453">
+    <mods:titleInfo>
+      <mods:title>Há uma crise nas instâncias de participação social no Brasil??</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2012</mods:dateIssued>
+      <mods:dateIssued>04072012</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Há uma crise nas instâncias de participação social no Brasil??</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.agendapublica.org.br/news/video-traz-reflex%C3%B5es-sobre-a-situa%C3%A7%C3%A3o-atual-das-inst%C3%A2ncias-de-participa%C3%A7%C3%A3o-social-no-brasil-e-aponta-desafios-para-os-conselhos-e-o-sistema-de-confer%C3%AAncias/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-499">
+    <mods:titleInfo>
+      <mods:title>A mobilidade dos movimentos sociais Análise das redes de organizações da sociedade civil contraria tese da ?onguização?</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Fabricio Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Celso Filho</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2014</mods:dateIssued>
+      <mods:dateIssued>07032014</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>A mobilidade dos movimentos sociais Análise das redes de organizações da sociedade civil contraria tese da ?onguização?</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://revistapesquisa.fapesp.br/2014/03/07/pesquisa-investiga-evolucao-dos-movimentos-sociais-brasil-e-mexicos/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-600">
+    <mods:titleInfo>
+      <mods:title>Sem Fronteiras: A Prisão do narcotraficante El Chapo y os efeitos do mercado de drogas</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2016</mods:dateIssued>
+      <mods:dateIssued>14012016</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Sem Fronteiras: A Prisão do narcotraficante El Chapo y os efeitos do mercado de drogas</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://globosatplay.globo.com/globonews/v/4739686/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-644">
+    <mods:titleInfo>
+      <mods:title>Cheque em Branco? Adrian Gurza Lavalle fala sobre instâncias de participação</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Gisele Brito</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2017</mods:dateIssued>
+      <mods:dateIssued>17022017</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Cheque em Branco? Adrian Gurza Lavalle fala sobre instâncias de participação</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://observasp.wordpress.com/2017/02/17/cheque-em-branco-adrian-gurza-lavalle-fala-sobre-as-instancias-de-participacao/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-655">
+    <mods:titleInfo>
+      <mods:title>O impacto da greve não é imediato, mas alinhou setores da população que estavam dispersos</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>André de Oliveira</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2017</mods:dateIssued>
+      <mods:dateIssued>30042017</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>O impacto da greve não é imediato, mas alinhou setores da população que estavam dispersos</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://brasil.elpais.com/brasil/2017/04/29/politica/1493419881_012317.html</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-656">
+    <mods:titleInfo>
+      <mods:title>Sala de visitas de Luis Nassif: o lulismo à luz da crise política atual</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Luis Nassif</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2017</mods:dateIssued>
+      <mods:dateIssued>19052017</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Sala de visitas de Luis Nassif: o lulismo à luz da crise política atual</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://jornalggn.com.br/noticia/sala-de-visitas-o-lulismo-a-luz-da-crise-politica-atual</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-663">
+    <mods:titleInfo>
+      <mods:title>Partidos vão fomentar polarização nas redes sociais nas eleições</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Roxane Re</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2017</mods:dateIssued>
+      <mods:dateIssued>19062017</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Partidos vão fomentar polarização nas redes sociais nas eleições</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/partidos-vao-fomentar-polarizacao-nas-redes-sociais-nas-eleicoes</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-668">
+    <mods:titleInfo>
+      <mods:title>Faltam estímulos para mobilização de rua contra Temer</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Roxane Re</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2017</mods:dateIssued>
+      <mods:dateIssued>01082017</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Faltam estímulos para mobilização de rua contra Temer</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://jornal.usp.br/atualidades/faltam-estimulos-para-mobilizacao-de-rua-contra-temer/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-690">
+    <mods:titleInfo>
+      <mods:title>Intervalos - Diálogos com a ciência política</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Telma Hoyler</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Gabriela Rosa</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Guilherme Minarelli</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Pero Campos</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2018</mods:dateIssued>
+      <mods:dateIssued>16082017</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Intervalos - Diálogos com a ciência política</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.youtube.com/watch?v=4wV8dOj24eo&amp;t=426s</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-694">
+    <mods:titleInfo>
+      <mods:title>?Puede la izquierda brasileña sobrevivir a Lula?</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Joana Rei</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2018</mods:dateIssued>
+      <mods:dateIssued>09042018</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>?Puede la izquierda brasileña sobrevivir a Lula?</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Espanhol</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.elespanol.com/mundo/america/20180409/puede-izquierda-brasilena-sobrevivir-lula/298471268_0.html</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-704">
+    <mods:titleInfo>
+      <mods:title>Por que é difícil renovar o Congresso: de nomes a práticas</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Jorge Abrahão</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Conrado Corsalette</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2018</mods:dateIssued>
+      <mods:dateIssued>10062018</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Por que é difícil renovar o Congresso: de nomes a práticas</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.nexojornal.com.br/podcast/2018/06/10/Por-que-%C3%A9-dif%C3%ADcil-renovar-o-Congresso-de-nomes-a-pr%C3%A1ticas</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-705">
+    <mods:titleInfo>
+      <mods:title>Conservadorismo chega às ruas e polariza sociedades</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Michelly Teixeira</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2018</mods:dateIssued>
+      <mods:dateIssued>14062018</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Conservadorismo chega às ruas e polariza sociedades</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.rtve.es/alacarta/audios/emision-en-portugues/emisso-em-portugues-conservadorismo-chega-as-ruas-polariza-sociedades-14-06-18/4634200/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-706">
+    <mods:titleInfo>
+      <mods:title>Violência política no México expõe luta do narcotráfico por municípios</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Ana Luísa Vieira</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2018</mods:dateIssued>
+      <mods:dateIssued>15062018</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Violência política no México expõe luta do narcotráfico por municípios</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://noticias.r7.com/internacional/violencia-politica-no-mexico-expoe-luta-do-narcotrafico-por-municipios-15062018</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-708">
+    <mods:titleInfo>
+      <mods:title>Geopolítica com Igor Fuser - México vai às urnas, esquerda é favorita</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Igor Fuser</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2018</mods:dateIssued>
+      <mods:dateIssued>27062018</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Geopolítica com Igor Fuser - México vai às urnas, esquerda é favorita</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.youtube.com/watch?v=7hMatzYc31E</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-716">
+    <mods:titleInfo>
+      <mods:title>México vai às urnas após campanha eleitoral mais sangrenta da história</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Ana Luísa Vieira</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2018</mods:dateIssued>
+      <mods:dateIssued>01072018</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>México vai às urnas após campanha eleitoral mais sangrenta da história</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://noticias.r7.com/internacional/mexico-vai-as-urnas-apos-campanha-eleitoral-mais-sangrenta-da-historia-01072018</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-718">
+    <mods:titleInfo>
+      <mods:title>Uma campanha sangrenta</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2018</mods:dateIssued>
+      <mods:dateIssued>29062018</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Uma campanha sangrenta</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://istoe.com.br/uma-campanha-sangrenta/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-736">
+    <mods:titleInfo>
+      <mods:title>Especial Eleições 2018 - Luis Nassif recebe os cientistas políticos Andre Siger e Adrian Lavalle</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Luis Nassif</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2018</mods:dateIssued>
+      <mods:dateIssued>07102018</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Especial Eleições 2018 - Luis Nassif recebe os cientistas políticos Andre Siger e Adrian Lavalle</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornalggn.com.br/resultados?g=Lavalle</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-737">
+    <mods:titleInfo>
+      <mods:title>O que é ativismo. E por que é um perigo ?acabar? com ele</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>João Paulo Charleaux</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2018</mods:dateIssued>
+      <mods:dateIssued>13102018</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>O que é ativismo. E por que é um perigo ?acabar? com ele</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.nexojornal.com.br/expresso/2018/10/13/O-que-%C3%A9-ativismo.-E-por-que-%C3%A9-um-perigo-%E2%80%98acabar%E2%80%99-com-ele</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-738">
+    <mods:titleInfo>
+      <mods:title>Casos de violência nestas eleições refletem intolerância e preocupam</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Sayonara Moreno</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2018</mods:dateIssued>
+      <mods:dateIssued>11112018</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Casos de violência nestas eleições refletem intolerância e preocupam</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://radioagencianacional.ebc.com.br/politica/audio/2018-10/casos-de-violencia-nestas-eleicoes-refletem-intolerancia-e-preocupam-diz</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-739">
+    <mods:titleInfo>
+      <mods:title>Diálogos na USP: Especialistas discutem o papel atual das ONGs na sociedade</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Patrícia Mendonça</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Marcello Rollemberg</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2018</mods:dateIssued>
+      <mods:dateIssued>21092018</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Diálogos na USP: Especialistas discutem o papel atual das ONGs na sociedade</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/especialistas-discutem-o-papel-atual-das-ongs-na-sociedade/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-741">
+    <mods:titleInfo>
+      <mods:title>Seminários Cebrap - O tema do debate foi: 'Padrões decisórios dos conselhos gestores de políticas. Uma análise comparativa'</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2015</mods:dateIssued>
+      <mods:dateIssued>01112018</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Seminários Cebrap - O tema do debate foi: 'Padrões decisórios dos conselhos gestores de políticas. Uma análise comparativa'</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.youtube.com/watch?v=CPHhECwh3xs</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-745">
+    <mods:titleInfo>
+      <mods:title>Entrevista Adrian Lavalle sobre AMLO no Programa Brasil Latino</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Marco Piva</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2018</mods:dateIssued>
+      <mods:dateIssued>10122018</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Entrevista Adrian Lavalle sobre AMLO no Programa Brasil Latino</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://soundcloud.com/brlatino/entrevista-adrian-lavalle-sobre-amlo?fbclid=IwAR2VspJggZACxeRjdFvnG-QEmxBPzzK_jtAXJFH-Xy1Ul72wuIZJVNrk7wQ</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-761">
+    <mods:titleInfo>
+      <mods:title>Os efeitos para a população da ode de Bolsonaro à ditadura  Link para matéria: https://www.nexojornal.com.br/expresso/2019/03/27/Os-efeitos-para-a-popula%C3%A7%C3%A3o-da-ode-de-Bolsonaro-%C3%A0-ditadura  © 2019 | Todos os direitos deste material são reservados ao NEXO JORNAL LTDA., conforme a Lei nº 9.610/98. A sua publicação, redistribuição, transmissão e reescrita sem autorização prévia é proibi</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Matheus Pimentel</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2019</mods:dateIssued>
+      <mods:dateIssued>27032019</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Os efeitos para a população da ode de Bolsonaro à ditadura  Link para matéria: https://www.nexojornal.com.br/expresso/2019/03/27/Os-efeitos-para-a-popula%C3%A7%C3%A3o-da-ode-de-Bolsonaro-%C3%A0-ditadura  © 2019 | Todos os direitos deste material são reservados ao NEXO JORNAL LTDA., conforme a Lei nº 9.610/98. A sua publicação, redistribuição, transmissão e reescrita sem autorização prévia é proibi</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.nexojornal.com.br/expresso/2019/03/27/Os-efeitos-para-a-popula%C3%A7%C3%A3o-da-ode-de-Bolsonaro-%C3%A0-ditadura</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-768">
+    <mods:titleInfo>
+      <mods:title>Como uma promessa de vaga no STF para Moro mexe na política  Link para matéria: https://www.nexojornal.com.br/expresso/2019/05/13/Como-uma-promessa-de-vaga-no-STF-para-Moro-mexe-na-pol%C3%ADtica  © 2019 | Todos os direitos deste material são reservados ao NEXO JORNAL LTDA., conforme a Lei nº 9.610/98. A sua publicação, redistribuição, transmissão e reescrita sem autorização prévia é proibida.</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>João Paulo Charleaux</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2019</mods:dateIssued>
+      <mods:dateIssued>13052019</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Como uma promessa de vaga no STF para Moro mexe na política  Link para matéria: https://www.nexojornal.com.br/expresso/2019/05/13/Como-uma-promessa-de-vaga-no-STF-para-Moro-mexe-na-pol%C3%ADtica  © 2019 | Todos os direitos deste material são reservados ao NEXO JORNAL LTDA., conforme a Lei nº 9.610/98. A sua publicação, redistribuição, transmissão e reescrita sem autorização prévia é proibida.</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.nexojornal.com.br/expresso/2019/05/13/Como-uma-promessa-de-vaga-no-STF-para-Moro-mexe-na-pol%C3%ADtica</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-774">
+    <mods:titleInfo>
+      <mods:title>Do tradicional ao polêmico: o uso das redes sociais na política</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Tamara Nassif</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>João Pedro Malar</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2019</mods:dateIssued>
+      <mods:dateIssued>17032019</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Do tradicional ao polêmico: o uso das redes sociais na política</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://jornalismojunior.com.br/do-tradicional-ao-polemico-o-uso-das-redes-sociais-na-politica/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-778">
+    <mods:titleInfo>
+      <mods:title>Implementação de políticas públicas pode aumentar desigualdade</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Roxane Re</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2019</mods:dateIssued>
+      <mods:dateIssued>25062019</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Implementação de políticas públicas pode aumentar desigualdade</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/implementacao-de-politicas-publicas-pode-aumentar-desigualdade/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-782">
+    <mods:titleInfo>
+      <mods:title>Quais os limites dos grupos de formação e renovação política  Link para matéria: https://www.nexojornal.com.br/expresso/2019/07/17/Quais-os-limites-dos-grupos-de-forma%C3%A7%C3%A3o-e-renova%C3%A7%C3%A3o-pol%C3%ADtica  © 2019 | Todos os direitos deste material são reservados ao NEXO JORNAL LTDA., conforme a Lei nº 9.610/98. A sua publicação, redistribuição, transmissão e reescrita sem autorização p</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Géssica Brandino</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2019</mods:dateIssued>
+      <mods:dateIssued>17072019</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Quais os limites dos grupos de formação e renovação política  Link para matéria: https://www.nexojornal.com.br/expresso/2019/07/17/Quais-os-limites-dos-grupos-de-forma%C3%A7%C3%A3o-e-renova%C3%A7%C3%A3o-pol%C3%ADtica  © 2019 | Todos os direitos deste material são reservados ao NEXO JORNAL LTDA., conforme a Lei nº 9.610/98. A sua publicação, redistribuição, transmissão e reescrita sem autorização p</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.nexojornal.com.br/expresso/2019/07/17/Quais-os-limites-dos-grupos-de-forma%C3%A7%C3%A3o-e-renova%C3%A7%C3%A3o-pol%C3%ADtica</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-806">
+    <mods:titleInfo>
+      <mods:title>CNN em Espanhol com Carmen Aristegui: Lula está libre pero no exonerado</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Carmen Aristegui</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2019</mods:dateIssued>
+      <mods:dateIssued>08112019</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>CNN em Espanhol com Carmen Aristegui: Lula está libre pero no exonerado</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://cnnespanol.cnn.com/video/lula-da-silva-liberacion-brasil-politica-juicio-expresidente-carmen-aristegui/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-809">
+    <mods:titleInfo>
+      <mods:title>Liberación de Lula da Silva en Brasil</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2019</mods:dateIssued>
+      <mods:dateIssued>12112019</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Liberación de Lula da Silva en Brasil</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Espanhol</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://ibero909.fm/radar-con-mario-campos/liberacin-de-lula-da-silva-en-brasil?rq=Gurza</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-813">
+    <mods:titleInfo>
+      <mods:title>Adrian Lavalle: No exercício da democracia</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Glenda Mezarobba</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>01022020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Adrian Lavalle: No exercício da democracia</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://revistapesquisa.fapesp.br/2020/02/03/adrian-lavalle-no-exercicio-da-democracia/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-814">
+    <mods:titleInfo>
+      <mods:title>Qual o estado das instituições após um ano de governo Bolsonaro</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Géssica Brandino</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2019</mods:dateIssued>
+      <mods:dateIssued>23122019</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Qual o estado das instituições após um ano de governo Bolsonaro</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.nexojornal.com.br/expresso/2019/12/23/Qual-o-estado-das-institui%C3%A7%C3%B5es-ap%C3%B3s-um-ano-de-governo-Bolsonaro</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-820">
+    <mods:titleInfo>
+      <mods:title>Urbanidades: A participação social nos conselhos gestores de Políticas Públicas, com Adrian Gurza Lavalle</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>João Freitas</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Luma Mundin Costa</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>29052020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Urbanidades: A participação social nos conselhos gestores de Políticas Públicas, com Adrian Gurza Lavalle</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://open.spotify.com/episode/2Bp984XlkuSyFudDktOiTZ?si=8BcJWGOFTsuj4L7qZyMqUg</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-823">
+    <mods:titleInfo>
+      <mods:title>Dilemas contemporâneos da representação política</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Debora Cristina Rezende de Almeida</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Wagner de Melo Romão</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>09062020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Dilemas contemporâneos da representação política</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.youtube.com/watch?v=SqXRHOePggI&amp;t=2s</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-824">
+    <mods:titleInfo>
+      <mods:title>Por que as revistas demoram tanto para publicar meus artigos?</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Bruno Wilhelm Speck</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Rachel Meneguello</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Lucas Massimo</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Luiz Augusto Campos</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Adriano Codato</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>27062020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Por que as revistas demoram tanto para publicar meus artigos?</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.youtube.com/watch?v=ilU0JTMnMCE&amp;fbclid=IwAR2psK1hvBAonzVGGWIYjD4zxGVlbpneXwnuWiYPnpa_tVrYjWl5fnVJS-s</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-827">
+    <mods:titleInfo>
+      <mods:title>Interação com movimentos sociais ampliou a capacidade de atuação do Estado</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Roxane Re</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>07082020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Interação com movimentos sociais ampliou a capacidade de atuação do Estado</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/interacao-com-movimentos-sociais-ampliou-a-capacidade-de-atuacao-do-estado/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-831">
+    <mods:titleInfo>
+      <mods:title>Documentário: ?Raízes da Democracia ? Novas Relações Estado e Sociedade?,</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Yara Frateschi</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2011</mods:dateIssued>
+      <mods:dateIssued>14092011</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Documentário: ?Raízes da Democracia ? Novas Relações Estado e Sociedade?,</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://hlfilmes.com.br/producoes/raizes-da-democracia-novas-relacoes-estado-e-sociedade/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-837">
+    <mods:titleInfo>
+      <mods:title>Participação e Institucionalização: A qualidade da democracia em perspectiva</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Carlos Domínguez Avila</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>16102020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Participação e Institucionalização: A qualidade da democracia em perspectiva</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.youtube.com/watch?v=H0ALRqqOC8w</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-858">
+    <mods:titleInfo>
+      <mods:title>Brasil é exemplo de inovação em controle democrático não eleitoral</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Caio Shimizu</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2021</mods:dateIssued>
+      <mods:dateIssued>26012021</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Brasil é exemplo de inovação em controle democrático não eleitoral</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://folhago.com.br/cidades/brasil-e-exemplo-de-inovacao-em-controle-democratico-nao-eleitoral/71719/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-880">
+    <mods:titleInfo>
+      <mods:title>Uso massivo de redes sociais pode ser danoso para sociedade e governo, diz especialista</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Andre Derviche</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2021</mods:dateIssued>
+      <mods:dateIssued>04062021</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Uso massivo de redes sociais pode ser danoso para sociedade e governo, diz especialista</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/uso-massivo-de-redes-sociais-pode-ser-danoso-para-sociedade-e-governo-diz-especialista/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-888">
+    <mods:titleInfo>
+      <mods:title>Falta de participação social prejudica revisão do Plano Diretor Estratégico</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Roxane Re</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2021</mods:dateIssued>
+      <mods:dateIssued>27072021</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Falta de participação social prejudica revisão do Plano Diretor Estratégico</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/falta-de-participacao-social-prejudica-revisao-do-plano-diretor-estrategico/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-889">
+    <mods:titleInfo>
+      <mods:title>Prioridade política reduz número de conselhos participativos municipais</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Roxane Re</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2021</mods:dateIssued>
+      <mods:dateIssued>23082021</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Prioridade política reduz número de conselhos participativos municipais</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/prioridade-politica-reduz-numero-de-conselhos-participativos-municipais/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-890">
+    <mods:titleInfo>
+      <mods:title>Prefeitura de SP diminui número de cadeiras nos conselhos participativos</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Dayane Ponte</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2021</mods:dateIssued>
+      <mods:dateIssued>26082021</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Prefeitura de SP diminui número de cadeiras nos conselhos participativos</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://youtu.be/LKXlmvAFDJE</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-896">
+    <mods:titleInfo>
+      <mods:title>O que querem os bolsonaristas que vão às ruas em 7 de setembro</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Estêvão Bertoni</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2021</mods:dateIssued>
+      <mods:dateIssued>30082021</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>O que querem os bolsonaristas que vão às ruas em 7 de setembro</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.nexojornal.com.br/expresso/2021/08/25/O-que-querem-os-bolsonaristas-que-v%C3%A3o-%C3%A0s-ruas-em-7-de-setembro</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-897">
+    <mods:titleInfo>
+      <mods:title>Entre erosão e golpe: o que há nas ameaças de ruptura de Bolsonaro</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Estêvão Bertoni</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2021</mods:dateIssued>
+      <mods:dateIssued>09092021</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Entre erosão e golpe: o que há nas ameaças de ruptura de Bolsonaro</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.nexojornal.com.br/expresso/2021/09/08/Entre-eros%C3%A3o-e-golpe-o-que-h%C3%A1-nas-amea%C3%A7as-de-ruptura-de-Bolsonaro</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-902">
+    <mods:titleInfo>
+      <mods:title>Participação popular em decisões do Plano Diretor em São Paulo encontra alternativa durante pandemia</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Roxane Re</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2021</mods:dateIssued>
+      <mods:dateIssued>19102021</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Participação popular em decisões do Plano Diretor em São Paulo encontra alternativa durante pandemia</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/participacao-popular-em-decisoes-do-plano-diretor-em-sao-paulo-encontra-alternativa-durante-pandemia/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-907">
+    <mods:titleInfo>
+      <mods:title>Número de conselheiros participativos cai para menos da metade nos últimos 4 anos</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Ariane Gomes</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2021</mods:dateIssued>
+      <mods:dateIssued>03112021</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Número de conselheiros participativos cai para menos da metade nos últimos 4 anos</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://32xsp.org.br/2021/10/27/numero-de-conselheiros-participativos-cai-para-menos-da-metade-nos-ultimos-4-anos/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-908">
+    <mods:titleInfo>
+      <mods:title>Desconfiança da política afasta jovens do alistamento eleitoral</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Andre Derviche</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2021</mods:dateIssued>
+      <mods:dateIssued>09112021</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Desconfiança da política afasta jovens do alistamento eleitoral</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/desconfianca-da-politica-afasta-jovens-do-alistamento-eleitoral/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-910">
+    <mods:titleInfo>
+      <mods:title>O Voto dos Jovens</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Carolina Ercolin</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2021</mods:dateIssued>
+      <mods:dateIssued>15112021</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>O Voto dos Jovens</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-926">
+    <mods:titleInfo>
+      <mods:title>Para onde vai a democracia?</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Carla Bezerra</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Rafael Ciscati</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2022</mods:dateIssued>
+      <mods:dateIssued>27042022</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Para onde vai a democracia?</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://brasildedireitos.org.br/atualidades/para-onde-vai-a-democracia</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-928">
+    <mods:titleInfo>
+      <mods:title>Urbanidades #68 - Operacionalização de conceitos e teorias</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Natália Salgado Bueno</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Ricardo Fabrino Mendonça</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2022</mods:dateIssued>
+      <mods:dateIssued>26052022</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Urbanidades #68 - Operacionalização de conceitos e teorias</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://open.spotify.com/episode/3DrGd1E0w5pcMsnihLIGuo</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-923">
+    <mods:titleInfo>
+      <mods:title>Políticos vislumbram nos podcasts uma ferramenta de autopromoção</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>João Dallara</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2022</mods:dateIssued>
+      <mods:dateIssued>22032022</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Políticos vislumbram nos podcasts uma ferramenta de autopromoção</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/politicos-vislumbram-nos-podcasts-uma-ferramenta-de-autopromocao/</mods:url>
+    </mods:location>
   </mods:mods>
   <mods:mods ID="publication-213">
     <mods:titleInfo>

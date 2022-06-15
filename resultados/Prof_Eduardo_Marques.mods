@@ -68,10 +68,10 @@
   </mods:mods>
   <mods:mods ID="publication-11">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Clivagens ideológicas, decisões políticas e empresas privadas nos investimentos públicos urbanos</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -88,7 +88,7 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>XXV Encontro da Anpocs</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
@@ -98,10 +98,10 @@
   </mods:mods>
   <mods:mods ID="publication-15">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Municipalização da saúde no Brasil: diferenças regionais, poder do voto e estratégias de governo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2000</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Marta Arretche</mods:namePart>
@@ -118,20 +118,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>II Encontro da ABCP</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-18">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Estado e serviços urbanos no final da década de 1990</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1999</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -142,20 +145,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>Seminário INternacional Democracia, igualdade e qualidade de vida</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">POrto Alegre</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-19">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Estado e empreiteiras na comunidade de políticas no Rio de Janeiro</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1998</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -166,20 +172,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>I Encontro da ABCP</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Rio de Janeiro</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-20">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>As políticas de saneamento no Rio de Janeiro e seus aspectos espaciais</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1998</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -190,20 +199,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>XI Encontro da Abep</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Caxambu</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-28">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>São Paulo no sistema mundial de cidades</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1997</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -220,20 +232,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>II Encontro da Alas</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-29">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Os modelos espaciais e urbanos como contribuição para os estudos de saúde pública</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1996</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -244,20 +259,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>III Encontro Brasileiro de Epidemiologia</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Salvador</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-30">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>O Estado, a infra-estrutura urbana e a construção da cidade do Rio de Janeiro</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1995</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -268,20 +286,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>I Encontro Brasileiro de História da cidade e do urbanismo</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">São Carlos</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-44">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Estado e espaço urbano: revisitando as explicações correntes sobre as políticas estatais urbanas</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -298,20 +319,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>Seminário Urbanismo e Poder</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Curitiba</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-45">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Estado e infra-estrutura urbana: padrões de investimento estatal em São Paulo - 1978/98</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -328,20 +352,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais</mods:title>
+        <mods:title>Encontro da Anpur</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Rio de Janeiro</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-46">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Reflexões sobre a hiperperiferia</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2000</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Haroldo Torres</mods:namePart>
@@ -358,20 +385,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>XII Encontro da Abep</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Caxambu</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-48">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Padrões de intermediação de interesses e relações entre público e privado em políticas urbanas: investimentos estatais em infra-estrutura urbana em São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2000</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -388,7 +418,7 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>II Encontro da ABCP</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
@@ -398,10 +428,10 @@
   </mods:mods>
   <mods:mods ID="publication-49">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Municipalização da saúde no Brasil: as instituições também fazem diferença no poder local?</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2000</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Marta Arretche</mods:namePart>
@@ -418,20 +448,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>XXII Encontro da Lasa</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">MIami</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-53">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>The world city hypothesis in the periphery: the case of São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1998</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Haroldo Torres</mods:namePart>
@@ -448,20 +481,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>94o Encontro anual da Associação Norte-americana de Geógrafos</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Boston</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-59">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Agências estatais e engenheiros na produção das política urbanas no Rio de Janeiro - Brasil</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1997</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -472,20 +508,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>XX Encontro da Lasa</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Guadalajara, México</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-64">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Estado e empreiteiras II: permeabilidade e políticas urbanas em São Paulo 1978/1998</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2002</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -502,20 +541,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do 3o Encontro da Abcp</mods:title>
+        <mods:title>3o Encontro da ABCP</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Niterói</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-68">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Tamanho Populacional das Favelas Paulistanas. Ou os Grandes Números e a Falência do Debate sobre a Metrópole</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2002</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Haroldo Torres</mods:namePart>
@@ -532,20 +574,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais</mods:title>
+        <mods:title>XIII Encontro da Abep</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Ouro Preto, MG</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-69">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Condicionantes Locais da Descentralização das Políticas de Saúde</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2002</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -562,20 +607,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais</mods:title>
+        <mods:title>XXVI Encontro Anual da ANPOCS</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Caxambu</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-70">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Poverty and Space: Patterns of Segregation in São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2002</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Haroldo Torres</mods:namePart>
@@ -604,20 +652,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais</mods:title>
+        <mods:title>Workshop on Spatial Segregation and Urban Inequality in Latin America</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Austin, Texas</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-71">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Information Systems for Social Policies: The Case of São Paulo's Metropolitan Area</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2002</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Haroldo Torres</mods:namePart>
@@ -634,20 +685,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title/>
+        <mods:title>UNFPA Country Support Team for Latin America and the Caribbean</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Cidade do México</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-106">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Favelas no Municípío de São Paulo: estimando a sua presença para os anos de 1991, 1996 e 2000</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2003</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -664,20 +718,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do X Congresso da Anpur</mods:title>
+        <mods:title>X Congresso da Anpur</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Belo Horizonte</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-110">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Espaço e grupos sociais na virada do século XXI</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2004</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -688,20 +745,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>site do Centro de Estudos da Metrópole</mods:title>
+        <mods:title>Seminário internacional Estrutura social e segregação espacial ? São Paulo, Rio de Janeiro e Paris</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-111">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>A condição social dos habitantes de Favelas</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2004</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -712,20 +772,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>site do Centro de Estudos da Metrópole</mods:title>
+        <mods:title>Seminário internacional ?Estrutura social e segregação espacial ? São Paulo, Rio de Janeiro e Paris</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-122">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Avaliação de políticas sociais e o funcionamento do Estado (na teoria e na prática</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2004</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -736,20 +799,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do XXVIII Encontro da Anpocs</mods:title>
+        <mods:title>Mesa redonda no XXVIII Encontro da Anpocs</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Caxambu</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-123">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Redes sociais, poder e intermediação de interesses nas políticas públicas brasileiras</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2004</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -760,20 +826,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do XXVIII Encontro da Anpocs</mods:title>
+        <mods:title>XXVIII Encontro da Anpocs</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Caxambu</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-124">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>The spatial dimension of urban poverty</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2004</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Haroldo Torres</mods:namePart>
@@ -802,20 +871,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do MacArthur Research Network on Inequality and Economic Performance</mods:title>
+        <mods:title>MacArthur Research Network on Inequality and Economic Performance</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Rio de Janeiro</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-146">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>The spatial dimension of urban poverty</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2005</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -838,20 +910,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>http://www.cevipof.msh-paris.fr/RC21/</mods:title>
+        <mods:title>International Conference &amp;quot;Cities as social fabric: fragmentation and integration &amp;quot;</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Paris</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-147">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>A dinâmica social na metrópole de São Paulo na década de 1990</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2005</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -868,20 +943,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do Encontro da Associação Nacional de Pesquisa e Pó-graduação em Planejamento Urbano e Regional</mods:title>
+        <mods:title>Encontro da Associação Nacional de Pesquisa e Pó-graduação em Planejamento Urbano e Regional</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Salvador</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-240">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Estratégias territoriais para redução de desigualdades</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2006</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Haroldo Torres</mods:namePart>
@@ -904,20 +982,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do 3o Congresso Latinoamericano de Ciência Política</mods:title>
+        <mods:title>3o Congresso Latinoamericano de Ciência Política</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Campinas</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-252">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Leis gerais, epxlicações e mecanismos - para onde vão nossas análises?</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2006</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -928,20 +1009,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do Encontro da Anpocs</mods:title>
+        <mods:title>Encontro da Anpocs</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Caxambu</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-254">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Espaço e mortalidade no Rio de Janeiro, da decada de 80</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>1995</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -958,20 +1042,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do Encontro da Anpur</mods:title>
+        <mods:title>Encontro da Associação Brasileira de Pesquisa e Pós-graduação em Planejamento urbano e Regional - IPPUR</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Brasília</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-274">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Comparando estruturas sociais no RIo de Janeiro e em São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Celi Scalon</mods:namePart>
@@ -994,13 +1081,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do XXXI Encontro Anual da ANPOCS</mods:title>
+        <mods:title>XXXI Encontro Anual da ANPOCS</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
         <mods:publisher>ANPOCS</mods:publisher>
         <mods:place>
-          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+          <mods:placeTerm type="text">Caxambu</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
@@ -1008,10 +1095,10 @@
   </mods:mods>
   <mods:mods ID="publication-275">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Redes pessoais e pobreza em São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -1052,13 +1139,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do XXXI Encontro Anual da ANPOCS</mods:title>
+        <mods:title>XXXI Encontro Anual da ANPOCS</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
         <mods:publisher>ANPOCS</mods:publisher>
         <mods:place>
-          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+          <mods:placeTerm type="text">Caxambu</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
@@ -1066,10 +1153,10 @@
   </mods:mods>
   <mods:mods ID="publication-276">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Social networks, segregation and poverty in São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -1110,20 +1197,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais da Conferência Internacional  Urban justice and sustainability (RC21)</mods:title>
+        <mods:title>Conferência Internacional  Urban justice and sustainability</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Vancouver</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-277">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Expansão Urbana I</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -1140,7 +1230,7 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do Seminário Guarapiranga 2006: proposições de ações prioritárias para garantir água de boa qualidade para abastecimento público.</mods:title>
+        <mods:title>Seminário Guarapiranga 2006: proposições de ações prioritárias para garantir água de boa qualidade para abastecimento público.</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
@@ -1154,10 +1244,10 @@
   </mods:mods>
   <mods:mods ID="publication-296">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Pobreza urbana no Brasil recente</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -1168,7 +1258,7 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Seminário da ABEP</mods:title>
+        <mods:title>Seminário População, pobreza e desigualdade da ABEP</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
@@ -1182,10 +1272,10 @@
   </mods:mods>
   <mods:mods ID="publication-379">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>A dinâmica dos grupos sociais em São Paulo na década de 1990</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2008</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Celi Scalon</mods:namePart>
@@ -1202,13 +1292,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do 32o Encontro da Anpocs</mods:title>
+        <mods:title>XXXII Encontro da Anpocs</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
         <mods:publisher>Anpocs</mods:publisher>
         <mods:place>
-          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+          <mods:placeTerm type="text">Caxambu</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
@@ -1216,10 +1306,10 @@
   </mods:mods>
   <mods:mods ID="publication-383">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Social networks, segregation and poverty in São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2008</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -1230,20 +1320,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Encontro anual do RC 21 da ISA</mods:title>
+        <mods:title>Landscapes of global urbanism - RC21</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Tóquio</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-413">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>As redes sociais importam para a pobreza urbana?</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2009</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -1254,20 +1347,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>CD-Rom da LASA 2009</mods:title>
+        <mods:title>Conferência da LASA 2009</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Rio de Janeiro</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-414">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Como são as redes de indivíduos em situação de pobreza no Brasil urbano?</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2009</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -1278,20 +1374,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>CD-Rom da ANPUR 2009</mods:title>
+        <mods:title>XIII Encontro Anual da ANPUR</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Florianópolis</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-495">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>As redes sociais importam para o acesso a bens e serviços fora de mercados?</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2009</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -1302,20 +1401,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do Encontro da Anpocs</mods:title>
+        <mods:title>XXXIII Congresso Nacional da Anpocs</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Caxambu</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-496">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Localismo, pobreza e redes sociais em São Paulo e Salvador</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2010</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Graziela Castello</mods:namePart>
@@ -1332,20 +1434,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do Congresso da Anpocs</mods:title>
+        <mods:title>XXXIV Encontro Nacional da Anpocs</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Caxambu</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-497">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Poverty and Sociability in Brazilian Metropolises: Comparing Personal Networks of Poor People in São Paulo and Salvador</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2010</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Renata Mirandola Bichir</mods:namePart>
@@ -1362,20 +1467,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Sunbelt Conference Proceedings</mods:title>
+        <mods:title>Sunbelt Conference</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Garda, Itália</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-498">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Social networks, poverty and neighborhoods in two Brazilian cities</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2010</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -1404,20 +1512,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>ISA Proceedings</mods:title>
+        <mods:title>Encontro da International Sociological Association - ISA - RC21</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Gotemburgo, Suécia</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-676">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Padrões de governança em São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2013</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -1428,20 +1539,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do XXXVII Encontro</mods:title>
+        <mods:title>XXXVII Encontro nacional da ANPOCS</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Águs de São Pedro</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-677">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Estado, atores políticos e Governança</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2013</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -1452,20 +1566,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do XV Encontro</mods:title>
+        <mods:title>XV Enncontro da Anpur</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Recife</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-415">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Social networks and power in the Brazilian State: Learning from urban policies</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2009</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
@@ -1476,10 +1593,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>CD-Rom da Ipsa 2009</mods:title>
+        <mods:title>XXI Conferência da IPSA</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Santiago de Chile</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
@@ -3893,7 +4013,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P685</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://revistes.uab.cat/redes/article/view/v25-n1-marques-bichir-moya/pdf-es</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://revistes.uab.cat/redes/article/view/v25-n1-marques-bichir-moya/pdf-es</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.5565/rev/redes.505</mods:identifier>
   </mods:mods>
@@ -4232,7 +4352,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P860</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://novosestudos.uol.com.br/v1/files/uploads/contents/content_1633/file_1633.pdf</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://novosestudos.uol.com.br/v1/files/uploads/contents/content_1633/file_1633.pdf</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.25091/S0101-3300201600020002</mods:identifier>
   </mods:mods>
@@ -4275,7 +4395,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P861</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://novosestudos.uol.com.br/v1/files/uploads/contents/content_1634/file_1634.pdf</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://novosestudos.uol.com.br/v1/files/uploads/contents/content_1634/file_1634.pdf</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.25091/S0101-3300201600020001</mods:identifier>
   </mods:mods>
@@ -4318,7 +4438,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P968</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://novosestudos.uol.com.br/</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://novosestudos.uol.com.br/</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.25091/S01013300201700040005</mods:identifier>
   </mods:mods>
@@ -4550,7 +4670,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P1062</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1590/0102-311x00002318</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1590/0102-311x00002318</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1590/0102-311x00002318</mods:identifier>
   </mods:mods>
@@ -4595,7 +4715,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P1075</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1111/spol.12550</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1111/spol.12550</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1111/spol.12550</mods:identifier>
   </mods:mods>
@@ -4646,7 +4766,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P1113</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1177/2399808320958426</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1177/2399808320958426</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1177/2399808320958426</mods:identifier>
   </mods:mods>
@@ -4797,7 +4917,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P1173</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1080/13260219.2021.1954796</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1080/13260219.2021.1954796</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1080/13260219.2021.1954796</mods:identifier>
   </mods:mods>
@@ -4931,7 +5051,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P1212</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">doi:10.1590/1678-987321298003</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">doi:10.1590/1678-987321298003</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1590/1678-987321298003</mods:identifier>
   </mods:mods>
@@ -4974,7 +5094,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P849</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.fflch.usp.br/centrodametropole/upload/aaa/1545-wp018.2016.vfmesmo.pdf</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.fflch.usp.br/centrodametropole/upload/aaa/1545-wp018.2016.vfmesmo.pdf</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-26">
@@ -5317,7 +5437,7 @@
     <mods:identifier type="citekey">#P837</mods:identifier>
     <mods:identifier type="isbn">9781138655607</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">www.routledge.com/Sao-Paulo-in-the-Twenty-First-Century-Spaces-Heterogeneities-Inequalities/Marques/p/book/9781138655607</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">www.routledge.com/Sao-Paulo-in-the-Twenty-First-Century-Spaces-Heterogeneities-Inequalities/Marques/p/book/9781138655607</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-1039">
@@ -5398,7 +5518,7 @@
     <mods:identifier type="citekey">#P1154</mods:identifier>
     <mods:identifier type="isbn">9781119647874</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://www.wiley-vch.de/en/areas-interest/natural-sciences/geography-11ge/human-geography-11ge2/the-politics-of-incremental-progressivism-978-1-119-64787-4</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.wiley-vch.de/en/areas-interest/natural-sciences/geography-11ge/human-geography-11ge2/the-politics-of-incremental-progressivism-978-1-119-64787-4</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-267">
@@ -8852,7 +8972,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -8883,14 +9003,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://sao-paulo.estadao.com.br/noticias/geral,analise-agatha-em-paraisopolis,70003125314</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://sao-paulo.estadao.com.br/noticias/geral,analise-agatha-em-paraisopolis,70003125314</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-1104">
@@ -8931,14 +9051,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://www1.folha.uol.com.br/mercado/2020/07/replica-em-defesa-de-as-politicas-da-politica.shtml</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www1.folha.uol.com.br/mercado/2020/07/replica-em-defesa-de-as-politicas-da-politica.shtml</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-821">
@@ -8968,14 +9088,584 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.oxfam.org.br/publicacoes/cada-vez-mais-desigual/desigualdades-urbanas</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.oxfam.org.br/publicacoes/cada-vez-mais-desigual/desigualdades-urbanas</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-1002">
+    <mods:titleInfo>
+      <mods:title>Entrevista no projeto Memória das Ciências Sociais</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Celso de Castro</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2017</mods:dateIssued>
+      <mods:dateIssued>18072016</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Entrevista no projeto Memória das Ciências Sociais</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://cpdoc.fgv.br/cientistassociais/eduardomarques</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-1086">
+    <mods:titleInfo>
+      <mods:title>Quem decide como serão as políticas de uma cidade</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2019</mods:dateIssued>
+      <mods:dateIssued>19012019</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Quem decide como serão as políticas de uma cidade</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/podcast/ciencia-04-quem-decide-como-serao-as-politicas-de-uma-cidade/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-1091">
+    <mods:titleInfo>
+      <mods:title>As políticas do urbano em São Paulo</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>21032020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>As políticas do urbano em São Paulo</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://open.spotify.com/show/6Fv433pJBUMIHyThbzqCDj</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-1092">
+    <mods:titleInfo>
+      <mods:title>Porque estudamos as cidades?</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>13032020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Porque estudamos as cidades?</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/podcast/momento-cidade-18-por-que-estudamos-as-cidades/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-596">
+    <mods:titleInfo>
+      <mods:title>Authors Meet Critics - IJURR</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2013</mods:dateIssued>
+      <mods:dateIssued>21022013</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Authors Meet Critics - IJURR</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Inglês</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.ijurr.org/view/authorsmeetcritics.html</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-845">
+    <mods:titleInfo>
+      <mods:title>Transformações de São Paulo nos anos 2000 - Vunesp</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2016</mods:dateIssued>
+      <mods:dateIssued>12042016</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Transformações de São Paulo nos anos 2000 - Vunesp</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-900">
+    <mods:titleInfo>
+      <mods:title>Espaço Livre | São Paulo no século XXI</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2016</mods:dateIssued>
+      <mods:dateIssued>27092016</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Espaço Livre | São Paulo no século XXI</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">Espaço Livre | São Paulo no século XXI - TV Camara São Paulo</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-901">
+    <mods:titleInfo>
+      <mods:title>Capitais do Urbano - Nexo</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2016</mods:dateIssued>
+      <mods:dateIssued>19092016</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Capitais do Urbano - Nexo</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.youtube.com/watch?v=V--KSvmgC7c&amp;index=1&amp;list=PLAE4zdwPT_XOkfGKVlrkJVr0u-TvWpK5r</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-902">
+    <mods:titleInfo>
+      <mods:title>O Centro de Estudos da Metrópole traz um diagnóstico da São Paulo no século 21 - Agência Fapesp</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2016</mods:dateIssued>
+      <mods:dateIssued>22082016</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>O Centro de Estudos da Metrópole traz um diagnóstico da São Paulo no século 21 - Agência Fapesp</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.youtube.com/watch?v=s8g8VrsaQRk</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-903">
+    <mods:titleInfo>
+      <mods:title>Transformações de São Paulo entram no debate internacional - USP - Divulgação científica</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2016</mods:dateIssued>
+      <mods:dateIssued>07072016</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Transformações de São Paulo entram no debate internacional - USP - Divulgação científica</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.mixcloud.com/CienciaUSP/transforma%C3%A7%C3%B5es-de-s%C3%A3o-paulo-entram-no-debate-internacional/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-904">
+    <mods:titleInfo>
+      <mods:title>JC Debate - Desigualdades - TV Cultura</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2016</mods:dateIssued>
+      <mods:dateIssued>23062016</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>JC Debate - Desigualdades - TV Cultura</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.youtube.com/watch?v=T9QHoRNT8L4&amp;list=PLdnZUpbQ9Pfl4KuEb__-zy1vQO-yaAgz6&amp;index=1</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-905">
+    <mods:titleInfo>
+      <mods:title>Desigualdades em Sâo Paulo - TV Camara São Paulo</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2016</mods:dateIssued>
+      <mods:dateIssued>23052016</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Desigualdades em Sâo Paulo - TV Camara São Paulo</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.youtube.com/watch?v=thzid2Lc1Xk</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-927">
+    <mods:titleInfo>
+      <mods:title>Dossiê periferia - TV Cultura</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2005</mods:dateIssued>
+      <mods:dateIssued>02102005</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Dossiê periferia - TV Cultura</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.fflch.usp.br/centrodametropole/71</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-928">
+    <mods:titleInfo>
+      <mods:title>Segregação residencial e desigualdade - Univesp</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2015</mods:dateIssued>
+      <mods:dateIssued>20082015</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Segregação residencial e desigualdade - Univesp</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.youtube.com/watch?v=67q2dm_1gU4</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-929">
+    <mods:titleInfo>
+      <mods:title>Brazil's Biggest Builder Is a Top Campaign Donor - Bloomberg TV</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2014</mods:dateIssued>
+      <mods:dateIssued>23102014</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Brazil's Biggest Builder Is a Top Campaign Donor - Bloomberg TV</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Inglês</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.bloomberg.com/news/videos/2014-10-23/brazils-biggest-builder-is-a-top-campaign-donor</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-930">
+    <mods:titleInfo>
+      <mods:title>São Paulo, Novos Percursos e Atores - TV Univesp</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2014</mods:dateIssued>
+      <mods:dateIssued>16052012</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>São Paulo, Novos Percursos e Atores - TV Univesp</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.youtube.com/watch?v=gcy2ibvNxSs&amp;list=PL8BFD344C925483B7&amp;index=8&amp;feature=plpp_video</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-952">
+    <mods:titleInfo>
+      <mods:title>Privatizações municipais</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Vera Monteiro</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Sandro Cabral</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2017</mods:dateIssued>
+      <mods:dateIssued>27032017</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Privatizações municipais</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-844">
+    <mods:titleInfo>
+      <mods:title>Desigualdades sociais  - TV Cultura</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2016</mods:dateIssued>
+      <mods:dateIssued>23062016</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Desigualdades sociais  - TV Cultura</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.youtube.com/watch?v=T9QHoRNT8L4&amp;index=1&amp;list=PLdnZUpbQ9Pfl4KuEb__-zy1vQO-yaAgz6</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-78">

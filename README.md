@@ -28,6 +28,8 @@ xsltproc -v lattes2mods.xsl cvs/Profa_Mariana_Giannotti.xml > resultados/Profa_M
 xml2bib -b -w resultados/Profa_Mariana_Giannotti.mods > resultados/Profa_Mariana_Giannotti.bib
 ```
 
+Ainda foi criado o script ```processa-pesquisadores.sh``` para fazer tal processo de forma automatizada
+
 ## Próximos passos
 
 A partir das possibilidade serão promovidos e documentadas outras formas e técnicas de extração ou conversão de dados, por exemplo, utilizando a Linguagem Python, R e JavaScript pensando em aplicações e formatos Web

@@ -68,10 +68,10 @@
   </mods:mods>
   <mods:mods ID="publication-9">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Jovens no município de São Paulo: explorando os efeitos das relações de vizinhança.</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2005</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Renata Mirandola Bichir</mods:namePart>
@@ -94,20 +94,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Revista Brasileira de Estudos Urbanos e Regionais</mods:title>
+        <mods:title>XI Encontro Nacional da Associação Nacional de Pós-graduação e Pesquisa em Planejamento Urbano e Regional</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Salvador- BA</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-28">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Redes pessoais e pobreza em São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Marques</mods:namePart>
@@ -148,20 +151,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Programação do Seminário Temático</mods:title>
+        <mods:title>Encontro Anual da ANPOCS</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Caxambu, MG</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-29">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Social networks, segregation and poverty in São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Marques</mods:namePart>
@@ -202,20 +208,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>. Anais da Conferência Internacional Urban justice and sustainability (RC21)</mods:title>
+        <mods:title>Internacional Urban justice and sustainability Conference</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Vancouver</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-30">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Estratégias territoriais para redução de desigualdades</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2006</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Haroldo da Gama Torres</mods:namePart>
@@ -238,20 +247,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do 3° Congresso Latinoamericano de Ciência Política</mods:title>
+        <mods:title>3° Congresso Latinoamericano de Ciência Política</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Campinas, SP</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-31">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Estado e empreiteiras II: permeabilidade e políticas urbanas em São Paulo 1978/1998</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2002</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Marques</mods:namePart>
@@ -268,20 +280,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do 3o Encontro da Abcp</mods:title>
+        <mods:title>3o Encontro da Associação Brasileira de Ciência Política - ABCP</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Niterói, RJ</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-32">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Clivagens ideológicas, decisões políticas e empresas privadas nos investimentos públicos urbanos</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Marques</mods:namePart>
@@ -298,20 +313,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do XXV Encontro da Anpocs</mods:title>
+        <mods:title>XXV Encontro da Anpocs</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Caxambu, MG</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-33">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Estado e espaço urbano: revisitando as explicações correntes sobre as políticas estatais urbanas</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Marques</mods:namePart>
@@ -328,20 +346,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do Seminário Urbanismo e Poder</mods:title>
+        <mods:title>Seminário Urbanismo e Poder</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Curitiba, PR</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-34">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Estado e infra-estrutura urbana: padrões de investimento estatal em São Paulo - 1978/98</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Marques</mods:namePart>
@@ -358,20 +379,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do Encontro da Anpur</mods:title>
+        <mods:title>Encontro da Anpur</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Rio de Janeiro</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-35">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Padrões de intermediação de interesses e relações entre público e privado em políticas urbanas: investimentos estatais em infra-estrutura urbana em São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo Cesar Marques</mods:namePart>
@@ -388,20 +412,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do II Encontro da ABCP</mods:title>
+        <mods:title>II Encontro da Associação Brasileira de Ciência Política - ABCP</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-36">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Educação na Periferia de São Paulo: ou como pensar as desigualdades educacionais?</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2006</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Haroldo da Gama Torres</mods:namePart>
@@ -430,20 +457,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do Workshop Neighborhood effects, educational achievements and challenges for social policies</mods:title>
+        <mods:title>Workshop Neighborhood effects, educational achievements and challenges for social policies</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Rio de Janeiro</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-41">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Residential Segregation in São Paulo: Consequences for Urban Policies</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2005</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Haroldo da Gama Torres</mods:namePart>
@@ -460,20 +490,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do Urban Governance and Intra-Urban Population Differentials in Latin American Metropolitan Areas</mods:title>
+        <mods:title>Urban Governance and Intra-Urban Population Differentials in Latin American Metropolitan Areas</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Austin, Texas</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-63">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Novas experiências nas políticas de combate à pobreza: os programas de transferência de renda em São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2008</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Renata Mirandola Bichir</mods:namePart>
@@ -484,20 +517,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do 32º Encontro Anual da Anpocs</mods:title>
+        <mods:title>32º Encontro Anual da Anpocs</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Caxambu</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-130">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Desafios e oportunidades na implementação de novos arranjos de proteção social no Brasil e na Argentina</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2013</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Renata Mirandola Bichir</mods:namePart>
@@ -508,10 +544,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do 37º Encontro Anual da Anpocs - ST 37</mods:title>
+        <mods:title>37 Encontro Nacional da Anpocs</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Águas de Lindóia</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
       <mods:identifier type="isbn">2177-3092</mods:identifier>
@@ -519,10 +558,10 @@
   </mods:mods>
   <mods:mods ID="publication-131">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Coordenação federal e implementação local no caso do Programa Bolsa Família</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2012</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Renata Mirandola Bichir</mods:namePart>
@@ -533,20 +572,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do 8o. Encontro da ABCP - AT05 ? Estado e Políticas Públicas</mods:title>
+        <mods:title>8º Encontro da ABCP</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Gramado</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-139">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Capacidades estatais para a implementação de programas de transferência de  renda: os casos de Brasil, Argentina e África do Sul</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2014</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Renata Mirandola Bichir</mods:namePart>
@@ -557,20 +599,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais eletrônicos da ABCP - Estado e Políticas Públicas</mods:title>
+        <mods:title>IX Encontro da ABCP</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Brasília</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-310">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>NOVAS AGENDAS, NOVOS DESAFIOS: REFLEXÕES SOBRE AS RELAÇÕES ENTRE TRANSFERÊNCIADE RENDA E ASSISTÊNCIA SOCIAL NO BRASIL</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2015</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Renata Mirandola Bichir</mods:namePart>
@@ -581,20 +626,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais 2015</mods:title>
+        <mods:title>I Encontro Nacional de Ensino e Pesquisa do Campo De Públicas</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Brasília</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-311">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Novas agendas, novos desafios: reflexões sobre as relações entre transferência de renda e assistência social no Brasil</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2016</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Renata Mirandola Bichir</mods:namePart>
@@ -605,20 +653,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais eletrônicos</mods:title>
+        <mods:title>10o. Encontro da ABCP</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Belo Horizonte</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-383">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Capacidades estatais para implementação de políticas intersetoriais</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2017</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Renata Mirandola Bichir</mods:namePart>
@@ -629,20 +680,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Trabajos Presentados</mods:title>
+        <mods:title>9o. Congreso Latinoamericano de Ciencia Política (Alacip)</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Montevidéu</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-384">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Novas agendas, novos desafios: reflexões sobre as relações entre transferência de renda e assistência social no Brasil</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2016</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Renata Mirandola Bichir</mods:namePart>
@@ -653,20 +707,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais 10o Encontro da ABCP</mods:title>
+        <mods:title>10o Encontro da ABCP</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Belo Horizonte</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-519">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Determinants of the implementation of social assistance programs in Brazil: a multilevel approach</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2020</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Sergio Simoni Jr</mods:namePart>
@@ -683,20 +740,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do 44 Encontro da Anpocs</mods:title>
+        <mods:title>44o Encontro da ABCP</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">São Paulo</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-520">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>'Interações socioestatais na produção de políticas públicas: o caso da assistência social em São Paulo</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2020</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Renata Mirandola Bichir</mods:namePart>
@@ -719,20 +779,23 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Anais do 12o. Encontro da ABCP</mods:title>
+        <mods:title>12o Encontro da ABCP</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">João Pessoa</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-189">
     <mods:titleInfo>
-      <mods:title/>
+      <mods:title>Notas sobre el análisis de redes sociales en Brasil</mods:title>
     </mods:titleInfo>
     <mods:originInfo>
-      <mods:dateIssued/>
+      <mods:dateIssued>2014</mods:dateIssued>
     </mods:originInfo>
     <mods:name type="personal">
       <mods:namePart>Eduardo César Leão Marques</mods:namePart>
@@ -755,10 +818,13 @@
     <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
-        <mods:title>Mesa Hispana: The Development of Social Network Analysis in Latin America</mods:title>
+        <mods:title>First European Conference on Social Networks</mods:title>
       </mods:titleInfo>
       <mods:originInfo>
         <mods:dateIssued/>
+        <mods:place>
+          <mods:placeTerm type="text">Barcelona</mods:placeTerm>
+        </mods:place>
       </mods:originInfo>
       <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
@@ -1147,7 +1213,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P49</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.sei.ba.gov.br/publicacoes/publicacoes_sei/bahia_analise/analise_dados/sumario/sum_aed_desigualdade.php</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.sei.ba.gov.br/publicacoes/publicacoes_sei/bahia_analise/analise_dados/sumario/sum_aed_desigualdade.php</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-51">
@@ -1197,7 +1263,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P51</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://socialsciences.scielo.org/cgi-bin/wxis.exe/iah/</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://socialsciences.scielo.org/cgi-bin/wxis.exe/iah/</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-53">
@@ -1269,7 +1335,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P53</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.bpsr.org.br/revista/natual.htm</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.bpsr.org.br/revista/natual.htm</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-54">
@@ -1320,7 +1386,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P54</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://revista-redes.rediris.es/</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://revista-redes.rediris.es/</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-59">
@@ -1482,7 +1548,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P67</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.informaworld.com/smpp/content~db=all~content=a915056495</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.informaworld.com/smpp/content~db=all~content=a915056495</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-69">
@@ -1603,7 +1669,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P79</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://novosestudos.uol.com.br/</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://novosestudos.uol.com.br/</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-87">
@@ -1654,7 +1720,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P87</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.usp.br/revistausp/92/eduardo%20marques.pdf</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.usp.br/revistausp/92/eduardo%20marques.pdf</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-88">
@@ -1702,7 +1768,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P88</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.insna.org/PDF/Connections/v32/2012_I-1_P1-52.pdf</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.insna.org/PDF/Connections/v32/2012_I-1_P1-52.pdf</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-90">
@@ -2092,7 +2158,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P98</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://revista-redes.rediris.es/html-vol22/vol22_3.htm</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://revista-redes.rediris.es/html-vol22/vol22_3.htm</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-178">
@@ -2257,7 +2323,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P234</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.insna.org/connections/v35/v35_2_2.html</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.insna.org/connections/v35/v35_2_2.html</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-266">
@@ -2308,7 +2374,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P266</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://aplicacoes.mds.gov.br/sagirmps/ferramentas/docs/Caderno%20de%20Estudos%2026.pdf</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://aplicacoes.mds.gov.br/sagirmps/ferramentas/docs/Caderno%20de%20Estudos%2026.pdf</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-281">
@@ -2350,7 +2416,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P281</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://periodicos.ufpb.br/index.php/rppi/article/view/28463/15931</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://periodicos.ufpb.br/index.php/rppi/article/view/28463/15931</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-319">
@@ -2404,7 +2470,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P319</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1981-38212017000200202&amp;lng=en&amp;nrm=iso&amp;tlng=en</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1981-38212017000200202&amp;lng=en&amp;nrm=iso&amp;tlng=en</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1590/1981-3821201700020003</mods:identifier>
   </mods:mods>
@@ -2450,7 +2516,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P335</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://novosestudos.uol.com.br/produto/108/#599f3e7ada839</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://novosestudos.uol.com.br/produto/108/#599f3e7ada839</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-336">
@@ -2501,7 +2567,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P336</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://novosestudos.uol.com.br/produto/108/#599f3e7b11cc2</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://novosestudos.uol.com.br/produto/108/#599f3e7b11cc2</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-390">
@@ -2555,7 +2621,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P390</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.periodicos.ufpb.br/index.php/rppi/article/view/37055</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.periodicos.ufpb.br/index.php/rppi/article/view/37055</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-396">
@@ -2758,7 +2824,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P442</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.scielo.br/pdf/rbcsoc/v35n102/0102-6909-rbcsoc-35-102-e3510207.pdf</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.scielo.br/pdf/rbcsoc/v35n102/0102-6909-rbcsoc-35-102-e3510207.pdf</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1590/3510207/2020</mods:identifier>
   </mods:mods>
@@ -2813,7 +2879,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P474</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://periodicos.ufpb.br/index.php/rppi/article/view/50216/29391</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://periodicos.ufpb.br/index.php/rppi/article/view/50216/29391</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.22478/ufpb.2525-5584.2019v4n3.50216</mods:identifier>
   </mods:mods>
@@ -2914,7 +2980,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P572</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://www.scielo.br/j/rap/a/vBvJnmywMQm6nR9HgTh3FTG/</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://www.scielo.br/j/rap/a/vBvJnmywMQm6nR9HgTh3FTG/</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1590/0034-761220200688</mods:identifier>
   </mods:mods>
@@ -2963,7 +3029,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P573</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://brazilianpoliticalsciencereview.org/article/policy-dynamics-and-government-attention-over-welfare-policies-an-analysis-of-the-brazilian-case/</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://brazilianpoliticalsciencereview.org/article/policy-dynamics-and-government-attention-over-welfare-policies-an-analysis-of-the-brazilian-case/</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-585">
@@ -3008,7 +3074,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P585</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://https://www.scielo.br/j/ln/a/GYmZJkzpqtmdDP4xv87ZhJD/?fbclid=IwAR2MlrbZF49dW4DwycQhI9AEVl02i9dfsZ3gs9W3gqA8nvB0QmJWL44h0ZQ</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://https://www.scielo.br/j/ln/a/GYmZJkzpqtmdDP4xv87ZhJD/?fbclid=IwAR2MlrbZF49dW4DwycQhI9AEVl02i9dfsZ3gs9W3gqA8nvB0QmJWL44h0ZQ</mods:url>
     </mods:location>
     <mods:identifier type="doi">10.1590/0102-211246/113</mods:identifier>
   </mods:mods>
@@ -3118,7 +3184,7 @@
     </mods:part>
     <mods:identifier type="citekey">#P134</mods:identifier>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://revistes.uab.cat/redes/article/view/v25-n1-marques-bichir-moya</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://revistes.uab.cat/redes/article/view/v25-n1-marques-bichir-moya</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-136">
@@ -4662,7 +4728,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -4693,14 +4759,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www1.folha.uol.com.br/fsp/poder/po0602201116.htm</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www1.folha.uol.com.br/fsp/poder/po0602201116.htm</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-110">
@@ -4730,7 +4796,7 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
@@ -4761,14 +4827,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.diplomatique.org.br/resenhas.php?edicao=77</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.diplomatique.org.br/resenhas.php?edicao=77</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-287">
@@ -4798,14 +4864,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://jornal.usp.br/ciencias/ciencias-humanas/integracao-com-bolsa-familia-contribuiu-com-expansao-da-rede-publica-de-assistencia-social-aponta-estudo/</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://jornal.usp.br/ciencias/ciencias-humanas/integracao-com-bolsa-familia-contribuiu-com-expansao-da-rede-publica-de-assistencia-social-aponta-estudo/</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-331">
@@ -4835,14 +4901,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://jornal.usp.br/ciencias/ciencias-humanas/integracao-com-bolsa-familia-contribuiu-com-expansao-da-rede-publica-de-assistencia-social-aponta-estudo/http://www.ihu.unisinos.br/entrevistas/547303-a-polifonia-dos-saberes-e-de-agentes-na-politica-pub</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://jornal.usp.br/ciencias/ciencias-humanas/integracao-com-bolsa-familia-contribuiu-com-expansao-da-rede-publica-de-assistencia-social-aponta-estudo/http://www.ihu.unisinos.br/entrevistas/547303-a-polifonia-dos-saberes-e-de-agentes-na-politica-pub</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-332">
@@ -4869,14 +4935,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://www.nexojornal.com.br/ensaio/2016/10/11/Entre-a-panaceia-e-a-miopia-algumas-reflex%C3%B5es-sobre-o-Bolsa-Fam%C3%ADlia</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.nexojornal.com.br/ensaio/2016/10/11/Entre-a-panaceia-e-a-miopia-algumas-reflex%C3%B5es-sobre-o-Bolsa-Fam%C3%ADlia</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-345">
@@ -4915,14 +4981,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://www.revistaeducacao.com.br/envolver-diferentes-setores-governamentais-no-atendimento-as-criancas-pequenas-e-tendencia-promissora/</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.revistaeducacao.com.br/envolver-diferentes-setores-governamentais-no-atendimento-as-criancas-pequenas-e-tendencia-promissora/</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-353">
@@ -4952,14 +5018,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://revistapesquisa.fapesp.br/2017/08/18/gestao-de-laboratorio/</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://revistapesquisa.fapesp.br/2017/08/18/gestao-de-laboratorio/</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-413">
@@ -4985,14 +5051,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://www.nexojornal.com.br/ensaio/2018/Pobreza-prote%C3%A7%C3%A3o-e-vulnerabilidade-nas-elei%C3%A7%C3%B5es-2018</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.nexojornal.com.br/ensaio/2018/Pobreza-prote%C3%A7%C3%A3o-e-vulnerabilidade-nas-elei%C3%A7%C3%B5es-2018</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-495">
@@ -5025,14 +5091,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://politica.estadao.com.br/blogs/gestao-politica-e-sociedade/a-assistencia-social-e-a-pandemia-contribuicoes-de-uma-politica-relegada/</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://politica.estadao.com.br/blogs/gestao-politica-e-sociedade/a-assistencia-social-e-a-pandemia-contribuicoes-de-uma-politica-relegada/</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-501">
@@ -5071,14 +5137,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2020/A-pol%C3%ADtica-de-assist%C3%AAncia-social-e-o-Programa-Bolsa-Fam%C3%ADlia-em-9-pontos</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2020/A-pol%C3%ADtica-de-assist%C3%AAncia-social-e-o-Programa-Bolsa-Fam%C3%ADlia-em-9-pontos</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-508">
@@ -5117,14 +5183,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2020/10-perguntas-que-a-ci%C3%AAncia-j%C3%A1-respondeu-sobre-popula%C3%A7%C3%A3o-em-situa%C3%A7%C3%A3o-de-rua</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2020/10-perguntas-que-a-ci%C3%AAncia-j%C3%A1-respondeu-sobre-popula%C3%A7%C3%A3o-em-situa%C3%A7%C3%A3o-de-rua</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-510">
@@ -5151,14 +5217,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/linha-do-tempo/2020/A-hist%C3%B3ria-do-Bolsa-Fam%C3%ADlia</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/linha-do-tempo/2020/A-hist%C3%B3ria-do-Bolsa-Fam%C3%ADlia</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-512">
@@ -5185,14 +5251,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://jornal.usp.br/atualidades/criacao-do-renda-brasil-deve-considerar-as-novas-dimensoes-sociais/</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/criacao-do-renda-brasil-deve-considerar-as-novas-dimensoes-sociais/</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-513">
@@ -5219,14 +5285,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://jornal.usp.br/atualidades/pesquisas-da-usp-apontam-solucoes-para-problemas-cronicos-da-cidade-de-sao-paulo/</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/pesquisas-da-usp-apontam-solucoes-para-problemas-cronicos-da-cidade-de-sao-paulo/</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-579">
@@ -5258,14 +5324,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/opiniao/2021/A-relev%C3%A2ncia-da-coordena%C3%A7%C3%A3o-federal-na-redu%C3%A7%C3%A3o-de-desigualdades-o-caso-da-assist%C3%AAncia-social</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/opiniao/2021/A-relev%C3%A2ncia-da-coordena%C3%A7%C3%A3o-federal-na-redu%C3%A7%C3%A3o-de-desigualdades-o-caso-da-assist%C3%AAncia-social</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-623">
@@ -5301,14 +5367,14 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">https://pp.nexojornal.com.br/academico/2022/O-que-foi-feito-por-estados-e-munic%C3%ADpios-para-combater-as-desigualdades-durante-a-pandemia?fbclid=IwAR0wpDcogz8CeZH7HosWTt1MZuh9AUJZX80Jo17YKGOyXS03Q45HqmALhuk</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://pp.nexojornal.com.br/academico/2022/O-que-foi-feito-por-estados-e-munic%C3%ADpios-para-combater-as-desigualdades-durante-a-pandemia?fbclid=IwAR0wpDcogz8CeZH7HosWTt1MZuh9AUJZX80Jo17YKGOyXS03Q45HqmALhuk</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-280">
@@ -5335,14 +5401,772 @@
       <mods:originInfo>
         <mods:issuance>continuing</mods:issuance>
       </mods:originInfo>
-      <mods:genre authority="marcgt">periodical</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
       <mods:genre>magazine or newspaper</mods:genre>
     </mods:relatedItem>
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:location>
-      <mods:url displayLabel="electronic full text" access="raw object">http://oglobo.globo.com/sociedade/conte-algo-que-nao-sei/renata-bichir-sociologa-politica-publica-tem-que-ter-padrao-19995596</mods:url>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://oglobo.globo.com/sociedade/conte-algo-que-nao-sei/renata-bichir-sociologa-politica-publica-tem-que-ter-padrao-19995596</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-297">
+    <mods:titleInfo>
+      <mods:title>Integração com Bolsa Família contribuiu com expansão da rede pública de assistência social, aponta estudo</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2016</mods:dateIssued>
+      <mods:dateIssued>14092016</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Integração com Bolsa Família contribuiu com expansão da rede pública de assistência social, aponta estudo</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://jornal.usp.br/ciencias/ciencias-humanas/integracao-com-bolsa-familia-contribuiu-com-expansao-da-rede-publica-de-assistencia-social-aponta-estudo/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-298">
+    <mods:titleInfo>
+      <mods:title>A polifonia dos saberes e de agentes na política pública</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2015</mods:dateIssued>
+      <mods:dateIssued>28092015</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>A polifonia dos saberes e de agentes na política pública</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.ihuonline.unisinos.br/index.php?option=com_content&amp;view=article&amp;id=6149&amp;secao=473</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-299">
+    <mods:titleInfo>
+      <mods:title>Entre a panaceia e a miopia: algumas reflexões sobre o Bolsa Família</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2016</mods:dateIssued>
+      <mods:dateIssued>11102016</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Entre a panaceia e a miopia: algumas reflexões sobre o Bolsa Família</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.nexojornal.com.br/ensaio/2016/10/11/Entre-a-panaceia-e-a-miopia-algumas-reflex%C3%B5es-sobre-o-Bolsa-Fam%C3%ADlia</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-343">
+    <mods:titleInfo>
+      <mods:title>Brasil sofre retrocesso no combate à fome</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2017</mods:dateIssued>
+      <mods:dateIssued>19102017</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Brasil sofre retrocesso no combate à fome</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://jornal.usp.br/atualidades/brasil-sofre-retrocesso-no-combate-a-fome/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-344">
+    <mods:titleInfo>
+      <mods:title>Envolver diferentes setores governamentais no atendimento às crianças pequenas é tendência promissora</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Gabriela Spanghero Lotta</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Leonardo Yánez</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2017</mods:dateIssued>
+      <mods:dateIssued>26102017</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Envolver diferentes setores governamentais no atendimento às crianças pequenas é tendência promissora</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://www.revistaeducacao.com.br/envolver-diferentes-setores-governamentais-no-atendimento-as-criancas-pequenas-e-tendencia-promissora/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-347">
+    <mods:titleInfo>
+      <mods:title>Bolsa Família é um direito, não caridade</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2017</mods:dateIssued>
+      <mods:dateIssued>03082017</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Bolsa Família é um direito, não caridade</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">http://jornal.usp.br/atualidades/bolsa-familia-e-um-direito-nao-caridade/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-351">
+    <mods:titleInfo>
+      <mods:title>Qual o papel das políticas de redistribuição de renda na redução das desigualdades</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Nadya Araujo Guimarães</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2017</mods:dateIssued>
+      <mods:dateIssued>17112017</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Qual o papel das políticas de redistribuição de renda na redução das desigualdades</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.nexojornal.com.br/video/video/Qual-o-papel-das-pol%C3%ADticas-de-redistribui%C3%A7%C3%A3o-de-renda-na-redu%C3%A7%C3%A3o-das-desigualdades</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-460">
+    <mods:titleInfo>
+      <mods:title>Número de moradores em situação de rua deve alcançar maior nível da história em SP</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2019</mods:dateIssued>
+      <mods:dateIssued>15092019</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Número de moradores em situação de rua deve alcançar maior nível da história em SP</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://br.noticias.yahoo.com/moradores-de-rua-sp-070048350.html</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-461">
+    <mods:titleInfo>
+      <mods:title>Como São Paulo pode cuidar melhor dos seus moradores em situação de rua?</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2019</mods:dateIssued>
+      <mods:dateIssued>06092019</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Como São Paulo pode cuidar melhor dos seus moradores em situação de rua?</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/podcast/momento-cidade-09-como-sao-paulo-pode-cuidar-melhor-dos-seus-moradores-em-situacao-de-rua/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-478">
+    <mods:titleInfo>
+      <mods:title>Solução para vulnerabilidade social depende de políticas públicas</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>05022020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Solução para vulnerabilidade social depende de políticas públicas</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/solucao-para-vulnerabilidade-social-depende-de-politicas-publicas/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-479">
+    <mods:titleInfo>
+      <mods:title>Censo da prefeitura apontou que 24 mil pessoas vivem nas ruas da capital paulista</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Silvia Schor</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Júlio Lancelotti</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>17022020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Censo da prefeitura apontou que 24 mil pessoas vivem nas ruas da capital paulista</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www1.folha.uol.com.br/podcasts/2020/02/podcast-reune-historias-de-quem-mora-nas-ruas-de-sao-paulo-ouca.shtml?fbclid=IwAR2Ypfhx-wlbQL8yfdEynwkVNSQjf8sZK9ifzf40HjnUph80bL4lZ3DmxCE</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-490">
+    <mods:titleInfo>
+      <mods:title>Número de moradores em situação de rua deve alcançar maior nível da história em SP</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2019</mods:dateIssued>
+      <mods:dateIssued>15092019</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Número de moradores em situação de rua deve alcançar maior nível da história em SP</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://br.noticias.yahoo.com/moradores-de-rua-sp-070048350.html</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-491">
+    <mods:titleInfo>
+      <mods:title>Como São Paulo pode cuidar melhor dos seus moradores em situação de rua?</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2019</mods:dateIssued>
+      <mods:dateIssued>06092019</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Como São Paulo pode cuidar melhor dos seus moradores em situação de rua?</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/podcast/momento-cidade-09-como-sao-paulo-pode-cuidar-melhor-dos-seus-moradores-em-situacao-de-rua/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-492">
+    <mods:titleInfo>
+      <mods:title>A vida de quem mora nas ruas de São Paulo</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>17022020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>A vida de quem mora nas ruas de São Paulo</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www1.folha.uol.com.br/podcasts/2020/02/podcast-reune-historias-de-quem-mora-nas-ruas-de-sao-paulo-ouca.shtml</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-494">
+    <mods:titleInfo>
+      <mods:title>GPP em Debate</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Ursula Peres</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Cristiane Kerches da Silva Leite</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>21042020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>GPP em Debate</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-500">
+    <mods:titleInfo>
+      <mods:title>Criação do Renda Brasil deve considerar as novas dimensões sociais</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>17082020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Criação do Renda Brasil deve considerar as novas dimensões sociais</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/criacao-do-renda-brasil-deve-considerar-as-novas-dimensoes-sociais/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-509">
+    <mods:titleInfo>
+      <mods:title>Eleições municipais 2020: sete desafios que os prefeitos eleitos vão ter de enfrentar</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>26102020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Eleições municipais 2020: sete desafios que os prefeitos eleitos vão ter de enfrentar</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.bbc.com/portuguese/brasil-54545098</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-511">
+    <mods:titleInfo>
+      <mods:title>Criação do Renda Brasil deve considerar as novas dimensões sociais</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>17082020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Criação do Renda Brasil deve considerar as novas dimensões sociais</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/criacao-do-renda-brasil-deve-considerar-as-novas-dimensoes-sociais/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-514">
+    <mods:titleInfo>
+      <mods:title>A governança multinível da política de assistência social</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2020</mods:dateIssued>
+      <mods:dateIssued>06112020</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>A governança multinível da política de assistência social</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/pesquisas-da-usp-apontam-solucoes-para-problemas-cronicos-da-cidade-de-sao-paulo/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-567">
+    <mods:titleInfo>
+      <mods:title>Diálogos na USP - Fome, urgente</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Tereza Campello</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2021</mods:dateIssued>
+      <mods:dateIssued>26052021</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Diálogos na USP - Fome, urgente</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/dialogos-na-usp-discute-politicas-publicas-para-o-combate-a-fome/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-568">
+    <mods:titleInfo>
+      <mods:title>Pandemia fomenta novos debates sobre renda básica no Brasil</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2021</mods:dateIssued>
+      <mods:dateIssued>26052021</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Pandemia fomenta novos debates sobre renda básica no Brasil</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://jornal.usp.br/atualidades/pandemia-fomenta-novos-debates-sobre-renda-basica-no-brasil/</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-603">
+    <mods:titleInfo>
+      <mods:title>Caem doações para organizações que arrecadam alimentos</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2021</mods:dateIssued>
+      <mods:dateIssued>17122021</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Caem doações para organizações que arrecadam alimentos</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://g1.globo.com/jornal-nacional/noticia/2021/12/17/caem-doacoes-para-organizacoes-que-arrecadam-alimentos.ghtml</mods:url>
+    </mods:location>
+  </mods:mods>
+  <mods:mods ID="publication-605">
+    <mods:titleInfo>
+      <mods:title>Crise leva três gerações da mesma família para as ruas de São Paulo</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:originInfo>
+      <mods:dateIssued>2022</mods:dateIssued>
+      <mods:dateIssued>25012022</mods:dateIssued>
+    </mods:originInfo>
+    <mods:relatedItem type="host">
+      <mods:titleInfo>
+        <mods:title>Crise leva três gerações da mesma família para as ruas de São Paulo</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+        <mods:issuance>continuing</mods:issuance>
+      </mods:originInfo>
+      <mods:genre authority="marcgt">sound</mods:genre>
+      <mods:genre>radioBroadcast</mods:genre>
+    </mods:relatedItem>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+    <mods:location>
+      <mods:url usage="primary display" displayLabel="electronic full text">https://www.bbc.com/portuguese/brasil-60031378</mods:url>
     </mods:location>
   </mods:mods>
   <mods:mods ID="publication-154">
