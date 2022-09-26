@@ -10856,4 +10856,433 @@
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
   </mods:mods>
+  <mods:mods ID="publication-137">
+    <mods:titleInfo>
+      <mods:title>As políticas de infra-estrutura em São Paulo</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:identifier type="citekey">#P137</mods:identifier>
+    <mods:originInfo>
+      <mods:dateIssued>2003</mods:dateIssued>
+    </mods:originInfo>
+    <mods:name type="corporate" ID="institution-006700000002">
+      <mods:namePart>Universidade de São Paulo</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-138">
+    <mods:titleInfo>
+      <mods:title>Trajetórias e classe política em São Paulo: redes sociais e políticas públicas</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:identifier type="citekey">#P138</mods:identifier>
+    <mods:originInfo>
+      <mods:dateIssued>2004</mods:dateIssued>
+    </mods:originInfo>
+    <mods:name type="corporate" ID="institution-006700000002">
+      <mods:namePart>Universidade de São Paulo</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Miranda Zoppi</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-139">
+    <mods:titleInfo>
+      <mods:title>Favelas e loteamentos do Município de São Paulo: características sociais e padrões de atendimento por Políticas Públicas</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:identifier type="citekey">#P139</mods:identifier>
+    <mods:originInfo>
+      <mods:dateIssued>2004</mods:dateIssued>
+    </mods:originInfo>
+    <mods:name type="corporate" ID="institution-006700000002">
+      <mods:namePart>Universidade de São Paulo</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Camila Saraiva</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-140">
+    <mods:titleInfo>
+      <mods:title>Favelas e população em São Paulo</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:identifier type="citekey">#P140</mods:identifier>
+    <mods:originInfo>
+      <mods:dateIssued>2002</mods:dateIssued>
+    </mods:originInfo>
+    <mods:name type="corporate" ID="institution-006700000002">
+      <mods:namePart>Universidade de São Paulo</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Nancy Carolina Peris</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-141">
+    <mods:titleInfo>
+      <mods:title>Redes sociais e estruturas partidárias locais ? o Pt e o PP em São Paulo</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:identifier type="citekey">#P141</mods:identifier>
+    <mods:originInfo>
+      <mods:dateIssued>2005</mods:dateIssued>
+    </mods:originInfo>
+    <mods:name type="corporate" ID="institution-006700000002">
+      <mods:namePart>Universidade de São Paulo</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Lucas Brandão</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-142">
+    <mods:titleInfo>
+      <mods:title>Elites econômicas e redes sociais em São Paulo</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:identifier type="citekey">#P142</mods:identifier>
+    <mods:originInfo>
+      <mods:dateIssued>2005</mods:dateIssued>
+    </mods:originInfo>
+    <mods:name type="corporate" ID="institution-006700000002">
+      <mods:namePart>Universidade de São Paulo</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Mariana Kruchin</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-278">
+    <mods:titleInfo>
+      <mods:title>Cortiços do centro de São Paulo: redes pessoais e acesso a recurso</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:identifier type="citekey">#P278</mods:identifier>
+    <mods:originInfo>
+      <mods:dateIssued>2007</mods:dateIssued>
+    </mods:originInfo>
+    <mods:name type="corporate" ID="institution-002100000998">
+      <mods:namePart>faculdade de filosofia, letras e ciências humanas</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Igor Pantoja</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-467">
+    <mods:titleInfo>
+      <mods:title>As políticas de nano-tecnologia no Brasil</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:identifier type="citekey">#P467</mods:identifier>
+    <mods:originInfo>
+      <mods:dateIssued>2010</mods:dateIssued>
+    </mods:originInfo>
+    <mods:name type="corporate" ID="institution-002100000998">
+      <mods:namePart>faculdade de filosofia, letras e ciências humanas</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Jorge Luiz dos Santos Júnior</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-537">
+    <mods:titleInfo>
+      <mods:title>Políticas de transporte público em São Paulo</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:identifier type="citekey">#P537</mods:identifier>
+    <mods:originInfo>
+      <mods:dateIssued>2012</mods:dateIssued>
+    </mods:originInfo>
+    <mods:name type="corporate" ID="institution-000800000994">
+      <mods:namePart>Centro de Estudos da Metrópole</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Marcos Lopes Campos</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-538">
+    <mods:titleInfo>
+      <mods:title>Favelas e políticas para favelas em São Paulo</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:identifier type="citekey">#P538</mods:identifier>
+    <mods:originInfo>
+      <mods:dateIssued>2012</mods:dateIssued>
+    </mods:originInfo>
+    <mods:name type="corporate" ID="institution-000800000994">
+      <mods:namePart>Centro de Estudos da Metrópole</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Ana Beatriz Henriques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-539">
+    <mods:titleInfo>
+      <mods:title>Políticas de limpeza urbana em São Paulo</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:identifier type="citekey">#P539</mods:identifier>
+    <mods:originInfo>
+      <mods:dateIssued>2012</mods:dateIssued>
+    </mods:originInfo>
+    <mods:name type="corporate" ID="institution-000800000994">
+      <mods:namePart>Centro de Estudos da Metrópole</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Samuel Ralise</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-540">
+    <mods:titleInfo>
+      <mods:title>A circulação de idéias em âmbito internacional e o Programa Bolsa Família em Moçambique</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:identifier type="citekey">#P540</mods:identifier>
+    <mods:originInfo>
+      <mods:dateIssued>2013</mods:dateIssued>
+    </mods:originInfo>
+    <mods:name type="corporate" ID="institution-000800000994">
+      <mods:namePart>Centro de Estudos da Metrópole</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Maria Clara Oliveira</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
+  <mods:mods ID="publication-279">
+    <mods:titleInfo>
+      <mods:title>Os motoboys e a mobilidade urbana</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:identifier type="citekey">#P279</mods:identifier>
+    <mods:originInfo>
+      <mods:dateIssued>2007</mods:dateIssued>
+    </mods:originInfo>
+    <mods:name type="corporate" ID="institution-002000000996">
+      <mods:namePart>Faculdade de Filosofia Letras e Ciências Humanas da USP</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Tiago Tenório</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+      <mods:namePart>Eduardo Cesar Leão Marques</mods:namePart>
+      <mods:role>
+        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:language>
+      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
+    </mods:language>
+  </mods:mods>
 </mods:modsCollection>
