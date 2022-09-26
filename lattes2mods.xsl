@@ -526,7 +526,7 @@ Mountain View, California, 94041, USA.
       </mods:titleInfo>
 
       <mods:typeOfResource>text</mods:typeOfResource>
-      <mods:genre authority="marcgt">misc</mods:genre>
+      <mods:genre authority="marcgt">thesis</mods:genre>
       <mods:genre>Iniciação Científica / TCC</mods:genre>
       <mods:identifier type="citekey">#P<xsl:value-of select="@SEQUENCIA-PRODUCAO"/></mods:identifier>
 
