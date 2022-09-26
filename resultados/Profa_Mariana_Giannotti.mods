@@ -5767,13 +5767,14 @@
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
   </mods:mods>
-  <mods:mods ID="publication-45">
+  <mods:mods ID="others-45">
     <mods:titleInfo>
       <mods:title>Uma plataforma para relato de problemas da cidade</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P45</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2013</mods:dateIssued>
@@ -5799,14 +5800,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-54">
+  <mods:mods ID="others-54">
     <mods:titleInfo>
       <mods:title>Diagnóstico da drenagem de águas pluviais de uma bacia hidrográfica urbana de pequeno porte: O caso do córrego Jaguaré na cidade de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P54</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2014</mods:dateIssued>
@@ -5832,14 +5835,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-55">
+  <mods:mods ID="others-55">
     <mods:titleInfo>
       <mods:title>Estudo da Mobilidade Urbana no Município de São Paulo a partir de Geoprocessamento</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P55</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -5865,14 +5870,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-88">
+  <mods:mods ID="others-88">
     <mods:titleInfo>
       <mods:title>Estudos de acessibilidade em São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P88</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -5898,14 +5905,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-89">
+  <mods:mods ID="others-89">
     <mods:titleInfo>
       <mods:title>Caracterização da acessibilidade e mobilidade urbana no município de São Paulo a partir da análise exploratória de grandes volumes de dados espaciais</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P89</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -5931,14 +5940,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-90">
+  <mods:mods ID="others-90">
     <mods:titleInfo>
       <mods:title>Geoprocessamento para análise da correlação entre tráfego veicular e internações por doenças relacionadas à poluição atmosférica.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P90</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -5964,14 +5975,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-91">
+  <mods:mods ID="others-91">
     <mods:titleInfo>
       <mods:title>Análise dos deslocamentos dos habitantes de Paraisópolis por meio   de dados espaciais de transporte coletivo e a sua relação com o ambiente urbano</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P91</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -5997,14 +6010,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-97">
+  <mods:mods ID="others-97">
     <mods:titleInfo>
       <mods:title>Estudo técnico do sistema cicloviário de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P97</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6030,14 +6045,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-98">
+  <mods:mods ID="others-98">
     <mods:titleInfo>
       <mods:title>Análise espacial dos atropelamentos fatais no município de São Paulo e estudo de caso para possíveis soluções através da aplicação da Engenharia de Transportes</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P98</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6063,14 +6080,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-99">
+  <mods:mods ID="others-99">
     <mods:titleInfo>
       <mods:title>Análise do uso do transporte público pela população de baixa renda na cidade de São Paulo: estudo de caso de um fluxo crítico</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P99</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6096,14 +6115,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-123">
+  <mods:mods ID="others-123">
     <mods:titleInfo>
       <mods:title>Estudo da mobilidade urbana na região do Capão Redondo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P123</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
@@ -6129,14 +6150,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-127">
+  <mods:mods ID="others-127">
     <mods:titleInfo>
       <mods:title>O Programa Minha Casa Minha Vida no município de São Paulo: uma análise de inserção urbana a partir de indicadores de segregação e acessibilidade</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P127</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6162,14 +6185,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-128">
+  <mods:mods ID="others-128">
     <mods:titleInfo>
       <mods:title>Mapas de fragilidade ambiental para a avaliação de riscos em zonas de interesse social de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P128</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6195,14 +6220,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-146">
+  <mods:mods ID="others-146">
     <mods:titleInfo>
       <mods:title>Avaliação do impacto das emissões veiculares na saúde pública no município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P146</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
@@ -6228,14 +6255,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-147">
+  <mods:mods ID="others-147">
     <mods:titleInfo>
       <mods:title>A priorização de investimento no transporte público: proposta de indicadores de mobilidade urbana</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P147</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
@@ -6261,14 +6290,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-148">
+  <mods:mods ID="others-148">
     <mods:titleInfo>
       <mods:title>Avaliação da acessibilidade à educação do ensino médio do município de São Paulo através do Geoprocessamento.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P148</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -6294,14 +6325,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-168">
+  <mods:mods ID="others-168">
     <mods:titleInfo>
       <mods:title>Acessibilidade aos equipamentos de saúde no município de São Paulo.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P168</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -6327,14 +6360,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-187">
+  <mods:mods ID="others-187">
     <mods:titleInfo>
       <mods:title>Shared cycling infrastructure as feeder of public transport in São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P187</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
@@ -6360,14 +6395,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-188">
+  <mods:mods ID="others-188">
     <mods:titleInfo>
       <mods:title>Route choice and speed of cyclists in São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P188</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -6393,14 +6430,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-189">
+  <mods:mods ID="others-189">
     <mods:titleInfo>
       <mods:title>Forecasting spatial and temporal variation in OD pairs - A case study from São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P189</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -6426,14 +6465,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-212">
+  <mods:mods ID="others-212">
     <mods:titleInfo>
       <mods:title>Geoprocessamento aplicado à avaliação das desigualdades e exclusão social relacionada ao transporte em cidades brasileiras</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P212</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -6459,14 +6500,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-213">
+  <mods:mods ID="others-213">
     <mods:titleInfo>
       <mods:title>Geoprocessamento aplicado à avaliação das desigualdades relacionadas à oferta do transporte público em cidades brasileiras</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P213</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -6492,14 +6535,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-215">
+  <mods:mods ID="others-215">
     <mods:titleInfo>
       <mods:title>Índice de Caminhabilidade para o município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P215</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -6525,14 +6570,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-222">
+  <mods:mods ID="others-222">
     <mods:titleInfo>
       <mods:title>Otimização dos horários de redes de transporte público utilizando algoritmo genético</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P222</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -6558,14 +6605,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-240">
+  <mods:mods ID="others-240">
     <mods:titleInfo>
       <mods:title>Impacto de nova infraestrutura de transporte no uso do solo e na acessibilidade: estudo de caso na Linha 15 - Prata do Metrô de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P240</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -6591,14 +6640,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-241">
+  <mods:mods ID="others-241">
     <mods:titleInfo>
       <mods:title>Geoprocessamento aplicado à segurança viária</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P241</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -6624,14 +6675,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-258">
+  <mods:mods ID="others-258">
     <mods:titleInfo>
       <mods:title>Indicadores espaciais de vulnerabilidade frente a doenças respiratórias contagiosas para o suporte ao planejamento urbano: estudo de caso do município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P258</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -6657,14 +6710,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-259">
+  <mods:mods ID="others-259">
     <mods:titleInfo>
       <mods:title>Uso de indicadores de acessibilidade para avaliação de desigualdades socioespaciais relacionadas à produção habitacional do programa Minha Casa Minha Vida em capitais brasileiras</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P259</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -6690,14 +6745,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-260">
+  <mods:mods ID="others-260">
     <mods:titleInfo>
       <mods:title>Proposição de indicadores de acessibilidade e mobilidade para futuros planos de transporte do município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P260</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -6723,14 +6780,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-261">
+  <mods:mods ID="others-261">
     <mods:titleInfo>
       <mods:title>Proposta de indicadores para o planejamento urbano com enfoque na mobilidade ativa e inclusiva por bicicletas: estudo de caso no município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P261</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -6756,14 +6815,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-262">
+  <mods:mods ID="others-262">
     <mods:titleInfo>
       <mods:title>Comparing the performance characteristics of the Public Bike-Sharing Systems of São Paulo and Rio de Janeiro</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P262</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -6789,14 +6850,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-280">
+  <mods:mods ID="others-280">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P280</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -6822,14 +6885,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-281">
+  <mods:mods ID="others-281">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geoprocessamento aplicado ao transporte</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P281</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -6855,14 +6920,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-316">
+  <mods:mods ID="others-316">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P316</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -6888,14 +6955,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-317">
+  <mods:mods ID="others-317">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento) - Programa de Aperfeiçoamento de Ensino (PAE)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P317</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -6921,14 +6990,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-318">
+  <mods:mods ID="others-318">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P318</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -6954,14 +7025,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-319">
+  <mods:mods ID="others-319">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina Geoprocessamento aplicado a transporte</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P319</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -6987,14 +7060,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-320">
+  <mods:mods ID="others-320">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina Geoprocessamento aplicado a transporte</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P320</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -7020,14 +7095,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-321">
+  <mods:mods ID="others-321">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P321</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -7053,14 +7130,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-322">
+  <mods:mods ID="others-322">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P322</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -7086,14 +7165,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-323">
+  <mods:mods ID="others-323">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P323</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -7119,14 +7200,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-324">
+  <mods:mods ID="others-324">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geoprocessamento para Engenharia Ambiental</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P324</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -7152,14 +7235,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-325">
+  <mods:mods ID="others-325">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P325</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -7185,14 +7270,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-326">
+  <mods:mods ID="others-326">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P326</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -7218,14 +7305,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-327">
+  <mods:mods ID="others-327">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P327</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -7251,14 +7340,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-328">
+  <mods:mods ID="others-328">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P328</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -7284,14 +7375,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-329">
+  <mods:mods ID="others-329">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P329</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -7317,14 +7410,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-330">
+  <mods:mods ID="others-330">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P330</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -7350,14 +7445,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-331">
+  <mods:mods ID="others-331">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P331</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -7383,14 +7480,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-332">
+  <mods:mods ID="others-332">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geoprocessamento para Engenharia Ambiental</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P332</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -7416,14 +7515,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-333">
+  <mods:mods ID="others-333">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P333</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
@@ -7449,14 +7550,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-334">
+  <mods:mods ID="others-334">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P334</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
@@ -7482,14 +7585,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-335">
+  <mods:mods ID="others-335">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P335</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
@@ -7515,14 +7620,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-336">
+  <mods:mods ID="others-336">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P336</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -7548,14 +7655,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-337">
+  <mods:mods ID="others-337">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P337</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -7581,14 +7690,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-338">
+  <mods:mods ID="others-338">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina Princípios de Geoprocessamento</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P338</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -7614,14 +7725,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-339">
+  <mods:mods ID="others-339">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina Princípios de Geoprocessamento</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P339</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -7647,14 +7760,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-340">
+  <mods:mods ID="others-340">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina Princípios de Geoprocessamento</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P340</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -7680,14 +7795,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-349">
+  <mods:mods ID="others-349">
     <mods:titleInfo>
       <mods:title>Proposta de método para o cálculo do espaço viário dedicado aos diferentes modos de transporte no município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P349</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7713,14 +7830,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-350">
+  <mods:mods ID="others-350">
     <mods:titleInfo>
       <mods:title>Cidade Resiliente: Indicadores de planejamento urbano para monitoramento do sistema de mobilidade em situação de alagamento e inundação.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P350</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7746,14 +7865,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-351">
+  <mods:mods ID="others-351">
     <mods:titleInfo>
       <mods:title>Revisão e proposta de indicadores para reavaliação de planejamento do transporte público na cidade de São Paulo, com foco na redução das desigualdades</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P351</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7779,14 +7900,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-355">
+  <mods:mods ID="others-355">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P355</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7812,14 +7935,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-356">
+  <mods:mods ID="others-356">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P356</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7845,14 +7970,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-357">
+  <mods:mods ID="others-357">
     <mods:titleInfo>
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P357</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7878,14 +8005,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-348">
+  <mods:mods ID="others-348">
     <mods:titleInfo>
       <mods:title>Avaliação das dinâmicas territoriais baseada na análise dos incentivos econômicos propostos pelo Plano Diretor Estratégico em São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P348</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7911,5 +8040,6 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
 </mods:modsCollection>

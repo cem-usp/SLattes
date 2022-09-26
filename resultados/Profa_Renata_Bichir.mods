@@ -6532,13 +6532,14 @@
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
   </mods:mods>
-  <mods:mods ID="publication-149">
+  <mods:mods ID="others-149">
     <mods:titleInfo>
       <mods:title>Avaliação e Monitoramento de Políticas Públicas: A primeira etapa do Projeto Tietê sob o prisma do Indicador da Qualidade da Água da CETESB</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P149</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2014</mods:dateIssued>
@@ -6564,14 +6565,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-157">
+  <mods:mods ID="others-157">
     <mods:titleInfo>
       <mods:title>Cidadania Cultural e segregação urbana: um estudo sobre a relação entre a segregação e o acesso aos equipamentos culturais públicos no município de São Paulo.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P157</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2014</mods:dateIssued>
@@ -6597,14 +6600,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-160">
+  <mods:mods ID="others-160">
     <mods:titleInfo>
       <mods:title>Articulação e interação entre os níveis federal e estadual nas políticas públicas de habitação: estudo sobre as políticas de habitação do estado São Paulo e os programas federais de habitação.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P160</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2014</mods:dateIssued>
@@ -6630,14 +6635,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-198">
+  <mods:mods ID="others-198">
     <mods:titleInfo>
       <mods:title>Avaliação da Implementação Municipal do Programa Minha Casa Minha Vida.  Os casos de Jandira, Mairiporã, Jundiaí, Guarulhos, Guararema, Franco da Rocha e Itapevi</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P198</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6663,14 +6670,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-199">
+  <mods:mods ID="others-199">
     <mods:titleInfo>
       <mods:title>A intersetorialidade das políticas públicas de pobreza e gênero ? um ensaio sobre o Programa Bolsa Família e o Plano Nacional de Políticas para Mulheres</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P199</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6696,14 +6705,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-201">
+  <mods:mods ID="others-201">
     <mods:titleInfo>
       <mods:title>Cidadania cultural e o espaço urbano: a importância da dimensão espacial para as políticas públicas culturais no município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P201</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6729,14 +6740,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-232">
+  <mods:mods ID="others-232">
     <mods:titleInfo>
       <mods:title>Análise das políticas socioassistenciais de proteção básica no município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P232</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6762,14 +6775,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-265">
+  <mods:mods ID="others-265">
     <mods:titleInfo>
       <mods:title>Relações intersetoriais entre os setores da Saúde e Educação na implementação do Programa Saúde na Escola no distrito de Itaquera do município de São PauloAnálise intersetorial do território nos setores da Saúde e Assistência Social</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P265</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6795,14 +6810,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-274">
+  <mods:mods ID="others-274">
     <mods:titleInfo>
       <mods:title>Descentralização intramunicipal: as subprefeituras e o poder local na cidade de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P274</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6828,14 +6845,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-306">
+  <mods:mods ID="others-306">
     <mods:titleInfo>
       <mods:title>Assistência social no Brasil e na Argentina</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P306</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6861,14 +6880,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-307">
+  <mods:mods ID="others-307">
     <mods:titleInfo>
       <mods:title>Análise das interações entre famílias e burocratas de nível de rua em territórios vulneráveis</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P307</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6894,14 +6915,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-308">
+  <mods:mods ID="others-308">
     <mods:titleInfo>
       <mods:title>Aspectos da implementação da Política de Assistência Social em São Paulo: o contexto do território do Jardim Ângela</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P308</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6927,14 +6950,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-309">
+  <mods:mods ID="others-309">
     <mods:titleInfo>
       <mods:title>ANÁLISE DA INTERSETORIALIDADE NAS POLÍTICAS PARA MULHERES: O CENTRO ESPECIALIZADO DE ATENDIMENTO À MULHER EM SITUAÇÃO DE VIOLÊNCIA DOMÉSTICA ?VEM MARIA?, NO MUNICÍPIO DE SANTO ANDRÉ (2013-2016)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P309</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6960,14 +6985,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-312">
+  <mods:mods ID="others-312">
     <mods:titleInfo>
       <mods:title>Avaliação de políticas e programas educacionais na primeira infância</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P312</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6993,14 +7020,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-313">
+  <mods:mods ID="others-313">
     <mods:titleInfo>
       <mods:title>Políticas Públicas para Mulheres: desafios no processo de formulação e implementação de políticas com foco no gênero e raça em âmbito nacional e municipal</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P313</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -7026,14 +7055,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-314">
+  <mods:mods ID="others-314">
     <mods:titleInfo>
       <mods:title>ARRANJOS FAMILIARES DA PRIMEIRA INFÂNCIA NA REGIÃO METROPOLITANA DE SÃO PAULO: A DEMANDA POR EDUCAÇÃO INFANTIL</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P314</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -7059,14 +7090,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-324">
+  <mods:mods ID="others-324">
     <mods:titleInfo>
       <mods:title>Vigilância, monitoramento e avaliação: análise sobre o uso dos fluxos de informações da rede socioassistencial na cidade de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P324</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
@@ -7092,14 +7125,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-325">
+  <mods:mods ID="others-325">
     <mods:titleInfo>
       <mods:title>POLÍTICAS PÚBLICAS DE ENFRENTAMENTO AO CRACK NO MUNICÍPIO DE SÃO PAULO (2014-2019) SÃO PAULO 2019</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P325</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -7125,14 +7160,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-378">
+  <mods:mods ID="others-378">
     <mods:titleInfo>
       <mods:title>OS FLUXOS DA CRACOLÂNDIA: ENTRE A MILITÂNCIA E A BUROCRACIA NO NÍVEL DA IMPLEMENTAÇÃO</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P378</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -7158,14 +7195,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-381">
+  <mods:mods ID="others-381">
     <mods:titleInfo>
       <mods:title>Primeira infância na política estadual de assistência social</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P381</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -7191,14 +7230,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-418">
+  <mods:mods ID="others-418">
     <mods:titleInfo>
       <mods:title>A POLÍTICA DA ASSISTÊNCIA SOCIAL PARA POPULAÇÃO EM SITUAÇÃO DE RUA: UM OLHAR SOBRE A VIVÊNCIA DAS MULHERES EM SITUAÇÃO DE ACOLHIDA</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P418</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -7224,14 +7265,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-420">
+  <mods:mods ID="others-420">
     <mods:titleInfo>
       <mods:title>Estudo sobre a atuação dos estados na gestão e implementação na assistência social ? o caso do Estado de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P420</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7257,14 +7300,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-456">
+  <mods:mods ID="others-456">
     <mods:titleInfo>
       <mods:title>Educação e Inclusão: uma avaliação da implementação da Política Paulistana de Educação Especial, na Perspectiva da Educação Inclusiva</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P456</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -7290,14 +7335,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-457">
+  <mods:mods ID="others-457">
     <mods:titleInfo>
       <mods:title>ANÁLISE DA INTERFACE ENTRE A TEMÁTICA RACIAL E A POLÍTICA PÚBLICA DA ASSISTÊNCIA SOCIAL</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P457</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -7323,14 +7370,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-458">
+  <mods:mods ID="others-458">
     <mods:titleInfo>
       <mods:title>Interações Socioestatais: o Subsistema da Saúde da População Negra</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P458</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7356,14 +7405,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-459">
+  <mods:mods ID="others-459">
     <mods:titleInfo>
       <mods:title>Sistemas Nacionais de Políticas Públicas: Os desafios na construção do Sistema Único de Segurança Pública</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P459</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7389,14 +7440,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-472">
+  <mods:mods ID="others-472">
     <mods:titleInfo>
       <mods:title>O papel da mídia na interpretação das políticas públicas: um olhar sobre a relação entre Cuba e o Programa Mais Médicos</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P472</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -7422,14 +7475,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-487">
+  <mods:mods ID="others-487">
     <mods:titleInfo>
       <mods:title>Reflexões sobre o ?lugar? da população em situação de rua na política de assistência social?</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P487</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -7455,14 +7510,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-533">
+  <mods:mods ID="others-533">
     <mods:titleInfo>
       <mods:title>Territórios, redes e participação social: a articulação entre os conselhos de nível Municipal e Estadual da APA do Carmo/Zona Leste de São Paulo para institucionalização de políticas públicas  socioambientais.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P533</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7488,14 +7545,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-534">
+  <mods:mods ID="others-534">
     <mods:titleInfo>
       <mods:title>Interseccionalidade e Políticas Públicas: Articulações Possíveis</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P534</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7521,14 +7580,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-535">
+  <mods:mods ID="others-535">
     <mods:titleInfo>
       <mods:title>Medidas socioeducativas em meio aberto: uma análise da implementação dos serviços no município de São Paulo.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P535</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7554,14 +7615,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-536">
+  <mods:mods ID="others-536">
     <mods:titleInfo>
       <mods:title>O Conselho Municipal de Assistência Social da cidade de São  Paulo, atores relevantes e temas mobilizados</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P536</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7587,14 +7650,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-537">
+  <mods:mods ID="others-537">
     <mods:titleInfo>
       <mods:title>Requalificação do Anhangabaú: a entrada do tema na agenda  governamental</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P537</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7620,14 +7685,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-544">
+  <mods:mods ID="others-544">
     <mods:titleInfo>
       <mods:title>Monitoria PAE na disciplina FIAPP II</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P544</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -7653,14 +7720,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-591">
+  <mods:mods ID="others-591">
     <mods:titleInfo>
       <mods:title>O papel da psicopedagogia nas medidas socioeducativas para jovens em privação de liberdade: uma revisão da literatura de burocracia de rua</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P591</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7686,14 +7755,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-543">
+  <mods:mods ID="others-543">
     <mods:titleInfo>
       <mods:title>Monitoria PAE na disciplina FIAPP I</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P543</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -7719,5 +7790,6 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
 </mods:modsCollection>

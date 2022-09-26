@@ -520,14 +520,15 @@ Mountain View, California, 94041, USA.
   </xsl:template>
 
   <xsl:template match="OUTRAS-ORIENTACOES-CONCLUIDAS">
-    <mods:mods ID="publication-{@SEQUENCIA-PRODUCAO}">
+    <mods:mods ID="others-{@SEQUENCIA-PRODUCAO}">
       <mods:titleInfo>
 	<mods:title> <xsl:value-of select="DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@TITULO" /> </mods:title>
       </mods:titleInfo>
 
       <mods:typeOfResource>text</mods:typeOfResource>
-      <mods:genre authority="marcgt">thesis</mods:genre>
-      <mods:genre>Iniciação Científica / TCC</mods:genre>
+      <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+      <mods:genre authority="marcgt">misc</mods:genre>
+	  <mods:genre authority="local">misc</mods:genre>
       <mods:identifier type="citekey">#P<xsl:value-of select="@SEQUENCIA-PRODUCAO"/></mods:identifier>
 
       <mods:originInfo>
@@ -566,6 +567,7 @@ Mountain View, California, 94041, USA.
       <xsl:apply-templates select="DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@HOME-PAGE"/>
       <xsl:apply-templates select="DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@IDIOMA"/>
       <!-- <xsl:apply-templates select="AREAS-DO-CONHECIMENTO"/> -->
+	  <mods:note><xsl:value-of select="DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@NATUREZA" /></mods:note>
     </mods:mods>
   </xsl:template>
 

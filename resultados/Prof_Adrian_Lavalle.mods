@@ -10166,13 +10166,14 @@
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
   </mods:mods>
-  <mods:mods ID="publication-59">
+  <mods:mods ID="others-59">
     <mods:titleInfo>
       <mods:title>La enicidad en la nueva orden mundial</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P59</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>1996</mods:dateIssued>
@@ -10198,14 +10199,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Espanhol</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-60">
+  <mods:mods ID="others-60">
     <mods:titleInfo>
       <mods:title>La obra de arte como crítica de la cultura contemporanea</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P60</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>1994</mods:dateIssued>
@@ -10231,14 +10234,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Espanhol</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-145">
+  <mods:mods ID="others-145">
     <mods:titleInfo>
       <mods:title>O terceiro setor no Brasil: o Marco legal</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P145</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2003</mods:dateIssued>
@@ -10264,14 +10269,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-146">
+  <mods:mods ID="others-146">
     <mods:titleInfo>
       <mods:title>Organizações Civis e Representações Política</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P146</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2003</mods:dateIssued>
@@ -10297,14 +10304,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-181">
+  <mods:mods ID="others-181">
     <mods:titleInfo>
       <mods:title>Participação e representação - Velhas e novas práticas políticas</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P181</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2006</mods:dateIssued>
@@ -10330,14 +10339,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-182">
+  <mods:mods ID="others-182">
     <mods:titleInfo>
       <mods:title>A Formação do Indivíduo Moderno à Luz da Metodologia de Norbert Elias</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P182</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2006</mods:dateIssued>
@@ -10363,14 +10374,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-192">
+  <mods:mods ID="others-192">
     <mods:titleInfo>
       <mods:title>Ser ou não ser? Eis a questão! O dilema da representatividade das organizações civis nos espaçõs públicos institucionalizados</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P192</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2006</mods:dateIssued>
@@ -10396,14 +10409,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-193">
+  <mods:mods ID="others-193">
     <mods:titleInfo>
       <mods:title>A eleição americana de 2000: Dúvidas, falhas e conseqüências</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P193</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2006</mods:dateIssued>
@@ -10429,14 +10444,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-194">
+  <mods:mods ID="others-194">
     <mods:titleInfo>
       <mods:title>Análise sobre a alocação de recursos dentro do Programa do Orçamento Participativo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P194</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2007</mods:dateIssued>
@@ -10462,14 +10479,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-195">
+  <mods:mods ID="others-195">
     <mods:titleInfo>
       <mods:title>A reconfiguração da administração pública e a reforma gerencial sob a ótica da governança e da participação e controle social</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P195</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2007</mods:dateIssued>
@@ -10495,14 +10514,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-196">
+  <mods:mods ID="others-196">
     <mods:titleInfo>
       <mods:title>Vitória da minoria no sistema eleitoral americano</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P196</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2007</mods:dateIssued>
@@ -10528,14 +10549,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-197">
+  <mods:mods ID="others-197">
     <mods:titleInfo>
       <mods:title>Redes temáticas de pobreza e organizações civis na Cidade do México</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P197</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2007</mods:dateIssued>
@@ -10561,14 +10584,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-250">
+  <mods:mods ID="others-250">
     <mods:titleInfo>
       <mods:title>Formas de Representação nos Conselhos Setoriais de Políticas Públicas de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P250</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2008</mods:dateIssued>
@@ -10594,14 +10619,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-351">
+  <mods:mods ID="others-351">
     <mods:titleInfo>
       <mods:title>Orientador da Rede do INCT de Estudos da Metrópole</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P351</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2010</mods:dateIssued>
@@ -10627,14 +10654,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-375">
+  <mods:mods ID="others-375">
     <mods:titleInfo>
       <mods:title>Opinião pública e sistema político na obra de Niklas Luhmann</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P375</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2010</mods:dateIssued>
@@ -10660,14 +10689,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-376">
+  <mods:mods ID="others-376">
     <mods:titleInfo>
       <mods:title>Teoria política e associações - A origem das torcidas organizadas no Brasil</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P376</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2010</mods:dateIssued>
@@ -10693,14 +10724,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-395">
+  <mods:mods ID="others-395">
     <mods:titleInfo>
       <mods:title>Redes de Organizações civis e Conselhos gestores de políticas</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P395</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2012</mods:dateIssued>
@@ -10726,14 +10759,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-440">
+  <mods:mods ID="others-440">
     <mods:titleInfo>
       <mods:title>Organizações Civis - Estado, Intermediação e População Carente</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P440</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2013</mods:dateIssued>
@@ -10759,14 +10794,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-535">
+  <mods:mods ID="others-535">
     <mods:titleInfo>
       <mods:title>Representação Extraparlamentar e Conselhos Gestores em Goiânia: Padrões Decisórios</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P535</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -10792,14 +10829,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-546">
+  <mods:mods ID="others-546">
     <mods:titleInfo>
       <mods:title>Estructuración y cambio de los instrumentos de gobernanza local: una comparación de trayectorias en la política urbana del DF y SP</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P546</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2014</mods:dateIssued>
@@ -10825,14 +10864,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Espanhol</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-552">
+  <mods:mods ID="others-552">
     <mods:titleInfo>
       <mods:title>Representação Extraparlamentar e Conselhos Gestores em Fortaleza: Padrões Decisórios</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P552</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -10858,14 +10899,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-553">
+  <mods:mods ID="others-553">
     <mods:titleInfo>
       <mods:title>Representação Extraparlamentar e Conselhos Gestores em municípios Médios: Padrões Decisórios</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P553</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -10891,14 +10934,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-640">
+  <mods:mods ID="others-640">
     <mods:titleInfo>
       <mods:title>A mobilização social em São no contexto da crise da água</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P640</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -10924,14 +10969,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-641">
+  <mods:mods ID="others-641">
     <mods:titleInfo>
       <mods:title>A politica de asssitencia e os menor em conflito com a lei, uma comparação entre Brasil e México</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P641</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
@@ -10957,14 +11004,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Espanhol</mods:languageTerm>
     </mods:language>
+    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-719">
+  <mods:mods ID="others-719">
     <mods:titleInfo>
       <mods:title>Sem Rio Sem Mar: governança, movimentos sociais e o desastre socioambiental da Bacia do Rio Doce no Espírito Santo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P719</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -10990,14 +11039,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-720">
+  <mods:mods ID="others-720">
     <mods:titleInfo>
       <mods:title>Sem Rio, Sem Mar: governança, organizações da Sociedade Civil e o desastre socioambiental da Bacia do Rio Doce no Espírito Santo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P720</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -11023,14 +11074,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-721">
+  <mods:mods ID="others-721">
     <mods:titleInfo>
       <mods:title>Sem Rio Sem Mar: governança, o Ministério Público e capacidades estatais no desastre socioambiental da Bacia do Rio Doce no Espírito Santo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P721</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -11056,14 +11109,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-722">
+  <mods:mods ID="others-722">
     <mods:titleInfo>
       <mods:title>Sem Rio Sem Mar: governança, instrumentos extrajudiciais e o desastre socioambiental da Bacia do Rio Doce no Espírito Santo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P722</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -11089,14 +11144,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-829">
+  <mods:mods ID="others-829">
     <mods:titleInfo>
       <mods:title>Representação Extraparlamentar e Conselhos Gestores em Porto Alegre: Padrões Decisórios</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P829</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -11122,14 +11179,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-830">
+  <mods:mods ID="others-830">
     <mods:titleInfo>
       <mods:title>Councils, Subnational Regimes and Capacity Building</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P830</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -11155,14 +11214,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-834">
+  <mods:mods ID="others-834">
     <mods:titleInfo>
       <mods:title>James Holston e a Teoria Participativa: a especificidade da participação política brasileira à luz do participacionismo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P834</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -11188,14 +11249,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-879">
+  <mods:mods ID="others-879">
     <mods:titleInfo>
       <mods:title>Conselhos e Padrões de Atividade Decisória - bases para uma análise longitudinal</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P879</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -11221,14 +11284,16 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="publication-353">
+  <mods:mods ID="others-353">
     <mods:titleInfo>
       <mods:title>Opinião pública e sistema político na obra de Niklas Luhmann</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
-    <mods:genre>Iniciação Científica / TCC</mods:genre>
+    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
+    <mods:genre authority="local">misc</mods:genre>
     <mods:identifier type="citekey">#P353</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2010</mods:dateIssued>
@@ -11254,5 +11319,6 @@
     <mods:language>
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
+    <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
 </mods:modsCollection>
