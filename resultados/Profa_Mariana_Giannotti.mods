@@ -5772,7 +5772,7 @@
       <mods:title>Uma plataforma para relato de problemas da cidade</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P45</mods:identifier>
     <mods:originInfo>
@@ -5805,7 +5805,7 @@
       <mods:title>Diagnóstico da drenagem de águas pluviais de uma bacia hidrográfica urbana de pequeno porte: O caso do córrego Jaguaré na cidade de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P54</mods:identifier>
     <mods:originInfo>
@@ -5838,7 +5838,7 @@
       <mods:title>Estudo da Mobilidade Urbana no Município de São Paulo a partir de Geoprocessamento</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P55</mods:identifier>
     <mods:originInfo>
@@ -5871,7 +5871,7 @@
       <mods:title>Estudos de acessibilidade em São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P88</mods:identifier>
     <mods:originInfo>
@@ -5904,7 +5904,7 @@
       <mods:title>Caracterização da acessibilidade e mobilidade urbana no município de São Paulo a partir da análise exploratória de grandes volumes de dados espaciais</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P89</mods:identifier>
     <mods:originInfo>
@@ -5937,7 +5937,7 @@
       <mods:title>Geoprocessamento para análise da correlação entre tráfego veicular e internações por doenças relacionadas à poluição atmosférica.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P90</mods:identifier>
     <mods:originInfo>
@@ -5970,7 +5970,7 @@
       <mods:title>Análise dos deslocamentos dos habitantes de Paraisópolis por meio   de dados espaciais de transporte coletivo e a sua relação com o ambiente urbano</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P91</mods:identifier>
     <mods:originInfo>
@@ -6003,7 +6003,7 @@
       <mods:title>Estudo técnico do sistema cicloviário de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P97</mods:identifier>
     <mods:originInfo>
@@ -6036,7 +6036,7 @@
       <mods:title>Análise espacial dos atropelamentos fatais no município de São Paulo e estudo de caso para possíveis soluções através da aplicação da Engenharia de Transportes</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P98</mods:identifier>
     <mods:originInfo>
@@ -6069,7 +6069,7 @@
       <mods:title>Análise do uso do transporte público pela população de baixa renda na cidade de São Paulo: estudo de caso de um fluxo crítico</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P99</mods:identifier>
     <mods:originInfo>
@@ -6102,7 +6102,7 @@
       <mods:title>Estudo da mobilidade urbana na região do Capão Redondo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P123</mods:identifier>
     <mods:originInfo>
@@ -6135,7 +6135,7 @@
       <mods:title>O Programa Minha Casa Minha Vida no município de São Paulo: uma análise de inserção urbana a partir de indicadores de segregação e acessibilidade</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P127</mods:identifier>
     <mods:originInfo>
@@ -6168,7 +6168,7 @@
       <mods:title>Mapas de fragilidade ambiental para a avaliação de riscos em zonas de interesse social de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P128</mods:identifier>
     <mods:originInfo>
@@ -6201,7 +6201,7 @@
       <mods:title>Avaliação do impacto das emissões veiculares na saúde pública no município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P146</mods:identifier>
     <mods:originInfo>
@@ -6234,7 +6234,7 @@
       <mods:title>A priorização de investimento no transporte público: proposta de indicadores de mobilidade urbana</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P147</mods:identifier>
     <mods:originInfo>
@@ -6267,7 +6267,7 @@
       <mods:title>Avaliação da acessibilidade à educação do ensino médio do município de São Paulo através do Geoprocessamento.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P148</mods:identifier>
     <mods:originInfo>
@@ -6300,7 +6300,7 @@
       <mods:title>Acessibilidade aos equipamentos de saúde no município de São Paulo.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P168</mods:identifier>
     <mods:originInfo>
@@ -6333,7 +6333,7 @@
       <mods:title>Shared cycling infrastructure as feeder of public transport in São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P187</mods:identifier>
     <mods:originInfo>
@@ -6366,7 +6366,7 @@
       <mods:title>Route choice and speed of cyclists in São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P188</mods:identifier>
     <mods:originInfo>
@@ -6399,7 +6399,7 @@
       <mods:title>Forecasting spatial and temporal variation in OD pairs - A case study from São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P189</mods:identifier>
     <mods:originInfo>
@@ -6432,7 +6432,7 @@
       <mods:title>Geoprocessamento aplicado à avaliação das desigualdades e exclusão social relacionada ao transporte em cidades brasileiras</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P212</mods:identifier>
     <mods:originInfo>
@@ -6465,7 +6465,7 @@
       <mods:title>Geoprocessamento aplicado à avaliação das desigualdades relacionadas à oferta do transporte público em cidades brasileiras</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P213</mods:identifier>
     <mods:originInfo>
@@ -6498,7 +6498,7 @@
       <mods:title>Índice de Caminhabilidade para o município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P215</mods:identifier>
     <mods:originInfo>
@@ -6531,7 +6531,7 @@
       <mods:title>Otimização dos horários de redes de transporte público utilizando algoritmo genético</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P222</mods:identifier>
     <mods:originInfo>
@@ -6564,7 +6564,7 @@
       <mods:title>Impacto de nova infraestrutura de transporte no uso do solo e na acessibilidade: estudo de caso na Linha 15 - Prata do Metrô de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P240</mods:identifier>
     <mods:originInfo>
@@ -6597,7 +6597,7 @@
       <mods:title>Geoprocessamento aplicado à segurança viária</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P241</mods:identifier>
     <mods:originInfo>
@@ -6630,7 +6630,7 @@
       <mods:title>Indicadores espaciais de vulnerabilidade frente a doenças respiratórias contagiosas para o suporte ao planejamento urbano: estudo de caso do município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P258</mods:identifier>
     <mods:originInfo>
@@ -6663,7 +6663,7 @@
       <mods:title>Uso de indicadores de acessibilidade para avaliação de desigualdades socioespaciais relacionadas à produção habitacional do programa Minha Casa Minha Vida em capitais brasileiras</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P259</mods:identifier>
     <mods:originInfo>
@@ -6696,7 +6696,7 @@
       <mods:title>Proposição de indicadores de acessibilidade e mobilidade para futuros planos de transporte do município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P260</mods:identifier>
     <mods:originInfo>
@@ -6729,7 +6729,7 @@
       <mods:title>Proposta de indicadores para o planejamento urbano com enfoque na mobilidade ativa e inclusiva por bicicletas: estudo de caso no município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P261</mods:identifier>
     <mods:originInfo>
@@ -6762,7 +6762,7 @@
       <mods:title>Comparing the performance characteristics of the Public Bike-Sharing Systems of São Paulo and Rio de Janeiro</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P262</mods:identifier>
     <mods:originInfo>
@@ -6795,7 +6795,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P280</mods:identifier>
     <mods:originInfo>
@@ -6828,7 +6828,7 @@
       <mods:title>Monitoria na disciplina de Geoprocessamento aplicado ao transporte</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P281</mods:identifier>
     <mods:originInfo>
@@ -6861,7 +6861,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P316</mods:identifier>
     <mods:originInfo>
@@ -6894,7 +6894,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento) - Programa de Aperfeiçoamento de Ensino (PAE)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P317</mods:identifier>
     <mods:originInfo>
@@ -6927,7 +6927,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P318</mods:identifier>
     <mods:originInfo>
@@ -6960,7 +6960,7 @@
       <mods:title>Monitoria na disciplina Geoprocessamento aplicado a transporte</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P319</mods:identifier>
     <mods:originInfo>
@@ -6993,7 +6993,7 @@
       <mods:title>Monitoria na disciplina Geoprocessamento aplicado a transporte</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P320</mods:identifier>
     <mods:originInfo>
@@ -7026,7 +7026,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P321</mods:identifier>
     <mods:originInfo>
@@ -7059,7 +7059,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P322</mods:identifier>
     <mods:originInfo>
@@ -7092,7 +7092,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P323</mods:identifier>
     <mods:originInfo>
@@ -7125,7 +7125,7 @@
       <mods:title>Monitoria na disciplina de Geoprocessamento para Engenharia Ambiental</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P324</mods:identifier>
     <mods:originInfo>
@@ -7158,7 +7158,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P325</mods:identifier>
     <mods:originInfo>
@@ -7191,7 +7191,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P326</mods:identifier>
     <mods:originInfo>
@@ -7224,7 +7224,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P327</mods:identifier>
     <mods:originInfo>
@@ -7257,7 +7257,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P328</mods:identifier>
     <mods:originInfo>
@@ -7290,7 +7290,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P329</mods:identifier>
     <mods:originInfo>
@@ -7323,7 +7323,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P330</mods:identifier>
     <mods:originInfo>
@@ -7356,7 +7356,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P331</mods:identifier>
     <mods:originInfo>
@@ -7389,7 +7389,7 @@
       <mods:title>Monitoria na disciplina de Geoprocessamento para Engenharia Ambiental</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P332</mods:identifier>
     <mods:originInfo>
@@ -7422,7 +7422,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P333</mods:identifier>
     <mods:originInfo>
@@ -7455,7 +7455,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P334</mods:identifier>
     <mods:originInfo>
@@ -7488,7 +7488,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P335</mods:identifier>
     <mods:originInfo>
@@ -7521,7 +7521,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P336</mods:identifier>
     <mods:originInfo>
@@ -7554,7 +7554,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P337</mods:identifier>
     <mods:originInfo>
@@ -7587,7 +7587,7 @@
       <mods:title>Monitoria na disciplina Princípios de Geoprocessamento</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P338</mods:identifier>
     <mods:originInfo>
@@ -7620,7 +7620,7 @@
       <mods:title>Monitoria na disciplina Princípios de Geoprocessamento</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P339</mods:identifier>
     <mods:originInfo>
@@ -7653,7 +7653,7 @@
       <mods:title>Monitoria na disciplina Princípios de Geoprocessamento</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P340</mods:identifier>
     <mods:originInfo>
@@ -7686,7 +7686,7 @@
       <mods:title>Proposta de método para o cálculo do espaço viário dedicado aos diferentes modos de transporte no município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P349</mods:identifier>
     <mods:originInfo>
@@ -7719,7 +7719,7 @@
       <mods:title>Cidade Resiliente: Indicadores de planejamento urbano para monitoramento do sistema de mobilidade em situação de alagamento e inundação.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P350</mods:identifier>
     <mods:originInfo>
@@ -7752,7 +7752,7 @@
       <mods:title>Revisão e proposta de indicadores para reavaliação de planejamento do transporte público na cidade de São Paulo, com foco na redução das desigualdades</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P351</mods:identifier>
     <mods:originInfo>
@@ -7785,7 +7785,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P355</mods:identifier>
     <mods:originInfo>
@@ -7818,7 +7818,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P356</mods:identifier>
     <mods:originInfo>
@@ -7851,7 +7851,7 @@
       <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P357</mods:identifier>
     <mods:originInfo>
@@ -7884,7 +7884,7 @@
       <mods:title>Avaliação das dinâmicas territoriais baseada na análise dos incentivos econômicos propostos pelo Plano Diretor Estratégico em São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre authority="marcgt">misc</mods:genre>
     <mods:genre>Iniciação Científica / TCC</mods:genre>
     <mods:identifier type="citekey">#P348</mods:identifier>
     <mods:originInfo>
