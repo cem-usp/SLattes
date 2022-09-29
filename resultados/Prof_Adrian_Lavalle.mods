@@ -70,6 +70,10 @@
     <mods:titleInfo>
       <mods:title>Youth and employment in Mexico</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P1</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>1993</mods:dateIssued>
     </mods:originInfo>
@@ -79,7 +83,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Youth Shaping the future</mods:title>
@@ -91,13 +94,16 @@
           <mods:placeTerm type="text">Seul</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-2">
     <mods:titleInfo>
       <mods:title>Análise Critica da Sociedade Civil</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P2</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>1995</mods:dateIssued>
     </mods:originInfo>
@@ -107,7 +113,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>III Convención internacional de trabajo Social</mods:title>
@@ -119,13 +124,16 @@
           <mods:placeTerm type="text">Ciudad de México</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-3">
     <mods:titleInfo>
       <mods:title>Societabilidade e associativismo - As práticas de consociação na Região Metropolitana de São Paulo</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P3</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
@@ -135,7 +143,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>I Simpósio de pós-graduandos em ciência política</mods:title>
@@ -147,13 +154,16 @@
           <mods:placeTerm type="text">São Paulo</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-44">
     <mods:titleInfo>
       <mods:title>Ser y hacer universitario: compromiso frente al cambio social</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P44</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>1993</mods:dateIssued>
     </mods:originInfo>
@@ -163,7 +173,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Misión y prospectiva: una invitación al diálogo permanente</mods:title>
@@ -175,13 +184,16 @@
           <mods:placeTerm type="text">Ciudad de México</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-115">
     <mods:titleInfo>
       <mods:title>Das bordas ao coração do sistema político: atores sociais, representatividades emergentes e representação democrática</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P115</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2003</mods:dateIssued>
     </mods:originInfo>
@@ -203,7 +215,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>XXVII Encontro Anual da Associação Nacional de Pós-Graduação em Ciências Sociais</mods:title>
@@ -215,13 +226,16 @@
           <mods:placeTerm type="text">Caxanbú, Minas Gerais</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-116">
     <mods:titleInfo>
       <mods:title>Pressupostos da cidadania moderna: igualdade como homogeneidade e como eqüidade</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P116</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2002</mods:dateIssued>
     </mods:originInfo>
@@ -231,7 +245,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>XXVI Encontro Anual da Associação Nacional de Pós-Graduação em Ciências Sociais</mods:title>
@@ -243,13 +256,16 @@
           <mods:placeTerm type="text">Caxambú</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-117">
     <mods:titleInfo>
       <mods:title>A identidade nacional pelo aveso: a desigualdade social no Brasil e a formação de um ethos público</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P117</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
@@ -259,7 +275,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>XXV Encontro Anual da Associação Nacional de Pós-Graduação em Ciências Sociais</mods:title>
@@ -271,13 +286,16 @@
           <mods:placeTerm type="text">Caxambu, Minas Gerais</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-141">
     <mods:titleInfo>
       <mods:title>A nova representação política, organizações civis e  instituições políticas - Lições do Brasil</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P141</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2005</mods:dateIssued>
     </mods:originInfo>
@@ -299,7 +317,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>XXIX Encontro Anual da ANPOCS  2005</mods:title>
@@ -311,13 +328,16 @@
           <mods:placeTerm type="text">Caxanbú, Minas Gerais</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-162">
     <mods:titleInfo>
       <mods:title>Movimentos sociais, Estado e mercado: a esfera pública no novo milênio</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P162</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2004</mods:dateIssued>
     </mods:originInfo>
@@ -327,7 +347,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Movimentos Sociais, participação e democracia</mods:title>
@@ -338,13 +357,16 @@
           <mods:placeTerm type="text">Florianópolis</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-209">
     <mods:titleInfo>
       <mods:title>Democracy, accountability, citizens and civil society - Positive theory and empirical findings</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P209</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
@@ -360,7 +382,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>XXXI Encontro Anual da ANPOCS - Programa e Resumos</mods:title>
@@ -372,7 +393,6 @@
           <mods:placeTerm type="text">Caxambu</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
       <mods:identifier type="isbn">1858645239</mods:identifier>
     </mods:relatedItem>
   </mods:mods>
@@ -380,6 +400,10 @@
     <mods:titleInfo>
       <mods:title>Diversificación de la democracia y Pluralización de la representación</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P210</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
@@ -389,7 +413,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Latin American StudiesAssociation Congress</mods:title>
@@ -401,13 +424,16 @@
           <mods:placeTerm type="text">Montreal</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-241">
     <mods:titleInfo>
       <mods:title>La rendición de cuentas en Brasil - Un panorama institucional y de la innovación democrática</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P241</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2008</mods:dateIssued>
     </mods:originInfo>
@@ -417,7 +443,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Seminário Contraloria social en México: hacia una cultura de la legalidad</mods:title>
@@ -428,7 +453,6 @@
           <mods:placeTerm type="text">Cidade do México</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-4">
@@ -10171,9 +10195,8 @@
       <mods:title>La enicidad en la nueva orden mundial</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P59</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>1996</mods:dateIssued>
@@ -10206,9 +10229,8 @@
       <mods:title>La obra de arte como crítica de la cultura contemporanea</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P60</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>1994</mods:dateIssued>
@@ -10241,9 +10263,8 @@
       <mods:title>O terceiro setor no Brasil: o Marco legal</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P145</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2003</mods:dateIssued>
@@ -10276,9 +10297,8 @@
       <mods:title>Organizações Civis e Representações Política</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P146</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2003</mods:dateIssued>
@@ -10311,9 +10331,8 @@
       <mods:title>Participação e representação - Velhas e novas práticas políticas</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P181</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2006</mods:dateIssued>
@@ -10346,9 +10365,8 @@
       <mods:title>A Formação do Indivíduo Moderno à Luz da Metodologia de Norbert Elias</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P182</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2006</mods:dateIssued>
@@ -10381,9 +10399,8 @@
       <mods:title>Ser ou não ser? Eis a questão! O dilema da representatividade das organizações civis nos espaçõs públicos institucionalizados</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P192</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2006</mods:dateIssued>
@@ -10416,9 +10433,8 @@
       <mods:title>A eleição americana de 2000: Dúvidas, falhas e conseqüências</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P193</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2006</mods:dateIssued>
@@ -10451,9 +10467,8 @@
       <mods:title>Análise sobre a alocação de recursos dentro do Programa do Orçamento Participativo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P194</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2007</mods:dateIssued>
@@ -10486,9 +10501,8 @@
       <mods:title>A reconfiguração da administração pública e a reforma gerencial sob a ótica da governança e da participação e controle social</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P195</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2007</mods:dateIssued>
@@ -10521,9 +10535,8 @@
       <mods:title>Vitória da minoria no sistema eleitoral americano</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P196</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2007</mods:dateIssued>
@@ -10556,9 +10569,8 @@
       <mods:title>Redes temáticas de pobreza e organizações civis na Cidade do México</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P197</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2007</mods:dateIssued>
@@ -10591,9 +10603,8 @@
       <mods:title>Formas de Representação nos Conselhos Setoriais de Políticas Públicas de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P250</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2008</mods:dateIssued>
@@ -10621,49 +10632,13 @@
     </mods:language>
     <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="others-351">
-    <mods:titleInfo>
-      <mods:title>Orientador da Rede do INCT de Estudos da Metrópole</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P351</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2010</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-003600000995">
-      <mods:namePart>Centro de Estudos da Metrópole</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Paula Berbert</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
   <mods:mods ID="others-375">
     <mods:titleInfo>
       <mods:title>Opinião pública e sistema político na obra de Niklas Luhmann</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P375</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2010</mods:dateIssued>
@@ -10696,9 +10671,8 @@
       <mods:title>Teoria política e associações - A origem das torcidas organizadas no Brasil</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P376</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2010</mods:dateIssued>
@@ -10726,84 +10700,13 @@
     </mods:language>
     <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="others-395">
-    <mods:titleInfo>
-      <mods:title>Redes de Organizações civis e Conselhos gestores de políticas</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P395</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2012</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-005000000990">
-      <mods:namePart>Instituto Nacional de Ciência e Tecnologia Centro de Estudos da Metrópole</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Thiago Greghi</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-440">
-    <mods:titleInfo>
-      <mods:title>Organizações Civis - Estado, Intermediação e População Carente</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P440</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2013</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-005000000990">
-      <mods:namePart>Instituto Nacional de Ciência e Tecnologia Centro de Estudos da Metrópole</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Jessica Voigt Quintino Pereira</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
   <mods:mods ID="others-535">
     <mods:titleInfo>
       <mods:title>Representação Extraparlamentar e Conselhos Gestores em Goiânia: Padrões Decisórios</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P535</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -10831,49 +10734,13 @@
     </mods:language>
     <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="others-546">
-    <mods:titleInfo>
-      <mods:title>Estructuración y cambio de los instrumentos de gobernanza local: una comparación de trayectorias en la política urbana del DF y SP</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P546</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2014</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-008600000996">
-      <mods:namePart>CEntro de Investigación y Docencia Económica (CIDE - México)</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Dionisio Zabaleta Solís</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Espanhol</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
   <mods:mods ID="others-552">
     <mods:titleInfo>
       <mods:title>Representação Extraparlamentar e Conselhos Gestores em Fortaleza: Padrões Decisórios</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P552</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -10906,9 +10773,8 @@
       <mods:title>Representação Extraparlamentar e Conselhos Gestores em municípios Médios: Padrões Decisórios</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P553</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -10936,84 +10802,13 @@
     </mods:language>
     <mods:note>INICIACAO_CIENTIFICA</mods:note>
   </mods:mods>
-  <mods:mods ID="others-640">
-    <mods:titleInfo>
-      <mods:title>A mobilização social em São no contexto da crise da água</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P640</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2016</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-145000000007">
-      <mods:namePart>Massachusetts Institute of Technology</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Isadora Cruxen</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-641">
-    <mods:titleInfo>
-      <mods:title>A politica de asssitencia e os menor em conflito com a lei, uma comparação entre Brasil e México</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P641</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2017</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-985600144271">
-      <mods:namePart>Facultad Latinoamericana de Ciencias Sociales - México</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Carolina Bascuñan</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Adrian Gurza Lavalle</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Espanhol</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
   <mods:mods ID="others-719">
     <mods:titleInfo>
       <mods:title>Sem Rio Sem Mar: governança, movimentos sociais e o desastre socioambiental da Bacia do Rio Doce no Espírito Santo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P719</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -11046,9 +10841,8 @@
       <mods:title>Sem Rio, Sem Mar: governança, organizações da Sociedade Civil e o desastre socioambiental da Bacia do Rio Doce no Espírito Santo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P720</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -11081,9 +10875,8 @@
       <mods:title>Sem Rio Sem Mar: governança, o Ministério Público e capacidades estatais no desastre socioambiental da Bacia do Rio Doce no Espírito Santo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P721</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -11116,9 +10909,8 @@
       <mods:title>Sem Rio Sem Mar: governança, instrumentos extrajudiciais e o desastre socioambiental da Bacia do Rio Doce no Espírito Santo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P722</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -11151,9 +10943,8 @@
       <mods:title>Representação Extraparlamentar e Conselhos Gestores em Porto Alegre: Padrões Decisórios</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P829</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -11186,9 +10977,8 @@
       <mods:title>Councils, Subnational Regimes and Capacity Building</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P830</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -11221,9 +11011,8 @@
       <mods:title>James Holston e a Teoria Participativa: a especificidade da participação política brasileira à luz do participacionismo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P834</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -11256,9 +11045,8 @@
       <mods:title>Conselhos e Padrões de Atividade Decisória - bases para uma análise longitudinal</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P879</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -11291,9 +11079,8 @@
       <mods:title>Opinião pública e sistema político na obra de Niklas Luhmann</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P353</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2010</mods:dateIssued>

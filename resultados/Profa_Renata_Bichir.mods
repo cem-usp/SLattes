@@ -70,6 +70,10 @@
     <mods:titleInfo>
       <mods:title>Jovens no município de São Paulo: explorando os efeitos das relações de vizinhança.</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P9</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2005</mods:dateIssued>
     </mods:originInfo>
@@ -91,7 +95,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>XI Encontro Nacional da Associação Nacional de Pós-graduação e Pesquisa em Planejamento Urbano e Regional</mods:title>
@@ -102,13 +105,16 @@
           <mods:placeTerm type="text">Salvador- BA</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-28">
     <mods:titleInfo>
       <mods:title>Redes pessoais e pobreza em São Paulo</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P28</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
@@ -148,7 +154,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Encontro Anual da ANPOCS</mods:title>
@@ -159,13 +164,16 @@
           <mods:placeTerm type="text">Caxambu, MG</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-29">
     <mods:titleInfo>
       <mods:title>Social networks, segregation and poverty in São Paulo</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P29</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
@@ -205,7 +213,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Internacional Urban justice and sustainability Conference</mods:title>
@@ -216,13 +223,16 @@
           <mods:placeTerm type="text">Vancouver</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-30">
     <mods:titleInfo>
       <mods:title>Estratégias territoriais para redução de desigualdades</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P30</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2006</mods:dateIssued>
     </mods:originInfo>
@@ -244,7 +254,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>3° Congresso Latinoamericano de Ciência Política</mods:title>
@@ -255,13 +264,16 @@
           <mods:placeTerm type="text">Campinas, SP</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-31">
     <mods:titleInfo>
       <mods:title>Estado e empreiteiras II: permeabilidade e políticas urbanas em São Paulo 1978/1998</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P31</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2002</mods:dateIssued>
     </mods:originInfo>
@@ -277,7 +289,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>3o Encontro da Associação Brasileira de Ciência Política - ABCP</mods:title>
@@ -288,13 +299,16 @@
           <mods:placeTerm type="text">Niterói, RJ</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-32">
     <mods:titleInfo>
       <mods:title>Clivagens ideológicas, decisões políticas e empresas privadas nos investimentos públicos urbanos</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P32</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
@@ -310,7 +324,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>XXV Encontro da Anpocs</mods:title>
@@ -321,13 +334,16 @@
           <mods:placeTerm type="text">Caxambu, MG</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-33">
     <mods:titleInfo>
       <mods:title>Estado e espaço urbano: revisitando as explicações correntes sobre as políticas estatais urbanas</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P33</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
@@ -343,7 +359,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Seminário Urbanismo e Poder</mods:title>
@@ -354,13 +369,16 @@
           <mods:placeTerm type="text">Curitiba, PR</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-34">
     <mods:titleInfo>
       <mods:title>Estado e infra-estrutura urbana: padrões de investimento estatal em São Paulo - 1978/98</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P34</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
@@ -376,7 +394,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Encontro da Anpur</mods:title>
@@ -387,13 +404,16 @@
           <mods:placeTerm type="text">Rio de Janeiro</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-35">
     <mods:titleInfo>
       <mods:title>Padrões de intermediação de interesses e relações entre público e privado em políticas urbanas: investimentos estatais em infra-estrutura urbana em São Paulo</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P35</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
@@ -409,7 +429,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>II Encontro da Associação Brasileira de Ciência Política - ABCP</mods:title>
@@ -420,13 +439,16 @@
           <mods:placeTerm type="text">São Paulo</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-36">
     <mods:titleInfo>
       <mods:title>Educação na Periferia de São Paulo: ou como pensar as desigualdades educacionais?</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P36</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2006</mods:dateIssued>
     </mods:originInfo>
@@ -454,7 +476,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Workshop Neighborhood effects, educational achievements and challenges for social policies</mods:title>
@@ -465,13 +486,16 @@
           <mods:placeTerm type="text">Rio de Janeiro</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-41">
     <mods:titleInfo>
       <mods:title>Residential Segregation in São Paulo: Consequences for Urban Policies</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P41</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2005</mods:dateIssued>
     </mods:originInfo>
@@ -487,7 +511,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Urban Governance and Intra-Urban Population Differentials in Latin American Metropolitan Areas</mods:title>
@@ -498,13 +521,16 @@
           <mods:placeTerm type="text">Austin, Texas</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-63">
     <mods:titleInfo>
       <mods:title>Novas experiências nas políticas de combate à pobreza: os programas de transferência de renda em São Paulo</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P63</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2008</mods:dateIssued>
     </mods:originInfo>
@@ -514,7 +540,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>32º Encontro Anual da Anpocs</mods:title>
@@ -525,13 +550,16 @@
           <mods:placeTerm type="text">Caxambu</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-130">
     <mods:titleInfo>
       <mods:title>Desafios e oportunidades na implementação de novos arranjos de proteção social no Brasil e na Argentina</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P130</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2013</mods:dateIssued>
     </mods:originInfo>
@@ -541,7 +569,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>37 Encontro Nacional da Anpocs</mods:title>
@@ -552,7 +579,6 @@
           <mods:placeTerm type="text">Águas de Lindóia</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
       <mods:identifier type="isbn">2177-3092</mods:identifier>
     </mods:relatedItem>
   </mods:mods>
@@ -560,6 +586,10 @@
     <mods:titleInfo>
       <mods:title>Coordenação federal e implementação local no caso do Programa Bolsa Família</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P131</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2012</mods:dateIssued>
     </mods:originInfo>
@@ -569,7 +599,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>8º Encontro da ABCP</mods:title>
@@ -580,13 +609,16 @@
           <mods:placeTerm type="text">Gramado</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-139">
     <mods:titleInfo>
       <mods:title>Capacidades estatais para a implementação de programas de transferência de  renda: os casos de Brasil, Argentina e África do Sul</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P139</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2014</mods:dateIssued>
     </mods:originInfo>
@@ -596,7 +628,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>IX Encontro da ABCP</mods:title>
@@ -607,13 +638,16 @@
           <mods:placeTerm type="text">Brasília</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-310">
     <mods:titleInfo>
       <mods:title>NOVAS AGENDAS, NOVOS DESAFIOS: REFLEXÕES SOBRE AS RELAÇÕES ENTRE TRANSFERÊNCIADE RENDA E ASSISTÊNCIA SOCIAL NO BRASIL</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P310</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
     </mods:originInfo>
@@ -623,7 +657,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>I Encontro Nacional de Ensino e Pesquisa do Campo De Públicas</mods:title>
@@ -634,13 +667,16 @@
           <mods:placeTerm type="text">Brasília</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-311">
     <mods:titleInfo>
       <mods:title>Novas agendas, novos desafios: reflexões sobre as relações entre transferência de renda e assistência social no Brasil</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P311</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
     </mods:originInfo>
@@ -650,7 +686,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>10o. Encontro da ABCP</mods:title>
@@ -661,13 +696,16 @@
           <mods:placeTerm type="text">Belo Horizonte</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-383">
     <mods:titleInfo>
       <mods:title>Capacidades estatais para implementação de políticas intersetoriais</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P383</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
     </mods:originInfo>
@@ -677,7 +715,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>9o. Congreso Latinoamericano de Ciencia Política (Alacip)</mods:title>
@@ -688,13 +725,16 @@
           <mods:placeTerm type="text">Montevidéu</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-384">
     <mods:titleInfo>
       <mods:title>Novas agendas, novos desafios: reflexões sobre as relações entre transferência de renda e assistência social no Brasil</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P384</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
     </mods:originInfo>
@@ -704,7 +744,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>10o Encontro da ABCP</mods:title>
@@ -715,13 +754,16 @@
           <mods:placeTerm type="text">Belo Horizonte</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-519">
     <mods:titleInfo>
       <mods:title>Determinants of the implementation of social assistance programs in Brazil: a multilevel approach</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P519</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
     </mods:originInfo>
@@ -737,7 +779,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>44o Encontro da ABCP</mods:title>
@@ -748,13 +789,16 @@
           <mods:placeTerm type="text">São Paulo</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-520">
     <mods:titleInfo>
       <mods:title>'Interações socioestatais na produção de políticas públicas: o caso da assistência social em São Paulo</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P520</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
     </mods:originInfo>
@@ -776,7 +820,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>12o Encontro da ABCP</mods:title>
@@ -787,13 +830,16 @@
           <mods:placeTerm type="text">João Pessoa</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-189">
     <mods:titleInfo>
       <mods:title>Notas sobre el análisis de redes sociales en Brasil</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P189</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2014</mods:dateIssued>
     </mods:originInfo>
@@ -815,7 +861,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>First European Conference on Social Networks</mods:title>
@@ -826,7 +871,6 @@
           <mods:placeTerm type="text">Barcelona</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-3">
@@ -6537,9 +6581,8 @@
       <mods:title>Avaliação e Monitoramento de Políticas Públicas: A primeira etapa do Projeto Tietê sob o prisma do Indicador da Qualidade da Água da CETESB</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P149</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2014</mods:dateIssued>
@@ -6572,9 +6615,8 @@
       <mods:title>Cidadania Cultural e segregação urbana: um estudo sobre a relação entre a segregação e o acesso aos equipamentos culturais públicos no município de São Paulo.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P157</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2014</mods:dateIssued>
@@ -6607,9 +6649,8 @@
       <mods:title>Articulação e interação entre os níveis federal e estadual nas políticas públicas de habitação: estudo sobre as políticas de habitação do estado São Paulo e os programas federais de habitação.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P160</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2014</mods:dateIssued>
@@ -6642,9 +6683,8 @@
       <mods:title>Avaliação da Implementação Municipal do Programa Minha Casa Minha Vida.  Os casos de Jandira, Mairiporã, Jundiaí, Guarulhos, Guararema, Franco da Rocha e Itapevi</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P198</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6677,9 +6717,8 @@
       <mods:title>A intersetorialidade das políticas públicas de pobreza e gênero ? um ensaio sobre o Programa Bolsa Família e o Plano Nacional de Políticas para Mulheres</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P199</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6712,9 +6751,8 @@
       <mods:title>Cidadania cultural e o espaço urbano: a importância da dimensão espacial para as políticas públicas culturais no município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P201</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6747,9 +6785,8 @@
       <mods:title>Análise das políticas socioassistenciais de proteção básica no município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P232</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6782,9 +6819,8 @@
       <mods:title>Relações intersetoriais entre os setores da Saúde e Educação na implementação do Programa Saúde na Escola no distrito de Itaquera do município de São PauloAnálise intersetorial do território nos setores da Saúde e Assistência Social</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P265</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6817,9 +6853,8 @@
       <mods:title>Descentralização intramunicipal: as subprefeituras e o poder local na cidade de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P274</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6852,9 +6887,8 @@
       <mods:title>Assistência social no Brasil e na Argentina</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P306</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6887,9 +6921,8 @@
       <mods:title>Análise das interações entre famílias e burocratas de nível de rua em territórios vulneráveis</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P307</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6922,9 +6955,8 @@
       <mods:title>Aspectos da implementação da Política de Assistência Social em São Paulo: o contexto do território do Jardim Ângela</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P308</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6957,9 +6989,8 @@
       <mods:title>ANÁLISE DA INTERSETORIALIDADE NAS POLÍTICAS PARA MULHERES: O CENTRO ESPECIALIZADO DE ATENDIMENTO À MULHER EM SITUAÇÃO DE VIOLÊNCIA DOMÉSTICA ?VEM MARIA?, NO MUNICÍPIO DE SANTO ANDRÉ (2013-2016)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P309</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6992,9 +7023,8 @@
       <mods:title>Avaliação de políticas e programas educacionais na primeira infância</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P312</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -7027,9 +7057,8 @@
       <mods:title>Políticas Públicas para Mulheres: desafios no processo de formulação e implementação de políticas com foco no gênero e raça em âmbito nacional e municipal</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P313</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -7062,9 +7091,8 @@
       <mods:title>ARRANJOS FAMILIARES DA PRIMEIRA INFÂNCIA NA REGIÃO METROPOLITANA DE SÃO PAULO: A DEMANDA POR EDUCAÇÃO INFANTIL</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P314</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -7097,9 +7125,8 @@
       <mods:title>Vigilância, monitoramento e avaliação: análise sobre o uso dos fluxos de informações da rede socioassistencial na cidade de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P324</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
@@ -7132,9 +7159,8 @@
       <mods:title>POLÍTICAS PÚBLICAS DE ENFRENTAMENTO AO CRACK NO MUNICÍPIO DE SÃO PAULO (2014-2019) SÃO PAULO 2019</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P325</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -7167,9 +7193,8 @@
       <mods:title>OS FLUXOS DA CRACOLÂNDIA: ENTRE A MILITÂNCIA E A BUROCRACIA NO NÍVEL DA IMPLEMENTAÇÃO</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P378</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -7202,9 +7227,8 @@
       <mods:title>Primeira infância na política estadual de assistência social</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P381</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -7237,9 +7261,8 @@
       <mods:title>A POLÍTICA DA ASSISTÊNCIA SOCIAL PARA POPULAÇÃO EM SITUAÇÃO DE RUA: UM OLHAR SOBRE A VIVÊNCIA DAS MULHERES EM SITUAÇÃO DE ACOLHIDA</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P418</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -7272,9 +7295,8 @@
       <mods:title>Estudo sobre a atuação dos estados na gestão e implementação na assistência social ? o caso do Estado de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P420</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7307,9 +7329,8 @@
       <mods:title>Educação e Inclusão: uma avaliação da implementação da Política Paulistana de Educação Especial, na Perspectiva da Educação Inclusiva</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P456</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -7342,9 +7363,8 @@
       <mods:title>ANÁLISE DA INTERFACE ENTRE A TEMÁTICA RACIAL E A POLÍTICA PÚBLICA DA ASSISTÊNCIA SOCIAL</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P457</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -7377,9 +7397,8 @@
       <mods:title>Interações Socioestatais: o Subsistema da Saúde da População Negra</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P458</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7412,9 +7431,8 @@
       <mods:title>Sistemas Nacionais de Políticas Públicas: Os desafios na construção do Sistema Único de Segurança Pública</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P459</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7447,9 +7465,8 @@
       <mods:title>O papel da mídia na interpretação das políticas públicas: um olhar sobre a relação entre Cuba e o Programa Mais Médicos</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P472</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -7482,9 +7499,8 @@
       <mods:title>Reflexões sobre o ?lugar? da população em situação de rua na política de assistência social?</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P487</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -7517,9 +7533,8 @@
       <mods:title>Territórios, redes e participação social: a articulação entre os conselhos de nível Municipal e Estadual da APA do Carmo/Zona Leste de São Paulo para institucionalização de políticas públicas  socioambientais.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P533</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7552,9 +7567,8 @@
       <mods:title>Interseccionalidade e Políticas Públicas: Articulações Possíveis</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P534</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7587,9 +7601,8 @@
       <mods:title>Medidas socioeducativas em meio aberto: uma análise da implementação dos serviços no município de São Paulo.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P535</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7622,9 +7635,8 @@
       <mods:title>O Conselho Municipal de Assistência Social da cidade de São  Paulo, atores relevantes e temas mobilizados</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P536</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7657,9 +7669,8 @@
       <mods:title>Requalificação do Anhangabaú: a entrada do tema na agenda  governamental</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P537</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7687,49 +7698,13 @@
     </mods:language>
     <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="others-544">
-    <mods:titleInfo>
-      <mods:title>Monitoria PAE na disciplina FIAPP II</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P544</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2016</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Pamella de Cicco Canato</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
   <mods:mods ID="others-591">
     <mods:titleInfo>
       <mods:title>O papel da psicopedagogia nas medidas socioeducativas para jovens em privação de liberdade: uma revisão da literatura de burocracia de rua</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P591</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7756,40 +7731,5 @@
       <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
     </mods:language>
     <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-543">
-    <mods:titleInfo>
-      <mods:title>Monitoria PAE na disciplina FIAPP I</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P543</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2016</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Pamella Canato</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Renata Mirandola Bichir</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
   </mods:mods>
 </mods:modsCollection>

@@ -58,6 +58,11 @@ Mountain View, California, 94041, USA.
 	<mods:title> <xsl:value-of select="DADOS-BASICOS-DO-TRABALHO/@TITULO-DO-TRABALHO" /> </mods:title>
       </mods:titleInfo>
 
+      <mods:typeOfResource>mixed material</mods:typeOfResource>
+      <mods:genre authority="local">presentation</mods:genre>
+      <mods:genre>presentation</mods:genre>
+      <mods:identifier type="citekey">#P<xsl:value-of select="@SEQUENCIA-PRODUCAO"/></mods:identifier>
+
       <mods:originInfo>
 	<mods:dateIssued> <xsl:value-of select="DADOS-BASICOS-DO-TRABALHO/@ANO-DO-TRABALHO" /> </mods:dateIssued>
       </mods:originInfo>
@@ -71,8 +76,6 @@ Mountain View, California, 94041, USA.
 	  </mods:role>
 	</mods:name>
       </xsl:for-each>
-
-      <mods:typeOfResource>text</mods:typeOfResource>
 
       <mods:relatedItem type="host">
 	<mods:titleInfo>
@@ -91,7 +94,6 @@ Mountain View, California, 94041, USA.
 	  </xsl:if>
 	</mods:originInfo>
 
-	<mods:genre authority="marcgt">conference publication</mods:genre>
 	<xsl:apply-templates select="DETALHAMENTO-DO-TRABALHO/@ISBN"/>
       </mods:relatedItem>
 
@@ -520,55 +522,56 @@ Mountain View, California, 94041, USA.
   </xsl:template>
 
   <xsl:template match="OUTRAS-ORIENTACOES-CONCLUIDAS">
-    <mods:mods ID="others-{@SEQUENCIA-PRODUCAO}">
-      <mods:titleInfo>
-	<mods:title> <xsl:value-of select="DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@TITULO" /> </mods:title>
-      </mods:titleInfo>
+	<xsl:if test="normalize-space(DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@NATUREZA) != 'ORIENTACAO-DE-OUTRA-NATUREZA'"> 
+		<mods:mods ID="others-{@SEQUENCIA-PRODUCAO}">
+		<mods:titleInfo>
+		<mods:title> <xsl:value-of select="DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@TITULO" /> </mods:title>
+		</mods:titleInfo>
 
-      <mods:typeOfResource>text</mods:typeOfResource>
-      <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-      <mods:genre authority="marcgt">misc</mods:genre>
-	  <mods:genre authority="local">misc</mods:genre>
-      <mods:identifier type="citekey">#P<xsl:value-of select="@SEQUENCIA-PRODUCAO"/></mods:identifier>
+		<mods:typeOfResource>text</mods:typeOfResource>
+		<mods:genre authority="marcgt">thesis</mods:genre>
+		<mods:genre>misc</mods:genre>
+		<mods:identifier type="citekey">#P<xsl:value-of select="@SEQUENCIA-PRODUCAO"/></mods:identifier>
 
-      <mods:originInfo>
-	<mods:dateIssued> <xsl:value-of select="DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@ANO"/> </mods:dateIssued>
-      </mods:originInfo>
+		<mods:originInfo>
+		<mods:dateIssued> <xsl:value-of select="DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@ANO"/> </mods:dateIssued>
+		</mods:originInfo>
 
-      <mods:name type="corporate">
-	<xsl:if test="string-length(DETALHAMENTO-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@CODIGO-INSTITUICAO)>0">
-	  <xsl:attribute name="ID">
-	    <xsl:value-of select="concat('institution-',DETALHAMENTO-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@CODIGO-INSTITUICAO)"/>
-	  </xsl:attribute>
+		<mods:name type="corporate">
+		<xsl:if test="string-length(DETALHAMENTO-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@CODIGO-INSTITUICAO)>0">
+		<xsl:attribute name="ID">
+			<xsl:value-of select="concat('institution-',DETALHAMENTO-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@CODIGO-INSTITUICAO)"/>
+		</xsl:attribute>
+		</xsl:if>
+		<mods:namePart> <xsl:value-of select="DETALHAMENTO-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@NOME-DA-INSTITUICAO"/> </mods:namePart>
+			<mods:role>
+		<mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
+		</mods:role>
+		</mods:name>
+		<mods:name type="personal">
+		<xsl:if test="string-length(DETALHAMENTO-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@NUMERO-ID-ORIENTADO)>0">
+		<xsl:attribute name="ID">
+			<xsl:value-of select="concat('person-',DETALHAMENTO-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@NUMERO-ID-ORIENTADO)"/>
+		</xsl:attribute>
+		</xsl:if>
+			<mods:namePart><xsl:value-of select="DETALHAMENTO-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@NOME-DO-ORIENTADO"/></mods:namePart>
+			<mods:role>
+		<mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
+		</mods:role>
+		</mods:name>
+		<mods:name type="personal">
+		<mods:namePart><xsl:value-of select="/CURRICULO-VITAE/DADOS-GERAIS/@NOME-COMPLETO"/></mods:namePart>
+		<mods:role>
+		<mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
+		</mods:role>
+		</mods:name>
+
+		<xsl:apply-templates select="DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@HOME-PAGE"/>
+		<xsl:apply-templates select="DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@IDIOMA"/>
+		<!-- <xsl:apply-templates select="AREAS-DO-CONHECIMENTO"/> -->
+		<mods:note><xsl:value-of select="DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@NATUREZA" /></mods:note>
+		</mods:mods>
 	</xsl:if>
-	<mods:namePart> <xsl:value-of select="DETALHAMENTO-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@NOME-DA-INSTITUICAO"/> </mods:namePart>
-        <mods:role>
-	  <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-	</mods:role>
-      </mods:name>
-      <mods:name type="personal">
-	<xsl:if test="string-length(DETALHAMENTO-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@NUMERO-ID-ORIENTADO)>0">
-	  <xsl:attribute name="ID">
-	    <xsl:value-of select="concat('person-',DETALHAMENTO-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@NUMERO-ID-ORIENTADO)"/>
-	  </xsl:attribute>
-	</xsl:if>
-        <mods:namePart><xsl:value-of select="DETALHAMENTO-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@NOME-DO-ORIENTADO"/></mods:namePart>
-        <mods:role>
-	  <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-	</mods:role>
-      </mods:name>
-      <mods:name type="personal">
-	<mods:namePart><xsl:value-of select="/CURRICULO-VITAE/DADOS-GERAIS/@NOME-COMPLETO"/></mods:namePart>
-	<mods:role>
-	  <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-	</mods:role>
-      </mods:name>
-
-      <xsl:apply-templates select="DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@HOME-PAGE"/>
-      <xsl:apply-templates select="DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@IDIOMA"/>
-      <!-- <xsl:apply-templates select="AREAS-DO-CONHECIMENTO"/> -->
-	  <mods:note><xsl:value-of select="DADOS-BASICOS-DE-OUTRAS-ORIENTACOES-CONCLUIDAS/@NATUREZA" /></mods:note>
-    </mods:mods>
   </xsl:template>
 
 

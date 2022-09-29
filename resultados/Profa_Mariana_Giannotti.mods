@@ -70,6 +70,10 @@
     <mods:titleInfo>
       <mods:title>Segmentação multitemporal de imagens em áreas agrícolas</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P3</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
@@ -91,7 +95,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>X Simpósio Brasileiro de Sensoriamento Remoto</mods:title>
@@ -102,13 +105,16 @@
           <mods:placeTerm type="text">Foz do Iguaçu</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-4">
     <mods:titleInfo>
       <mods:title>Comportamento espectral associado a parâmetros agronômicos de soja (Glycine max) e feijão (Phaseolus vulgaris)</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P4</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
@@ -136,7 +142,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>X Simpósio Brasileiro de Sensoriamento Remoto</mods:title>
@@ -147,13 +152,16 @@
           <mods:placeTerm type="text">Foz do Iguaçu</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-5">
     <mods:titleInfo>
       <mods:title>Planejamento e Realidade: Aptidão Agrícola Versus Uso da Terra no Estado de São Paulo</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P5</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2001</mods:dateIssued>
     </mods:originInfo>
@@ -181,7 +189,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>X Simpósio Brasileiro de Sensoriamento Remoto</mods:title>
@@ -192,13 +199,16 @@
           <mods:placeTerm type="text">Foz do Iguaçu</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-6">
     <mods:titleInfo>
       <mods:title>Effects of NDF and rumen degradable starch ration on performance of early pospartum dairy cows</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P6</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>1996</mods:dateIssued>
     </mods:originInfo>
@@ -262,7 +272,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>91 Annual Meeting ADSA</mods:title>
@@ -273,13 +282,16 @@
           <mods:placeTerm type="text">Corvallis</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-7">
     <mods:titleInfo>
       <mods:title>Effects of coccidiostats on performance and coccidia control on Holstein calves</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P7</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>1996</mods:dateIssued>
     </mods:originInfo>
@@ -325,7 +337,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>91 Annual Meeting ADSA</mods:title>
@@ -336,13 +347,16 @@
           <mods:placeTerm type="text">Corvallis</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-8">
     <mods:titleInfo>
       <mods:title>Effects of NDF and rumen degradable starch ratio on performance of mid lactation dairy cows</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P8</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>1996</mods:dateIssued>
     </mods:originInfo>
@@ -406,7 +420,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>91 Annual Meeting American Dairy Science Association</mods:title>
@@ -417,13 +430,16 @@
           <mods:placeTerm type="text">Oregon</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-14">
     <mods:titleInfo>
       <mods:title>Roteirização em Bancos de Alimentos: utilização de um modelo heurístico baseado em</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P14</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2006</mods:dateIssued>
     </mods:originInfo>
@@ -433,7 +449,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Congresso de Pesquisa e Ensino em Transportes</mods:title>
@@ -444,13 +459,16 @@
           <mods:placeTerm type="text">Brasília</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-15">
     <mods:titleInfo>
       <mods:title>Sistema de Información Geográfica Web con informaciones espaciales de input y output para expediciones</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P15</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2007</mods:dateIssued>
     </mods:originInfo>
@@ -484,7 +502,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>I Jornadas de SIG Libre</mods:title>
@@ -495,13 +512,16 @@
           <mods:placeTerm type="text">Girona</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-16">
     <mods:titleInfo>
       <mods:title>Geographic information services composition based on ontologies: modeling an application to the Food Bank´s</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P16</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2009</mods:dateIssued>
     </mods:originInfo>
@@ -523,7 +543,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Conference on Spatial Information Theory</mods:title>
@@ -534,13 +553,16 @@
           <mods:placeTerm type="text">Aber Wrac´h</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-22">
     <mods:titleInfo>
       <mods:title>Localização de depósito de suprimentos de alívio para atendimento a desastres naturais no Vale do Paraíba Paulista</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P22</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2010</mods:dateIssued>
     </mods:originInfo>
@@ -568,7 +590,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>XXIV ANPET - Congresso de Pesquisa e Ensino em Transportes</mods:title>
@@ -579,13 +600,16 @@
           <mods:placeTerm type="text">Salvador</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-31">
     <mods:titleInfo>
       <mods:title>Proposta de Aplicação de PBL nos Cursos de Engenharia.</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P31</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2008</mods:dateIssued>
     </mods:originInfo>
@@ -613,7 +637,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Congresso Brasileiro de Educação em Engenharia</mods:title>
@@ -624,13 +647,16 @@
           <mods:placeTerm type="text">São Paulo</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-38">
     <mods:titleInfo>
       <mods:title>Transportation system and land price: an investigation about its relationship based on spatial analysis</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P38</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2013</mods:dateIssued>
     </mods:originInfo>
@@ -670,7 +696,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>13a. Conferência International da LARES - Latin American Real Estate Socitey</mods:title>
@@ -681,13 +706,16 @@
           <mods:placeTerm type="text">São Paulo</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-39">
     <mods:titleInfo>
       <mods:title>Hazard areas land cover change between 1986 and 2010 in Sao Paulo City, Brazil</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P39</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2013</mods:dateIssued>
     </mods:originInfo>
@@ -721,7 +749,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>13a. Conferência International da LARES - Latin American Real Estate Socitey</mods:title>
@@ -732,13 +759,16 @@
           <mods:placeTerm type="text">São Paulo</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-41">
     <mods:titleInfo>
       <mods:title>Characterizing urban land use pattern by variograms parameters from multispectral high spatial resolution satllite images: an application in Salvador, Bahia - Brazil.</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P41</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2013</mods:dateIssued>
     </mods:originInfo>
@@ -790,7 +820,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>IGARSS 2013 - Int. Geoscience and Remote Sensing Symposium</mods:title>
@@ -801,13 +830,16 @@
           <mods:placeTerm type="text">Melbourne</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-57">
     <mods:titleInfo>
       <mods:title>Active Learning classification and change detection on multispectral images.</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P57</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2014</mods:dateIssued>
     </mods:originInfo>
@@ -829,7 +861,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>International Conference on Industrial Informatics</mods:title>
@@ -840,13 +871,16 @@
           <mods:placeTerm type="text">Porto Alegre</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-58">
     <mods:titleInfo>
       <mods:title>Estimates of forest degradation: an algorithm based on active learning, maximum likelihood and PCA for change detection.</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P58</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2014</mods:dateIssued>
     </mods:originInfo>
@@ -868,7 +902,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>IGARSS 2014 - International Geoscience and Remote Sensing Symposium</mods:title>
@@ -879,13 +912,16 @@
           <mods:placeTerm type="text">Quebec</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-73">
     <mods:titleInfo>
       <mods:title>Primeiros passos para a implementação de uma IDE universitária</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P73</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2014</mods:dateIssued>
     </mods:originInfo>
@@ -913,7 +949,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>V Simpósio Brasileiro de Ciências Geodésicas e Tecnologias da Geoinformação</mods:title>
@@ -924,13 +959,16 @@
           <mods:placeTerm type="text">Recife</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-80">
     <mods:titleInfo>
       <mods:title>Seleção de áreas adequadas para a instalação de aterro sanitário utilizando SIG e análise multicritério - estudo de caso: UGRHI 5 (Piracicaba/Capivari/Jundiaí)</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P80</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
     </mods:originInfo>
@@ -970,7 +1008,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>SBSR - XVII Simpósio Brasileiro de Sensoriamento Remoto</mods:title>
@@ -981,13 +1018,16 @@
           <mods:placeTerm type="text">João Pessoa</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-81">
     <mods:titleInfo>
       <mods:title>Análise das mudanças temporais de cobertura da terra na região portuária da Baixada Santista-SP e a proposição de modelos de dinâmica espacial</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P81</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
     </mods:originInfo>
@@ -1015,7 +1055,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Simpósio Brasileiro de Sensoriamento Remoto - SBSR,</mods:title>
@@ -1026,13 +1065,16 @@
           <mods:placeTerm type="text">João Pessoa</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-112">
     <mods:titleInfo>
       <mods:title>The negative externalities of the transportation system in megacities influenced by the industrial and comercial establishments and the urban freights flows.</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P112</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
     </mods:originInfo>
@@ -1066,7 +1108,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>CUPUM - 14th International Conference on Computers in Urban Planning and Urban Management</mods:title>
@@ -1077,13 +1118,16 @@
           <mods:placeTerm type="text">Cambridge</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-117">
     <mods:titleInfo>
       <mods:title>Comparing accessibility in urban slums using smart card and bus GPS data</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P117</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
     </mods:originInfo>
@@ -1105,7 +1149,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Transportation Research Board 95th Annual Meeting</mods:title>
@@ -1116,13 +1159,16 @@
           <mods:placeTerm type="text">Washington</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-120">
     <mods:titleInfo>
       <mods:title>Accessibility and flood risk spatial indicators as measures of vulnerability</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P120</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
     </mods:originInfo>
@@ -1144,7 +1190,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>GEOINFO - XVII Brazilian Symposium on Geoinformatics</mods:title>
@@ -1155,7 +1200,6 @@
           <mods:placeTerm type="text">Campos de Jordão</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
       <mods:identifier type="isbn">2179-4820</mods:identifier>
     </mods:relatedItem>
   </mods:mods>
@@ -1163,6 +1207,10 @@
     <mods:titleInfo>
       <mods:title>Análise e visualização de dados de rastreamento para estudos de logística urbana</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P121</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
     </mods:originInfo>
@@ -1196,7 +1244,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>XXX ANPET - Congresso de Pesquisa e Ensino em Transportes</mods:title>
@@ -1207,7 +1254,6 @@
           <mods:placeTerm type="text">Rio de Janeiro</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
       <mods:identifier type="isbn">97885878932</mods:identifier>
     </mods:relatedItem>
   </mods:mods>
@@ -1215,6 +1261,10 @@
     <mods:titleInfo>
       <mods:title>Geostatistics as a tool to map the spatio-temporal evolution of car ownership in São Paulo metropolitan area</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P149</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
     </mods:originInfo>
@@ -1248,7 +1298,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>SBSR - XVIII Simpósio Brasileiro de Sensoriamento Remoto</mods:title>
@@ -1259,7 +1308,6 @@
           <mods:placeTerm type="text">Santos</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
       <mods:identifier type="isbn">978-85-17-000</mods:identifier>
     </mods:relatedItem>
   </mods:mods>
@@ -1267,6 +1315,10 @@
     <mods:titleInfo>
       <mods:title>Learning spatial inequalities: a clustering approach</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P150</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
     </mods:originInfo>
@@ -1288,7 +1340,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>GEOINFO - XVIII Brazilian Symposium on Geoinformatics</mods:title>
@@ -1299,7 +1350,6 @@
           <mods:placeTerm type="text">Salvador</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
       <mods:identifier type="isbn">2179-4847</mods:identifier>
     </mods:relatedItem>
   </mods:mods>
@@ -1307,6 +1357,10 @@
     <mods:titleInfo>
       <mods:title>SIG e impactos cumulativos sobre a biodiversidade no contexto sucroenergético paulista</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P151</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
     </mods:originInfo>
@@ -1334,7 +1388,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>CBAI - 3° Congresso Brasileiro de Avaliação de Impactos</mods:title>
@@ -1345,7 +1398,6 @@
           <mods:placeTerm type="text">Ribeirão Preto</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
       <mods:identifier type="isbn">2446-5097</mods:identifier>
     </mods:relatedItem>
   </mods:mods>
@@ -1353,6 +1405,10 @@
     <mods:titleInfo>
       <mods:title>Does mine land rehabilitation restore ecosystem services?</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P152</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
     </mods:originInfo>
@@ -1374,7 +1430,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>24th World Mining Congress: Mining in a world of innovation</mods:title>
@@ -1385,13 +1440,16 @@
           <mods:placeTerm type="text">Rio de Janeiro</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-182">
     <mods:titleInfo>
       <mods:title>Investigating the mobility capabilities and functionings of children and their caregivers: a quantitative assessment of preschools in são paulo (brazil), with focus on walking and the right to the city.</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P182</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
     </mods:originInfo>
@@ -1419,7 +1477,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>Annual conference of the Human Development and Capability Association</mods:title>
@@ -1430,13 +1487,16 @@
           <mods:placeTerm type="text">Buenos Aires</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-216">
     <mods:titleInfo>
       <mods:title>Impactos potenciais de habitações de interesse social nas desigualdades de acessibilidade a empregos no município de São Paulo</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P216</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
     </mods:originInfo>
@@ -1458,7 +1518,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>XX GEOINFO</mods:title>
@@ -1469,13 +1528,16 @@
           <mods:placeTerm type="text">São José dos Campos</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-291">
     <mods:titleInfo>
       <mods:title>Exclusão Social Relacionada aos Transportes: A Acessibilidade é um Fator Relevante para a Inclusão Social?</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P291</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
     </mods:originInfo>
@@ -1503,7 +1565,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>34o Congresso da ANPET - Associação Nacional de Ensino e Pesquisa em Transportes</mods:title>
@@ -1514,13 +1575,16 @@
           <mods:placeTerm type="text">À distância</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-292">
     <mods:titleInfo>
       <mods:title>Travel survey tools and methods: challenges on surveys at slums.</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P292</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
     </mods:originInfo>
@@ -1560,7 +1624,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>11th International Conference on Transport Survey Methods ISCTSC</mods:title>
@@ -1571,13 +1634,16 @@
           <mods:placeTerm type="text">Quebeq</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-113">
     <mods:titleInfo>
       <mods:title>Spatial visualization of job inaccessibility to identify transport related social exclusion</mods:title>
     </mods:titleInfo>
+    <mods:typeOfResource>mixed material</mods:typeOfResource>
+    <mods:genre authority="local">presentation</mods:genre>
+    <mods:genre>presentation</mods:genre>
+    <mods:identifier type="citekey">#P113</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
     </mods:originInfo>
@@ -1605,7 +1671,6 @@
         <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:typeOfResource>text</mods:typeOfResource>
     <mods:relatedItem type="host">
       <mods:titleInfo>
         <mods:title>GEOINFO - XVI Brazilian Symposium on Geoinformatics</mods:title>
@@ -1616,7 +1681,6 @@
           <mods:placeTerm type="text">Campos de Jordão</mods:placeTerm>
         </mods:place>
       </mods:originInfo>
-      <mods:genre authority="marcgt">conference publication</mods:genre>
     </mods:relatedItem>
   </mods:mods>
   <mods:mods ID="publication-17">
@@ -5772,9 +5836,8 @@
       <mods:title>Uma plataforma para relato de problemas da cidade</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P45</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2013</mods:dateIssued>
@@ -5807,9 +5870,8 @@
       <mods:title>Diagnóstico da drenagem de águas pluviais de uma bacia hidrográfica urbana de pequeno porte: O caso do córrego Jaguaré na cidade de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P54</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2014</mods:dateIssued>
@@ -5842,9 +5904,8 @@
       <mods:title>Estudo da Mobilidade Urbana no Município de São Paulo a partir de Geoprocessamento</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P55</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -5877,9 +5938,8 @@
       <mods:title>Estudos de acessibilidade em São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P88</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -5912,9 +5972,8 @@
       <mods:title>Caracterização da acessibilidade e mobilidade urbana no município de São Paulo a partir da análise exploratória de grandes volumes de dados espaciais</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P89</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -5947,9 +6006,8 @@
       <mods:title>Geoprocessamento para análise da correlação entre tráfego veicular e internações por doenças relacionadas à poluição atmosférica.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P90</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -5982,9 +6040,8 @@
       <mods:title>Análise dos deslocamentos dos habitantes de Paraisópolis por meio   de dados espaciais de transporte coletivo e a sua relação com o ambiente urbano</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P91</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6017,9 +6074,8 @@
       <mods:title>Estudo técnico do sistema cicloviário de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P97</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6052,9 +6108,8 @@
       <mods:title>Análise espacial dos atropelamentos fatais no município de São Paulo e estudo de caso para possíveis soluções através da aplicação da Engenharia de Transportes</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P98</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6087,9 +6142,8 @@
       <mods:title>Análise do uso do transporte público pela população de baixa renda na cidade de São Paulo: estudo de caso de um fluxo crítico</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P99</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2015</mods:dateIssued>
@@ -6122,9 +6176,8 @@
       <mods:title>Estudo da mobilidade urbana na região do Capão Redondo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P123</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
@@ -6157,9 +6210,8 @@
       <mods:title>O Programa Minha Casa Minha Vida no município de São Paulo: uma análise de inserção urbana a partir de indicadores de segregação e acessibilidade</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P127</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6192,9 +6244,8 @@
       <mods:title>Mapas de fragilidade ambiental para a avaliação de riscos em zonas de interesse social de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P128</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2016</mods:dateIssued>
@@ -6227,9 +6278,8 @@
       <mods:title>Avaliação do impacto das emissões veiculares na saúde pública no município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P146</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
@@ -6262,9 +6312,8 @@
       <mods:title>A priorização de investimento no transporte público: proposta de indicadores de mobilidade urbana</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P147</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2017</mods:dateIssued>
@@ -6297,9 +6346,8 @@
       <mods:title>Avaliação da acessibilidade à educação do ensino médio do município de São Paulo através do Geoprocessamento.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P148</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -6332,9 +6380,8 @@
       <mods:title>Acessibilidade aos equipamentos de saúde no município de São Paulo.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P168</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2018</mods:dateIssued>
@@ -6362,119 +6409,13 @@
     </mods:language>
     <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="others-187">
-    <mods:titleInfo>
-      <mods:title>Shared cycling infrastructure as feeder of public transport in São Paulo</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P187</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2017</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-333900000002">
-      <mods:namePart>University of Twente</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Koen Verbuggen</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-188">
-    <mods:titleInfo>
-      <mods:title>Route choice and speed of cyclists in São Paulo</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P188</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2018</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-333900000002">
-      <mods:namePart>University of Twente</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Rutger Meester</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-189">
-    <mods:titleInfo>
-      <mods:title>Forecasting spatial and temporal variation in OD pairs - A case study from São Paulo</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P189</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2018</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-333900000002">
-      <mods:namePart>University of Twente</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Jan M. Engels</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
   <mods:mods ID="others-212">
     <mods:titleInfo>
       <mods:title>Geoprocessamento aplicado à avaliação das desigualdades e exclusão social relacionada ao transporte em cidades brasileiras</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P212</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -6507,9 +6448,8 @@
       <mods:title>Geoprocessamento aplicado à avaliação das desigualdades relacionadas à oferta do transporte público em cidades brasileiras</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P213</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -6542,9 +6482,8 @@
       <mods:title>Índice de Caminhabilidade para o município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P215</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -6577,9 +6516,8 @@
       <mods:title>Otimização dos horários de redes de transporte público utilizando algoritmo genético</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P222</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -6612,9 +6550,8 @@
       <mods:title>Impacto de nova infraestrutura de transporte no uso do solo e na acessibilidade: estudo de caso na Linha 15 - Prata do Metrô de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P240</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -6647,9 +6584,8 @@
       <mods:title>Geoprocessamento aplicado à segurança viária</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P241</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2019</mods:dateIssued>
@@ -6682,9 +6618,8 @@
       <mods:title>Indicadores espaciais de vulnerabilidade frente a doenças respiratórias contagiosas para o suporte ao planejamento urbano: estudo de caso do município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P258</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -6717,9 +6652,8 @@
       <mods:title>Uso de indicadores de acessibilidade para avaliação de desigualdades socioespaciais relacionadas à produção habitacional do programa Minha Casa Minha Vida em capitais brasileiras</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P259</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -6752,9 +6686,8 @@
       <mods:title>Proposição de indicadores de acessibilidade e mobilidade para futuros planos de transporte do município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P260</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -6787,9 +6720,8 @@
       <mods:title>Proposta de indicadores para o planejamento urbano com enfoque na mobilidade ativa e inclusiva por bicicletas: estudo de caso no município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P261</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2020</mods:dateIssued>
@@ -6817,994 +6749,13 @@
     </mods:language>
     <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="others-262">
-    <mods:titleInfo>
-      <mods:title>Comparing the performance characteristics of the Public Bike-Sharing Systems of São Paulo and Rio de Janeiro</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P262</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2020</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-333900000002">
-      <mods:namePart>University of Twente</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Paul Schilte</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-280">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P280</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2020</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Henrique Sartori Martins</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-281">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geoprocessamento aplicado ao transporte</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P281</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2020</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Patricia Santos de Oliveira</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-316">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P316</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2020</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Rafael Walter de Albuquerque</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-317">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento) - Programa de Aperfeiçoamento de Ensino (PAE)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P317</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2019</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Tainá Andreoli Bittencourt</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-318">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P318</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2019</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Bruna Pizzol</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-319">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina Geoprocessamento aplicado a transporte</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P319</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2018</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Beatriz Moura dos Santos</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-320">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina Geoprocessamento aplicado a transporte</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P320</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2018</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Fernanda Santana Carvalho</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-321">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P321</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2018</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Diego Bogado Tomasiello</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-322">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P322</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2016</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Diego Bogado Tomasiello</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-323">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P323</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2016</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Bruna Lahos de Jesus Bacic</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-324">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geoprocessamento para Engenharia Ambiental</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P324</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2016</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Juliana Siqueira-Gay</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-325">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P325</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2019</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Fernanda Tamye Irokawa</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-326">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P326</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2019</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Pedro Monzu Sanchez Pires de Campos</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-327">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P327</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2019</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Rafael de Oliveira Lombardo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-328">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P328</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2018</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>André Peres da Silva</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-329">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P329</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2018</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Larissa Yuri Onishi</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-330">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P330</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2018</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Marco Aurelio Borges</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-331">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P331</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2018</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Marcel Akira Ukai Ozaki</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-332">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geoprocessamento para Engenharia Ambiental</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P332</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2018</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Patricia Santos de Oliveira</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-333">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P333</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2017</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Andre Martuscelli</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-334">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P334</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2017</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Gustavo Moriggi Frohlich</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-335">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P335</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2017</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Pedro Henrique Sabino Ferreira</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-336">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P336</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2016</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Natalia Naomy Ishikawa</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-337">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P337</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2016</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Aline da Silva Moraes</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-338">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina Princípios de Geoprocessamento</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P338</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2015</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Juliana Gonçalves Ozawa</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-339">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina Princípios de Geoprocessamento</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P339</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2015</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Bruno Moura Arimatea das Chagas</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-340">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina Princípios de Geoprocessamento</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P340</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2015</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Nadian Julia Barbosa da Silva</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
   <mods:mods ID="others-349">
     <mods:titleInfo>
       <mods:title>Proposta de método para o cálculo do espaço viário dedicado aos diferentes modos de transporte no município de São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P349</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7837,9 +6788,8 @@
       <mods:title>Cidade Resiliente: Indicadores de planejamento urbano para monitoramento do sistema de mobilidade em situação de alagamento e inundação.</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P350</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7872,9 +6822,8 @@
       <mods:title>Revisão e proposta de indicadores para reavaliação de planejamento do transporte público na cidade de São Paulo, com foco na redução das desigualdades</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P351</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
@@ -7902,119 +6851,13 @@
     </mods:language>
     <mods:note>TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO</mods:note>
   </mods:mods>
-  <mods:mods ID="others-355">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P355</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2021</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mateus Haddad Marum</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-356">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P356</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2021</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Christian de Nazareth Teixeira</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
-  <mods:mods ID="others-357">
-    <mods:titleInfo>
-      <mods:title>Monitoria na disciplina de Geomática II (Geoprocessamento)</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
-    <mods:identifier type="citekey">#P357</mods:identifier>
-    <mods:originInfo>
-      <mods:dateIssued>2021</mods:dateIssued>
-    </mods:originInfo>
-    <mods:name type="corporate" ID="institution-006700000002">
-      <mods:namePart>Universidade de São Paulo</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">degree grantor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Giovanna Calil Rodrigues</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">author</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name type="personal">
-      <mods:namePart>Mariana Abrantes Giannotti</mods:namePart>
-      <mods:role>
-        <mods:roleTerm type="text" authority="marcrelator">thesis advisor</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:language>
-      <mods:languageTerm type="text" authority="rfc4646">Português</mods:languageTerm>
-    </mods:language>
-    <mods:note>ORIENTACAO-DE-OUTRA-NATUREZA</mods:note>
-  </mods:mods>
   <mods:mods ID="others-348">
     <mods:titleInfo>
       <mods:title>Avaliação das dinâmicas territoriais baseada na análise dos incentivos econômicos propostos pelo Plano Diretor Estratégico em São Paulo</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>text</mods:typeOfResource>
-    <mods:genre>TRabalho de Conclusão de Curso / Iniciação Científica</mods:genre>
-    <mods:genre authority="marcgt">misc</mods:genre>
-    <mods:genre authority="local">misc</mods:genre>
+    <mods:genre authority="marcgt">thesis</mods:genre>
+    <mods:genre>misc</mods:genre>
     <mods:identifier type="citekey">#P348</mods:identifier>
     <mods:originInfo>
       <mods:dateIssued>2021</mods:dateIssued>
